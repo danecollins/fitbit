@@ -14,11 +14,11 @@ Due to the API rate limiting you can't just download all of the data. In
 addition, the data will have gaps and errors in it so there needs to be a
 way to slowly gather all of the data and then clean and assemble it together.
 
-* download.pl
+* download.py
   * usage: donwload.pl yyyy-mm-dd
   * download 30 days of data starting on yyyy-mm-dd to the database
 
-* db2csv.pl
+* db2csv.py
   * usage: db2csv.pl filename.csv
   * converts the database to a csv file named filename.csv
 
