@@ -15,16 +15,16 @@ addition, the data will have gaps and errors in it so there needs to be a
 way to slowly gather all of the data and then clean and assemble it together.
 
 * download.pl
-** usage: donwload.pl yyyy-mm-dd
-** download 30 days of data starting on yyyy-mm-dd to the database
+  * usage: donwload.pl yyyy-mm-dd
+  * download 30 days of data starting on yyyy-mm-dd to the database
 
 * db2csv.pl
-** usage: db2csv.pl filename.csv
-** converts the database to a csv file named filename.csv
+  * usage: db2csv.pl filename.csv
+  * converts the database to a csv file named filename.csv
 
 * csv2db
 * db.json
-** the database to date
+  * the database to date
 
 ### Analysis
 
@@ -32,5 +32,5 @@ way to slowly gather all of the data and then clean and assemble it together.
 * which is better metric, average or median?
 * how average/median moves during the year
 * correlation of weight to activity
-** correlate weight to activity1-3, sendentary and totals
+  * correlate weight to activity1-3, sendentary and totals
 
