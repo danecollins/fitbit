@@ -41,7 +41,7 @@ d = datetime.strptime(sys.argv[1],'%Y-%m-%d')
 fdb = FbData()
 fdb.read()
 
-for i in range(0,31):
+for i in range(0,70):
 	s = activity_on_day(authd_client,d)
 	w = weight_on_day(authd_client,d)
 	s['weight'] = w

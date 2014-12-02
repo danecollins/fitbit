@@ -48,5 +48,8 @@ class FbData:
 	def num_days(self):
 		return len(self.db)
 
+	def daylist(self):
+		return(sorted(self.db.keys()))
+
 
 
