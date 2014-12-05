@@ -16,15 +16,20 @@ way to slowly gather all of the data and then clean and assemble it together.
 
 * download.py
   * usage: donwload.pl yyyy-mm-dd
-  * download 30 days of data starting on yyyy-mm-dd to the database
+  * download n days of data starting on yyyy-mm-dd to the database
 
 * db2csv.py
   * usage: db2csv.pl filename.csv
   * converts the database to a csv file named filename.csv
 
-* csv2db
+* dbfix.py
+  * deletes days that have 0 steps (missing days)
+
 * db.json
-  * the database to date
+  * the database file
+
+* fbdb.py
+  * interface to the database
 
 ### Analysis
 

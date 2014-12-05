@@ -83,10 +83,35 @@ class FbData:
 			date = datetime.strptime('%Y-%m-%d',k)
 			data['day'] = date # .year, .month, .day .isocalendar()[1]
 
-	def write_csv(self,filename):
-		pass
+	def write_csv(self,fp):
+		# Day Format:
+		# {'distance': 6.92, 'margcal': 0, 'steps': 14136, 'active3': 0, 
+		#  'weight': 183.9, 'active1': 670, 'sedentary': 770, 'calories': 2125, 
+		#  'actcal': 1225, 'active2': 0}		
 
+		## standard field to output
+		fields_out = ['distance','steps','weight','active1','active2','active3',\
+		              'sedentary','calories','actcal']
 
+		## additional field to write out that are computed
+		date = 'date'
+		month = 'month'
+		year = 'year'
 
+		for x in fields_out:
+			fp.write(x + ",")
+		fp.write(date  + ",")
+		fp.write(month + ",")
+		fp.write(year  + "\n")
 
+		for date in self.daylist():
+			day = self.db[date]
+			for x in fields_out:
+				fp.write(str(day[x]) + ",")
+			fp.write(date + ",")
+			sdate = datetime.datetime.strptime(date,'%Y-%m-%d')
+			fp.write(str(sdate.month)  + ",")
+			fp.write(str(sdate.year)   + "\n")
+
+		
 
