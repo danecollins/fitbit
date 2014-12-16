@@ -51,6 +51,11 @@ class FbData:
 	def exists(self,date):
 		return date in self.db
 
+	def add_biking(self, date, dist):
+		if self.exists(date):
+			d = self.db[date]
+			d['biking'] = dist
+
 	def num_days(self):
 		return len(self.db)
 
@@ -91,7 +96,7 @@ class FbData:
 
 		## standard field to output
 		fields_out = ['distance','steps','weight','active1','active2','active3',\
-		              'sedentary','calories','actcal']
+		              'sedentary','calories','actcal','biking']
 
 		## additional field to write out that are computed
 		date = 'date'
@@ -107,7 +112,8 @@ class FbData:
 		for date in self.daylist():
 			day = self.db[date]
 			for x in fields_out:
-				fp.write(str(day[x]) + ",")
+				val = day[x] if x in day else 0.0
+				fp.write(str(val) + ",")
 			fp.write(date + ",")
 			sdate = datetime.datetime.strptime(date,'%Y-%m-%d')
 			fp.write(str(sdate.month)  + ",")
