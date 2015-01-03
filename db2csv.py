@@ -5,6 +5,11 @@ import sys
  
 from fbdb import FbData
 
+
+if len(sys.argv) != 2:
+	print('Usage: python db2csv.py outputfile')
+	exit(0)
+	
 fbd = FbData()
 fbd.read()
 

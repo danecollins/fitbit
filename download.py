@@ -32,17 +32,25 @@ def activity_on_day(c,d):
 	return(summary)
 
 
+if len(sys.argv) != 3:
+	print('Usage: python download.py [startdate] [enddate]')
+	exit(0)
+
 (consumer_key, consumer_secret, oa) = dane_key()
 authd_client = fitbit.Fitbit(consumer_key, consumer_secret, resource_owner_key=oa['oauth_token'], resource_owner_secret=oa['oauth_token_secret'])
 
 
+
 oneday = timedelta(1)
 d = datetime.strptime(sys.argv[1],'%Y-%m-%d')
+de = datetime.strptime(sys.argv[2],'%Y-%m-%d')
+
 fdb = FbData()
 fdb.read()
 
 ## get data one day at a time
-for i in range(0,7):
+
+while d <= de:
 	s = activity_on_day(authd_client,d)
 	w = weight_on_day(authd_client,d)
 	s['weight'] = w
