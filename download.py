@@ -4,9 +4,10 @@ from collections import defaultdict,Counter
  
 import fitbit
 from datetime import datetime,timedelta
-from keys import dane_key
+from keys import dane_fitbit_key
 from fbdb import FbData
 import sys
+import time
 
 
 def weight_on_day(c, d):
@@ -32,21 +33,30 @@ def activity_on_day(c,d):
 	return(summary)
 
 
-if len(sys.argv) != 3:
-	print('Usage: python download.py [startdate] [enddate]')
+if len(sys.argv) != 4:
+	print('Usage: python download.py dane|cindy startdate enddate')
 	exit(0)
 
-(consumer_key, consumer_secret, oa) = dane_key()
+(consumer_key, consumer_secret, dane_oa, cindy_oa) = dane_fitbit_key()
+if sys.argv[1] == 'dane':
+	oa = dane_oa
+elif sys.argv[1] == 'cindy':
+	oa = cindy_oa
+else:
+	print( '{} is not a valid user'.format(sys.argv[1]))
+	exit(1)
+
+
 authd_client = fitbit.Fitbit(consumer_key, consumer_secret, resource_owner_key=oa['oauth_token'], resource_owner_secret=oa['oauth_token_secret'])
 
 
-
 oneday = timedelta(1)
-d = datetime.strptime(sys.argv[1],'%Y-%m-%d')
-de = datetime.strptime(sys.argv[2],'%Y-%m-%d')
+d = datetime.strptime(sys.argv[2],'%Y-%m-%d')
+de = datetime.strptime(sys.argv[3],'%Y-%m-%d')
 
 fdb = FbData()
 fdb.read()
+fdb.set_user(sys.argv[1])
 
 ## get data one day at a time
 
@@ -58,6 +68,7 @@ while d <= de:
 	print('getting data for {}'.format(day))
 	fdb.add_day(day,s)
 	d = d + oneday
+	fdb.write()
+	time.sleep(60)
 
-fdb.write()
 authd_client.sleep()
