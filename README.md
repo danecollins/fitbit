@@ -15,8 +15,10 @@ addition, the data will have gaps and errors in it so there needs to be a
 way to slowly gather all of the data and then clean and assemble it together.
 
 * download.py
-  * usage: donwload.pl yyyy-mm-dd
-  * download n days of data starting on yyyy-mm-dd to the database
+  * usage: donwload.pl <user> <start> <end>
+  * download days from start to end (inclusive)
+  * start and end are in yyyy-mm-dd format
+  * user is one of the users for which keys have been configured
 
 * db2csv.py
   * usage: db2csv.pl filename.csv
@@ -27,11 +29,19 @@ way to slowly gather all of the data and then clean and assemble it together.
 
 * db.json
   * the database file
+  * included database is to use as an example, you should delete this
+    before downloading your own data
 
 * fbdb.py
   * interface to the database
 
+* days.py <user>
+  * lists the range of dates for which there is data in the database
+
 ### Analysis
+
+Currently all the analysis is performed in R. This needs to be moved to an
+iPython notebook.
 
 * average and median steps, steps/week, steps/month
 * which is better metric, average or median?
@@ -39,3 +49,7 @@ way to slowly gather all of the data and then clean and assemble it together.
 * correlation of weight to activity
   * correlate weight to activity1-3, sendentary and totals
 
+### Requirements
+
+* Python 2.6+
+* fitbit

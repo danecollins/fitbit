@@ -1,6 +1,5 @@
 *.pyc
 *~
-keys.py
 test.db
 .Rproj.user
 .RData
