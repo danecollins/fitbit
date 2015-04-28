@@ -60,7 +60,7 @@ if Old_Version:
 
 def read_csv(filename, encoding='utf-8',
              ignore_after_header=0, ignore_after_blank=True,
-             fields=[], header=True, max_rows=False,
+             fields=False, header=True, max_rows=False,
              **kwargs):
 
     lineno = 0
@@ -83,7 +83,7 @@ def read_csv(filename, encoding='utf-8',
         reader = csv.reader(fp, **kwargs)
 
     # If fields are passed in use them for the header otherwise read from file
-    if len(fields) == 0:
+    if not fields:
         fields = next(reader)
         lineno += 1
         fields = [x.replace(' ', '_') for x in fields]
