@@ -8,14 +8,14 @@ are no analytics available and no way to build your on on that site so
 the purpose of this package are to download all the data and then perform
 some analytics on the data
 
-### Data Structure
+### Scripts in this Package
 
 Due to the API rate limiting you can't just download all of the data. In 
 addition, the data will have gaps and errors in it so there needs to be a
 way to slowly gather all of the data and then clean and assemble it together.
 
 * download.py
-  * usage: donwload.pl <user> <start> <end>
+  * usage: donwload.pl user start end
   * download days from start to end (inclusive)
   * start and end are in yyyy-mm-dd format
   * user is one of the users for which keys have been configured
@@ -48,6 +48,45 @@ iPython notebook.
 * how average/median moves during the year
 * correlation of weight to activity
   * correlate weight to activity1-3, sendentary and totals
+
+### Examples
+
+##### Setup
+You need to setup your Fitbit keys by setting the environment variables.  See keys.py for instructions on the variables to set. You can set this up to work for multiple users at once.
+
+You should delete db.json so you can setup your own.
+
+##### Loading up the database
+
+```
+~/src/fitbit> python download.py dane 2015-03-01 2015-03-05
+got data for 2015-03-01
+got data for 2015-03-02
+got data for 2015-03-03
+got data for 2015-03-04
+got data for 2015-03-05
+```
+
+##### Checking range of data available
+
+```
+~/src/fitbit> python days.py dane
+Start = 2012-11-01
+End   = 2015-03-31
+```
+
+##### Generating a CSV file
+
+```
+~/src/fitbit> python db2csv.py dane Q1.csv 2015-01-01 2015-03-31
+~/src/fitbit> head -n 5 Q1.csv
+distance,steps,weight,active1,active2,active3,sedentary,calories,actcal,biking,date,month,year,user
+8.52,17393,158,61,65,110,1204,2691,1375,0.0,2015-01-01,1,2015,dane
+9.44,19283,158.2,68,131,88,1153,2802,1546,0.0,2015-01-02,1,2015,dane
+8.68,17724,157.6,63,53,122,1202,2706,1401,0.0,2015-01-03,1,2015,dane
+9.31,19018,157.6,103,133,98,1106,2848,1639,0.0,2015-01-04,1,2015,dane
+```
+
 
 ### Requirements
 
