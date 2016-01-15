@@ -8,6 +8,27 @@ are no analytics available and no way to build your on on that site so
 the purpose of this package are to download all the data and then perform
 some analytics on the data
 
+This package is based on python-fitbit (https://github.com/orcasgit/python-fitbit)
+which does all the heavy lifting.  The purpose of this package is to add:
+* a simple local cache of the fitbit data
+* a rate limiting download capability to build the local cache
+* simple routine to convert the data to a .csv so it can be analyzed.
+
+The local database can support multiple users but this needs more work. 
+Currently most things force you to specify which user you want rather than
+handling all users at once.  This is a work-in-progress.
+
+### Requirements
+* fitbit package: install with pip install fitbit
+  this may only run in python 2.7, not sure.
+
+* to get your fitbit keys you need to run gather-keys which you get from
+  https://github.com/orcasgit/python-fitbit
+  keys.py explains how to set the keys as environment variables
+
+
+
+
 ### Scripts in this Package
 
 Due to the API rate limiting you can't just download all of the data. In 
@@ -19,6 +40,9 @@ way to slowly gather all of the data and then clean and assemble it together.
   * download days from start to end (inclusive)
   * start and end are in yyyy-mm-dd format
   * user is one of the users for which keys have been configured
+  * will rate limit, if you ask for more than 60 days it will only ask for
+    one day per minute to prevent triggering fitbit's rate limit.  It goes 
+    slow but lets you download data for an unlimited range of dates.
 
 * db2csv.py
   * usage: db2csv.pl filename.csv
