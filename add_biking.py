@@ -20,6 +20,7 @@ def add_biking_data():
 
     fbd = FbData()
     fbd.read()
+    fbd.set_user('dane')
 
     print("\nDatabase contains %d entries" % len(fbd.daylist()))
 
@@ -27,16 +28,9 @@ def add_biking_data():
     print('Read %d binking entries' % len(rows))
 
     for r in rows:
-        d1 = float(r.FX75) if r.FX75 != '' else 0.0
-        d2 = float(r.FX77) if r.FX77 != '' else 0.0
-        d3 = float(r.Other) if r.Other != '' else 0.0
-        d4 = float(r.BB) if r.BB != '' else 0.0
-        (month, day, year) = r.day.split('/')
-        date = '%d-%02d-%02d' % (int(year) + 2000, int(month), int(day))
-        dist[date] = d1 + d2 + d3 + d4
-        print('%s - %f' % (date, dist[date]))
-        fbd.add_biking(date, dist[date])
-
+        fbd.add_biking(r.day, float(r.distance))
+        print(r.day, r.distance)
+    
     fbd.write()
 
 if __name__ == '__main__':
