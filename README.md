@@ -22,8 +22,11 @@ handling all users at once.  This is a work-in-progress.
 * fitbit package: install with pip install fitbit
   this may only run in python 2.7, not sure.
 
-* to get your fitbit keys you need to run gather-keys which you get from
-  https://github.com/orcasgit/python-fitbit
+* to get your fitbit keys:
+  1. Download https://github.com/orcasgit/python-fitbit
+  2. Follow instructions to install required packages
+  3. Go to dev.fitbit.com and create an app
+  4. 
   keys.py explains how to set the keys as environment variables
 
 
