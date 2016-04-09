@@ -5,7 +5,7 @@ import sys
 from fbdb import FbData
 
 
-def dump_data():
+def fb_data_to_long():
     if len(sys.argv) < 2:
         print('\nUsage: python db2long.py filename')
         exit(0)
@@ -20,8 +20,26 @@ def dump_data():
             for date_str, data in fdb.db[user].items():
                 for k, v in data.items():
                     if k not in ['actcal', 'active1', 'active2', 'active3', 'margcal', 'sedentary', 'date', 'who']:
-                        if not (k == 'weight' and v == 0):
-                            print('{},{},{},{}'.format(date_str, user, k, v), file=fp)
+                        if not (k == 'weight' and v == 0):  # don't output weights of 0
+                            print('{},{}_{},{}'.format(date_str, k, user, v), file=fp)
 
+def weather_to_long():
+    if len(sys.argv) < 2:
+        print('\nUsage: python db2long.py filename')
+        exit(0)
+
+    fn = sys.argv[1]
+
+    with open('weather.csv') as fin:
+        lines = fin.readlines()
+
+    with open(fn, 'w') as fp:
+        line = lines[0].strip()
+        fields = line.split(',')
+        for line in lines[1:]:
+            line = line.strip()
+            data = line.split(',')
+            for k, v in zip(fields[1:], data[1:]):
+                print('{},{},{}'.format(data[0], k, v), file=fp)
 if __name__ == '__main__':
-    dump_data()
+    weather_to_long()
