@@ -2,11 +2,12 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 import fitbit
+import json
 from datetime import datetime
 from datetime import timedelta
-from keys import fitbit_key
 from fbdb import FbData
 import sys
+import os
 import time
 
 #######################################################################
@@ -20,6 +21,20 @@ import time
 #
 # Script collects both step data and weight data.  It does not collect
 # any data on food or water intake.
+
+user_key_files = {
+    "dane": "dane_fitbit_key.json",
+    "cindy": "cindy_fitbit_key.json",
+}
+
+
+def read_key(key_file):
+    with open(key_file) as fp:
+        data = json.load(fp)
+
+    data.setdefault('client_id', os.environ['FITBIT_CLIENT_ID'])
+    data.setdefault('client_secret', os.environ['FITBIT_CLIENT_SECRET'])
+    return data
 
 
 def weight_on_day(c, d):
@@ -52,18 +67,17 @@ def get_data():
         print('Usage: python download.py user startdate enddate')
         exit(0)
 
-    (consumer_key, consumer_secret, oakeys) = fitbit_key()
-    if sys.argv[1] in oakeys:
-        oa = oakeys[sys.argv[1]]
+    if sys.argv[1] in user_key_files:
+        key_data = read_key(user_key_files[sys.argv[1]])
     else:
         print('\nUsage: python download.py [user] [startdate] [enddate]')
-        print('     where user is one of {}'.format(oakeys.keys()))
+        print('     where user is one of {}'.format(user_key_files.keys()))
         exit(1)
 
-    authd_client = fitbit.Fitbit(consumer_key,
-                                 consumer_secret,
-                                 resource_owner_key=oa['oauth_token'],
-                                 resource_owner_secret=oa['oauth_token_secret'])
+    authd_client = fitbit.Fitbit(key_data['client_id'],
+                                 key_data['client_secret'],
+                                 access_token=key_data['access_token'],
+                                 refresh_token=key_data['refresh_token'])
 
     oneday = timedelta(1)
     d = datetime.strptime(sys.argv[2], '%Y-%m-%d')
@@ -98,7 +112,7 @@ def get_data():
         d = d + oneday
         fdb.write()
         if throttle:
-            time.sleep(60)
+            time.sleep(10)
 
     authd_client.sleep()
 

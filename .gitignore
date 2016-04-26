@@ -4,3 +4,6 @@ test.db
 .Rproj.user
 .RData
 .Rhistory
+cindy_fitbit_key.json
+dane_fitbit_key.json
+.idea/

@@ -9,28 +9,37 @@ the purpose of this package are to download all the data and then perform
 some analytics on the data
 
 This package is based on python-fitbit (https://github.com/orcasgit/python-fitbit)
-which does all the heavy lifting.  The purpose of this package is to add:
-* a simple local cache of the fitbit data
+The purpose of this package is to add:
+* a simple local cache of the fitbit data which can be added to incrementally
 * a rate limiting download capability to build the local cache
 * simple routine to convert the data to a .csv so it can be analyzed.
+* some scripts to allow integration of other exercise or weather data
 
 The local database can support multiple users but this needs more work. 
 Currently most things force you to specify which user you want rather than
 handling all users at once.  This is a work-in-progress.
 
 ### Requirements
-* fitbit package: install with pip install fitbit
-  this may only run in python 2.7, not sure.
+* requirements.txt contains all the requirements
+
+With the change to oauth2, getting your keys is now a little more challenging.
 
 * to get your fitbit keys:
-  1. Download https://github.com/orcasgit/python-fitbit
-  2. Follow instructions to install required packages
-  3. Go to dev.fitbit.com and create an app
-  4. 
-  keys.py explains how to set the keys as environment variables
+  1. install all the requirements (pip -r requirements.txt)
+  2. Go to dev.fitbit.com and create an app
+     * Set 'Application Website' to: http://localhost:8080/
+     * Set 'OAuth 2.0 Application Type' to: Client
+     * Set 'Callback URL' to: http://localhost:8080/
+     *** note the trailing / on those URL's is VERY IMPORTANT
+  4. Set an environment variable named FITBIT\_CLIENT\_ID to the value of 'OAuth 2.0 Client ID'
+  5. Set an environment variable named FITBIT\_CLIENT\_SECRET to the value of 'Client Secret'
+  6. In your default browser go to http://fitbit.com and log into the account whose data you want to access
+  7. Keys are stored in a json file for later use.  run: python get\_keys key\_filename
 
+### Setup
 
-
+Users are mapped to their key file by a dict at the top of download.py.  You must edit this dict
+based on the users you want to have.
 
 ### Scripts in this Package
 
