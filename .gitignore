@@ -1,4 +1,9 @@
 cindy.csv
 dane.csv
 info.txt
-dane_fitbit_key.json
+data/dane.json
+data/weather.json
+data/cindy.json
+keys/dane.key
+keys/cindy.key
+*.pyc
