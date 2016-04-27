@@ -1,0 +1,56 @@
+{
+  "testuser": {
+    "2014-11-02": {
+      "active2": 0,
+      "active3": 0,
+      "calories": 2015,
+      "active1": 0,
+      "margcal": 0,
+      "actcal": 0,
+      "weight": 184.2,
+      "sedentary": 1440,
+      "date": "2014-11-02",
+      "distance": 4.72,
+      "steps": 9642
+    },
+    "2014-11-03": {
+      "active2": 0,
+      "active3": 0,
+      "calories": 1977,
+      "active1": 0,
+      "margcal": 0,
+      "actcal": 0,
+      "weight": 184.2,
+      "sedentary": 1440,
+      "date": "2014-11-03",
+      "distance": 4.92,
+      "steps": 10049
+    },
+    "2014-11-04": {
+      "active2": 0,
+      "active3": 0,
+      "calories": 2125,
+      "active1": 670,
+      "margcal": 0,
+      "actcal": 1225,
+      "weight": 183.9,
+      "sedentary": 770,
+      "date": "2014-11-04",
+      "distance": 6.92,
+      "steps": 14136
+    },
+    "2014-11-01": {
+      "active2": 0,
+      "active3": 0,
+      "calories": 2322,
+      "active1": 540,
+      "margcal": 0,
+      "actcal": 1269,
+      "weight": 184.5,
+      "sedentary": 900,
+      "date": "2014-11-01",
+      "distance": 7.74,
+      "steps": 15798
+    }
+  }
+}

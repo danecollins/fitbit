@@ -4,7 +4,6 @@ from collections import defaultdict,Counter
  
 import fitbit
 from datetime import datetime,timedelta
-from keys import dane_key
 from fbdb import FbData
 import sys
 

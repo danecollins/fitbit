@@ -24,7 +24,7 @@ handling all users at once.  This is a work-in-progress.
 
 With the change to oauth2, getting your keys is now a little more challenging.
 
-* to get your fitbit keys:
+To get your fitbit keys:
   1. install all the requirements (pip -r requirements.txt)
   2. Go to dev.fitbit.com and create an app
      * Set 'Application Website' to: http://localhost:8080/
@@ -122,9 +122,3 @@ distance,steps,weight,active1,active2,active3,sedentary,calories,actcal,biking,d
 8.68,17724,157.6,63,53,122,1202,2706,1401,0.0,2015-01-03,1,2015,dane
 9.31,19018,157.6,103,133,98,1106,2848,1639,0.0,2015-01-04,1,2015,dane
 ```
-
-
-### Requirements
-
-* Python 2.6+
-* fitbit
