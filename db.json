@@ -14,6 +14,20 @@
       "sedentary": 1137, 
       "actcal": 1487
     }, 
+    "2014-10-16": {
+      "distance": 9.76, 
+      "margcal": 1046, 
+      "weight": 0, 
+      "active1": 35, 
+      "who": "dane", 
+      "calories": 2804, 
+      "active3": 144, 
+      "active2": 60, 
+      "steps": 19943, 
+      "date": "2014-10-16", 
+      "sedentary": 1201, 
+      "actcal": 1503
+    }, 
     "2015-12-07": {
       "distance": 8.4, 
       "margcal": 890, 
@@ -523,6 +537,21 @@
       "biking": 13.3, 
       "actcal": 1446
     }, 
+    "2013-01-31": {
+      "distance": 4.22, 
+      "margcal": 0, 
+      "weight": 181.6, 
+      "active1": 661, 
+      "who": "dane", 
+      "calories": 2060, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 8624, 
+      "date": "2013-01-31", 
+      "sedentary": 779, 
+      "biking": 14.7, 
+      "actcal": 1156
+    }, 
     "2013-07-02": {
       "distance": 4.84, 
       "margcal": 0, 
@@ -607,6 +636,19 @@
       "sedentary": 769, 
       "biking": 9.8, 
       "actcal": 1302
+    }, 
+    "2016-03-29": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
     }, 
     "2015-07-05": {
       "distance": 10.34, 
@@ -732,21 +774,6 @@
       "biking": 12.6, 
       "actcal": 1293
     }, 
-    "2013-02-18": {
-      "distance": 5.27, 
-      "margcal": 0, 
-      "weight": 180, 
-      "active1": 565, 
-      "who": "dane", 
-      "calories": 2091, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 10753, 
-      "date": "2013-02-18", 
-      "sedentary": 875, 
-      "biking": 6.0, 
-      "actcal": 1080
-    }, 
     "2014-01-26": {
       "distance": 8.92, 
       "margcal": 1001, 
@@ -787,6 +814,20 @@
       "date": "2015-12-26", 
       "sedentary": 1129, 
       "actcal": 1354
+    }, 
+    "2014-02-15": {
+      "distance": 7.36, 
+      "margcal": 796, 
+      "weight": 0, 
+      "calories": 2557, 
+      "who": "dane", 
+      "active1": 65, 
+      "active3": 94, 
+      "active2": 70, 
+      "steps": 15040, 
+      "date": "2014-02-15", 
+      "sedentary": 1211, 
+      "actcal": 1231
     }, 
     "2013-07-14": {
       "distance": 6.65, 
@@ -932,6 +973,32 @@
       "biking": 6.0, 
       "actcal": 0
     }, 
+    "2016-03-17": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
+    "2016-03-16": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
     "2013-07-18": {
       "distance": 5, 
       "margcal": 0, 
@@ -962,18 +1029,45 @@
       "biking": 10.0, 
       "actcal": 1425
     }, 
-    "2015-02-03": {
-      "distance": 5.04, 
-      "margcal": 552, 
-      "weight": 155.9, 
-      "calories": 2253, 
-      "active1": 67, 
-      "active3": 45, 
-      "active2": 79, 
-      "steps": 10289, 
-      "date": "2015-02-03", 
-      "sedentary": 1249, 
-      "actcal": 900
+    "2016-03-13": {
+      "distance": 9.21, 
+      "margcal": 1064, 
+      "weight": 0, 
+      "active1": 225, 
+      "calories": 2872, 
+      "active3": 57, 
+      "active2": 63, 
+      "steps": 18805, 
+      "date": "2016-03-13", 
+      "sedentary": 1095, 
+      "actcal": 1690
+    }, 
+    "2016-03-12": {
+      "distance": 10.71, 
+      "margcal": 1035, 
+      "weight": 159, 
+      "active1": 268, 
+      "calories": 2888, 
+      "active3": 43, 
+      "active2": 89, 
+      "steps": 21877, 
+      "date": "2016-03-12", 
+      "sedentary": 1040, 
+      "actcal": 1766
+    }, 
+    "2015-12-29": {
+      "distance": 9.46, 
+      "margcal": 886, 
+      "weight": 0, 
+      "calories": 2628, 
+      "active1": 97, 
+      "active3": 58, 
+      "active2": 103, 
+      "steps": 19323, 
+      "date": "2015-12-29", 
+      "sedentary": 1182, 
+      "biking": 12.4, 
+      "actcal": 1348
     }, 
     "2014-03-31": {
       "distance": 5.47, 
@@ -1032,6 +1126,20 @@
       "sedentary": 1440, 
       "actcal": 0
     }, 
+    "2015-05-18": {
+      "distance": 9.07, 
+      "margcal": 959, 
+      "weight": 158.1, 
+      "active1": 157, 
+      "calories": 2774, 
+      "active3": 75, 
+      "active2": 82, 
+      "steps": 18521, 
+      "date": "2015-05-18", 
+      "sedentary": 1126, 
+      "biking": 15.2, 
+      "actcal": 1551
+    }, 
     "2013-04-10": {
       "distance": 5.05, 
       "margcal": 0, 
@@ -1060,6 +1168,19 @@
       "sedentary": 1092, 
       "biking": 17.6, 
       "actcal": 1917
+    }, 
+    "2015-11-13": {
+      "distance": 10.35, 
+      "margcal": 1118, 
+      "weight": 156.7, 
+      "calories": 2903, 
+      "active1": 158, 
+      "active3": 110, 
+      "active2": 49, 
+      "steps": 21128, 
+      "date": "2015-11-13", 
+      "sedentary": 1123, 
+      "actcal": 1690
     }, 
     "2013-09-03": {
       "distance": 9.18, 
@@ -1425,6 +1546,35 @@
       "sedentary": 1188, 
       "actcal": 1352
     }, 
+    "2012-12-17": {
+      "distance": 4.79, 
+      "margcal": 0, 
+      "weight": 188.4, 
+      "calories": 2008, 
+      "who": "dane", 
+      "active1": 0, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 9788, 
+      "date": "2012-12-17", 
+      "sedentary": 1440, 
+      "actcal": 0
+    }, 
+    "2014-03-07": {
+      "distance": 10.05, 
+      "margcal": 1082, 
+      "weight": 157.4, 
+      "active1": 66, 
+      "who": "dane", 
+      "calories": 2890, 
+      "active3": 92, 
+      "active2": 169, 
+      "steps": 20521, 
+      "date": "2014-03-07", 
+      "sedentary": 1113, 
+      "biking": 19.6, 
+      "actcal": 1679
+    }, 
     "2014-01-27": {
       "distance": 8.36, 
       "margcal": 919, 
@@ -1585,6 +1735,20 @@
       "sedentary": 1053, 
       "actcal": 2596
     }, 
+    "2012-12-14": {
+      "distance": 4.54, 
+      "margcal": 0, 
+      "weight": 189, 
+      "calories": 2037, 
+      "who": "dane", 
+      "active1": 0, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 9279, 
+      "date": "2012-12-14", 
+      "sedentary": 1440, 
+      "actcal": 0
+    }, 
     "2014-03-02": {
       "distance": 8.66, 
       "margcal": 928, 
@@ -1613,6 +1777,34 @@
       "sedentary": 1084, 
       "biking": 18.8, 
       "actcal": 1840
+    }, 
+    "2013-04-04": {
+      "distance": 5.55, 
+      "margcal": 0, 
+      "weight": 170.9, 
+      "calories": 2057, 
+      "who": "dane", 
+      "active1": 757, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 11336, 
+      "date": "2013-04-04", 
+      "sedentary": 683, 
+      "actcal": 1287
+    }, 
+    "2012-12-12": {
+      "distance": 6.08, 
+      "margcal": 0, 
+      "weight": 0, 
+      "calories": 2196, 
+      "who": "dane", 
+      "active1": 583, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 12427, 
+      "date": "2012-12-12", 
+      "sedentary": 857, 
+      "actcal": 1178
     }, 
     "2015-02-19": {
       "distance": 11.97, 
@@ -1894,6 +2086,19 @@
       "sedentary": 1178, 
       "actcal": 1419
     }, 
+    "2015-07-21": {
+      "distance": 5.826722, 
+      "margcal": 0, 
+      "weight": 159.1, 
+      "active1": 840, 
+      "calories": 2469, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 11900, 
+      "date": "2015-07-21", 
+      "sedentary": 600, 
+      "actcal": 1820
+    }, 
     "2013-05-16": {
       "distance": 4.83, 
       "margcal": 0, 
@@ -1922,20 +2127,6 @@
       "sedentary": 1132, 
       "biking": 19.3, 
       "actcal": 1545
-    }, 
-    "2013-05-21": {
-      "distance": 4.53, 
-      "margcal": 0, 
-      "weight": 163, 
-      "calories": 1847, 
-      "who": "dane", 
-      "active1": 0, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 9260, 
-      "date": "2013-05-21", 
-      "sedentary": 1440, 
-      "actcal": 0
     }, 
     "2013-05-17": {
       "distance": 7.71, 
@@ -2092,6 +2283,20 @@
       "sedentary": 808, 
       "actcal": 1125
     }, 
+    "2015-02-09": {
+      "distance": 13.39, 
+      "margcal": 1524, 
+      "weight": 0, 
+      "calories": 3422, 
+      "active1": 121, 
+      "active3": 183, 
+      "active2": 47, 
+      "steps": 27347, 
+      "date": "2015-02-09", 
+      "sedentary": 1089, 
+      "biking": 11.6, 
+      "actcal": 2187
+    }, 
     "2013-05-13": {
       "distance": 6.01, 
       "margcal": 664, 
@@ -2179,6 +2384,21 @@
       "sedentary": 739, 
       "biking": 13.0, 
       "actcal": 1598
+    }, 
+    "2013-02-22": {
+      "distance": 4.59, 
+      "margcal": 0, 
+      "weight": 177.7, 
+      "active1": 647, 
+      "who": "dane", 
+      "calories": 2132, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 9367, 
+      "date": "2013-02-22", 
+      "sedentary": 793, 
+      "biking": 16.0, 
+      "actcal": 1221
     }, 
     "2014-08-01": {
       "distance": 12.25, 
@@ -2281,20 +2501,6 @@
       "date": "2014-08-06", 
       "sedentary": 1223, 
       "actcal": 1204
-    }, 
-    "2013-05-23": {
-      "distance": 10.03, 
-      "margcal": 820, 
-      "weight": 0, 
-      "calories": 2654, 
-      "who": "dane", 
-      "active1": 820, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 20476, 
-      "date": "2013-05-23", 
-      "sedentary": 620, 
-      "actcal": 1969
     }, 
     "2014-10-28": {
       "distance": 3.92, 
@@ -3086,6 +3292,21 @@
       "biking": 11.6, 
       "actcal": 1869
     }, 
+    "2013-01-15": {
+      "distance": 5.42, 
+      "margcal": 0, 
+      "weight": 181.9, 
+      "active1": 651, 
+      "who": "dane", 
+      "calories": 2125, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 11077, 
+      "date": "2013-01-15", 
+      "sedentary": 789, 
+      "biking": 12.1, 
+      "actcal": 1208
+    }, 
     "2014-05-27": {
       "distance": 8.17, 
       "margcal": 889, 
@@ -3128,21 +3349,6 @@
       "sedentary": 1155, 
       "biking": 17.8, 
       "actcal": 1344
-    }, 
-    "2013-05-20": {
-      "distance": 6.96, 
-      "margcal": 622, 
-      "weight": 163.2, 
-      "calories": 2393, 
-      "who": "dane", 
-      "active1": 622, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 14222, 
-      "date": "2013-05-20", 
-      "sedentary": 818, 
-      "biking": 15.0, 
-      "actcal": 1491
     }, 
     "2014-05-21": {
       "distance": 9.3, 
@@ -3213,20 +3419,6 @@
       "date": "2014-08-15", 
       "sedentary": 1174, 
       "actcal": 1402
-    }, 
-    "2014-06-04": {
-      "distance": 8.56, 
-      "margcal": 929, 
-      "weight": 0, 
-      "active1": 72, 
-      "who": "dane", 
-      "calories": 2718, 
-      "active3": 108, 
-      "active2": 85, 
-      "steps": 17478, 
-      "date": "2014-06-04", 
-      "sedentary": 1175, 
-      "actcal": 1422
     }, 
     "2013-10-29": {
       "distance": 7.62, 
@@ -3486,6 +3678,34 @@
       "sedentary": 1145, 
       "actcal": 1855
     }, 
+    "2015-03-26": {
+      "distance": 10.39, 
+      "margcal": 1106, 
+      "weight": 0, 
+      "calories": 2900, 
+      "active1": 61, 
+      "active3": 111, 
+      "active2": 136, 
+      "steps": 21224, 
+      "date": "2015-03-26", 
+      "sedentary": 1132, 
+      "biking": 15.4, 
+      "actcal": 1674
+    }, 
+    "2015-10-23": {
+      "distance": 10.05, 
+      "margcal": 1078, 
+      "weight": 0, 
+      "active1": 86, 
+      "calories": 2827, 
+      "active3": 131, 
+      "active2": 47, 
+      "steps": 20528, 
+      "date": "2015-10-23", 
+      "sedentary": 1176, 
+      "biking": 13.0, 
+      "actcal": 1562
+    }, 
     "2014-02-09": {
       "distance": 9.61, 
       "margcal": 1072, 
@@ -3513,6 +3733,20 @@
       "date": "2014-02-08", 
       "sedentary": 1190, 
       "actcal": 1332
+    }, 
+    "2012-12-15": {
+      "distance": 8.31, 
+      "margcal": 449, 
+      "weight": 190, 
+      "calories": 2312, 
+      "who": "dane", 
+      "active1": 449, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 16966, 
+      "date": "2012-12-15", 
+      "sedentary": 991, 
+      "actcal": 1135
     }, 
     "2013-04-15": {
       "distance": 5.67, 
@@ -4285,6 +4519,20 @@
       "sedentary": 1164, 
       "actcal": 1675
     }, 
+    "2013-05-11": {
+      "distance": 9.74, 
+      "margcal": 705, 
+      "weight": 165.5, 
+      "calories": 2615, 
+      "who": "dane", 
+      "active1": 705, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 19889, 
+      "date": "2013-05-11", 
+      "sedentary": 735, 
+      "actcal": 1799
+    }, 
     "2015-01-23": {
       "distance": 7.56, 
       "margcal": 831, 
@@ -4297,19 +4545,6 @@
       "date": "2015-01-23", 
       "sedentary": 1133, 
       "actcal": 1383
-    }, 
-    "2015-12-13": {
-      "distance": 9.91, 
-      "margcal": 1018, 
-      "weight": 162, 
-      "calories": 2917, 
-      "active1": 297, 
-      "active3": 35, 
-      "active2": 104, 
-      "steps": 20241, 
-      "date": "2015-12-13", 
-      "sedentary": 1004, 
-      "actcal": 1825
     }, 
     "2014-04-09": {
       "distance": 8.03, 
@@ -4369,18 +4604,31 @@
       "sedentary": 1142, 
       "actcal": 1576
     }, 
-    "2015-12-01": {
-      "distance": 7.34, 
-      "margcal": 801, 
-      "weight": 158.6, 
-      "calories": 2533, 
-      "active1": 115, 
-      "active3": 85, 
-      "active2": 22, 
-      "steps": 14909, 
-      "date": "2015-12-01", 
-      "sedentary": 1218, 
-      "actcal": 1217
+    "2016-02-19": {
+      "distance": 0.8, 
+      "margcal": 1041, 
+      "weight": 159.5, 
+      "active1": 167, 
+      "calories": 2865, 
+      "active3": 60, 
+      "active2": 131, 
+      "steps": 24458, 
+      "date": "2016-02-19", 
+      "sedentary": 1082, 
+      "actcal": 1697
+    }, 
+    "2015-04-07": {
+      "distance": 8.31, 
+      "margcal": 899, 
+      "weight": 0, 
+      "active1": 78, 
+      "calories": 2626, 
+      "active3": 115, 
+      "active2": 21, 
+      "steps": 16975, 
+      "date": "2015-04-07", 
+      "sedentary": 1226, 
+      "actcal": 1299
     }, 
     "2012-11-29": {
       "distance": 4.17, 
@@ -4685,6 +4933,21 @@
       "biking": 12.6, 
       "actcal": 1851
     }, 
+    "2014-10-08": {
+      "distance": 7.48, 
+      "margcal": 801, 
+      "weight": 158.4, 
+      "calories": 2547, 
+      "who": "dane", 
+      "active1": 55, 
+      "active3": 49, 
+      "active2": 148, 
+      "steps": 15284, 
+      "date": "2014-10-08", 
+      "sedentary": 1188, 
+      "biking": 18.5, 
+      "actcal": 1258
+    }, 
     "2014-01-20": {
       "distance": 6.26, 
       "margcal": 680, 
@@ -4726,6 +4989,21 @@
       "sedentary": 1229, 
       "biking": 16.3, 
       "actcal": 1060
+    }, 
+    "2014-10-09": {
+      "distance": 7.8, 
+      "margcal": 832, 
+      "weight": 157.9, 
+      "active1": 62, 
+      "who": "dane", 
+      "calories": 2603, 
+      "active3": 75, 
+      "active2": 123, 
+      "steps": 15938, 
+      "date": "2014-10-09", 
+      "sedentary": 1180, 
+      "biking": 12.8, 
+      "actcal": 1320
     }, 
     "2013-04-24": {
       "distance": 5.03, 
@@ -4785,19 +5063,19 @@
       "sedentary": 776, 
       "actcal": 1231
     }, 
-    "2013-04-20": {
-      "distance": 4.78, 
-      "margcal": 0, 
-      "weight": 166.1, 
-      "calories": 1951, 
+    "2013-09-30": {
+      "distance": 6.72, 
+      "margcal": 741, 
+      "weight": 156.6, 
+      "calories": 2501, 
       "who": "dane", 
-      "active1": 0, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 9756, 
-      "date": "2013-04-20", 
-      "sedentary": 1440, 
-      "actcal": 0
+      "active1": 93, 
+      "active3": 67, 
+      "active2": 93, 
+      "steps": 13732, 
+      "date": "2013-09-30", 
+      "sedentary": 1187, 
+      "actcal": 1212
     }, 
     "2013-04-21": {
       "distance": 11, 
@@ -4828,18 +5106,19 @@
       "sedentary": 1440, 
       "actcal": 0
     }, 
-    "2015-11-23": {
-      "distance": 7.82, 
-      "margcal": 847, 
+    "2013-04-23": {
+      "distance": 3.14, 
+      "margcal": 0, 
       "weight": 0, 
-      "calories": 2604, 
-      "active1": 128, 
-      "active3": 98, 
-      "active2": 20, 
-      "steps": 15964, 
-      "date": "2015-11-23", 
-      "sedentary": 1194, 
-      "actcal": 1310
+      "calories": 1730, 
+      "who": "dane", 
+      "active1": 0, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 6403, 
+      "date": "2013-04-23", 
+      "sedentary": 1440, 
+      "actcal": 0
     }, 
     "2014-09-20": {
       "distance": 11.63, 
@@ -4883,20 +5162,19 @@
       "sedentary": 956, 
       "actcal": 2877
     }, 
-    "2014-05-09": {
-      "distance": 10.32, 
-      "margcal": 1111, 
+    "2014-09-23": {
+      "distance": 8.68, 
+      "margcal": 935, 
       "weight": 0, 
-      "calories": 2902, 
+      "calories": 2733, 
       "who": "dane", 
-      "active1": 50, 
-      "active3": 144, 
-      "active2": 78, 
-      "steps": 21075, 
-      "date": "2014-05-09", 
-      "sedentary": 1168, 
-      "biking": 10.6, 
-      "actcal": 1633
+      "active1": 91, 
+      "active3": 81, 
+      "active2": 134, 
+      "steps": 17677, 
+      "date": "2014-09-23", 
+      "sedentary": 1134, 
+      "actcal": 1501
     }, 
     "2014-09-24": {
       "distance": 12.74, 
@@ -5152,20 +5430,6 @@
       "biking": 11.4, 
       "actcal": 1022
     }, 
-    "2015-06-03": {
-      "distance": 8.33, 
-      "margcal": 888, 
-      "weight": 159, 
-      "active1": 108, 
-      "calories": 2659, 
-      "active3": 65, 
-      "active2": 93, 
-      "steps": 17018, 
-      "date": "2015-06-03", 
-      "sedentary": 1174, 
-      "biking": 13.6, 
-      "actcal": 1383
-    }, 
     "2013-05-30": {
       "distance": 2.6, 
       "margcal": 0, 
@@ -5218,6 +5482,47 @@
       "date": "2015-09-08", 
       "sedentary": 1159, 
       "actcal": 1364
+    }, 
+    "2015-03-11": {
+      "distance": 1.44, 
+      "margcal": 159, 
+      "weight": 0, 
+      "calories": 1770, 
+      "active1": 25, 
+      "active3": 14, 
+      "active2": 23, 
+      "steps": 2934, 
+      "date": "2015-03-11", 
+      "sedentary": 1378, 
+      "actcal": 273
+    }, 
+    "2013-02-25": {
+      "distance": 7.69, 
+      "margcal": 0, 
+      "weight": 0, 
+      "active1": 577, 
+      "who": "dane", 
+      "calories": 2271, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 15704, 
+      "date": "2013-02-25", 
+      "sedentary": 863, 
+      "actcal": 1279
+    }, 
+    "2014-01-22": {
+      "distance": 11.03, 
+      "margcal": 1224, 
+      "weight": 157.8, 
+      "calories": 3099, 
+      "who": "dane", 
+      "active1": 142, 
+      "active3": 116, 
+      "active2": 145, 
+      "steps": 22501, 
+      "date": "2014-01-22", 
+      "sedentary": 1037, 
+      "actcal": 1962
     }, 
     "2015-07-30": {
       "distance": 10.77, 
@@ -5399,6 +5704,45 @@
       "biking": 10.2, 
       "actcal": 1369
     }, 
+    "2016-03-20": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
+    "2016-03-21": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
+    "2016-03-22": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
     "2013-07-17": {
       "distance": 3.25, 
       "margcal": 0, 
@@ -5428,20 +5772,57 @@
       "biking": 15.1, 
       "actcal": 1024
     }, 
-    "2013-01-31": {
-      "distance": 4.22, 
-      "margcal": 0, 
-      "weight": 181.6, 
-      "active1": 661, 
-      "who": "dane", 
-      "calories": 2060, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 8624, 
-      "date": "2013-01-31", 
-      "sedentary": 779, 
-      "biking": 14.7, 
-      "actcal": 1156
+    "2016-03-25": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
+    "2016-03-26": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
+    "2016-03-27": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
+    "2016-03-28": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
     }, 
     "2015-12-10": {
       "distance": 6.74, 
@@ -5456,19 +5837,19 @@
       "sedentary": 1199, 
       "actcal": 1124
     }, 
-    "2013-07-11": {
-      "distance": 5.19, 
-      "margcal": 0, 
+    "2015-12-11": {
+      "distance": 8.48, 
+      "margcal": 1076, 
       "weight": 0, 
-      "active1": 0, 
-      "who": "dane", 
-      "calories": 1840, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 10598, 
-      "date": "2013-07-11", 
-      "sedentary": 1440, 
-      "actcal": 0
+      "calories": 2954, 
+      "active1": 237, 
+      "active3": 72, 
+      "active2": 79, 
+      "steps": 17318, 
+      "date": "2015-12-11", 
+      "sedentary": 1052, 
+      "biking": 12.4, 
+      "actcal": 1808
     }, 
     "2014-01-06": {
       "distance": 8.43, 
@@ -5615,20 +5996,18 @@
       "biking": 12.6, 
       "actcal": 1264
     }, 
-    "2014-03-07": {
-      "distance": 10.05, 
-      "margcal": 1082, 
-      "weight": 157.4, 
-      "active1": 66, 
-      "who": "dane", 
-      "calories": 2890, 
-      "active3": 92, 
-      "active2": 169, 
-      "steps": 20521, 
-      "date": "2014-03-07", 
-      "sedentary": 1113, 
-      "biking": 19.6, 
-      "actcal": 1679
+    "2015-12-13": {
+      "distance": 9.91, 
+      "margcal": 1018, 
+      "weight": 162, 
+      "calories": 2917, 
+      "active1": 297, 
+      "active3": 35, 
+      "active2": 104, 
+      "steps": 20241, 
+      "date": "2015-12-13", 
+      "sedentary": 1004, 
+      "actcal": 1825
     }, 
     "2014-03-01": {
       "distance": 9.95, 
@@ -5701,20 +6080,20 @@
       "sedentary": 1052, 
       "actcal": 1609
     }, 
-    "2014-07-24": {
-      "distance": 6.66, 
-      "margcal": 725, 
-      "weight": 158.4, 
-      "active1": 73, 
+    "2013-02-06": {
+      "distance": 4.43, 
+      "margcal": 0, 
+      "weight": 182.4, 
+      "active1": 0, 
       "who": "dane", 
-      "calories": 2485, 
-      "active3": 68, 
-      "active2": 93, 
-      "steps": 13604, 
-      "date": "2014-07-24", 
-      "sedentary": 1206, 
-      "biking": 15.8, 
-      "actcal": 1165
+      "calories": 2066, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 9041, 
+      "date": "2013-02-06", 
+      "sedentary": 1440, 
+      "biking": 11.3, 
+      "actcal": 0
     }, 
     "2013-03-07": {
       "distance": 5.87, 
@@ -5831,32 +6210,18 @@
       "sedentary": 1170, 
       "actcal": 1177
     }, 
-    "2015-12-18": {
-      "distance": 10.66, 
-      "margcal": 1016, 
-      "weight": 0, 
-      "calories": 2866, 
-      "active1": 241, 
-      "active3": 54, 
-      "active2": 92, 
-      "steps": 21775, 
-      "date": "2015-12-18", 
-      "sedentary": 663, 
-      "biking": 14.2, 
-      "actcal": 1727
-    }, 
-    "2015-11-04": {
-      "distance": 6.88, 
-      "margcal": 743, 
-      "weight": 156.1, 
-      "calories": 2482, 
-      "active1": 133, 
-      "active3": 77, 
-      "active2": 24, 
-      "steps": 14043, 
-      "date": "2015-11-04", 
-      "sedentary": 1206, 
-      "actcal": 1187
+    "2016-03-11": {
+      "distance": 7.95, 
+      "margcal": 751, 
+      "weight": 157.7, 
+      "active1": 161, 
+      "calories": 2492, 
+      "active3": 23, 
+      "active2": 91, 
+      "steps": 16227, 
+      "date": "2016-03-11", 
+      "sedentary": 1165, 
+      "actcal": 1240
     }, 
     "2013-09-18": {
       "distance": 4.58, 
@@ -6388,19 +6753,20 @@
       "biking": 15.8, 
       "actcal": 1422
     }, 
-    "2013-04-07": {
-      "distance": 4.19, 
-      "margcal": 0, 
-      "weight": 0, 
-      "calories": 1854, 
+    "2013-09-17": {
+      "distance": 6.39, 
+      "margcal": 715, 
+      "weight": 157, 
+      "calories": 2512, 
       "who": "dane", 
-      "active1": 0, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 8554, 
-      "date": "2013-04-07", 
-      "sedentary": 1440, 
-      "actcal": 0
+      "active1": 115, 
+      "active3": 57, 
+      "active2": 102, 
+      "steps": 12957, 
+      "date": "2013-09-17", 
+      "sedentary": 1166, 
+      "biking": 13.0, 
+      "actcal": 1219
     }, 
     "2014-07-17": {
       "distance": 5.67, 
@@ -6634,6 +7000,19 @@
       "biking": 20.2, 
       "actcal": 1301
     }, 
+    "2016-01-31": {
+      "distance": 8.23, 
+      "margcal": 766, 
+      "weight": 0, 
+      "active1": 117, 
+      "calories": 2498, 
+      "active3": 48, 
+      "active2": 83, 
+      "steps": 16806, 
+      "date": "2016-01-31", 
+      "sedentary": 1192, 
+      "actcal": 1214
+    }, 
     "2015-03-08": {
       "distance": 10.5, 
       "margcal": 1151, 
@@ -6676,6 +7055,21 @@
       "biking": 9.2, 
       "actcal": 1330
     }, 
+    "2014-07-07": {
+      "distance": 8.01, 
+      "margcal": 876, 
+      "weight": 157.7, 
+      "active1": 77, 
+      "who": "dane", 
+      "calories": 2717, 
+      "active3": 83, 
+      "active2": 115, 
+      "steps": 16316, 
+      "date": "2014-07-07", 
+      "sedentary": 1165, 
+      "biking": 10.0, 
+      "actcal": 1380
+    }, 
     "2013-05-03": {
       "distance": 5.45, 
       "margcal": 0, 
@@ -6690,6 +7084,20 @@
       "sedentary": 727, 
       "biking": 17.6, 
       "actcal": 1399
+    }, 
+    "2013-02-07": {
+      "distance": 3.79, 
+      "margcal": 0, 
+      "weight": 180.5, 
+      "active1": 0, 
+      "who": "dane", 
+      "calories": 1785, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 7740, 
+      "date": "2013-02-07", 
+      "sedentary": 1440, 
+      "actcal": 0
     }, 
     "2014-11-22": {
       "distance": 10.41, 
@@ -6733,20 +7141,19 @@
       "biking": 15.0, 
       "actcal": 1147
     }, 
-    "2013-09-16": {
-      "distance": 6.86, 
-      "margcal": 733, 
-      "weight": 157.3, 
-      "calories": 2547, 
+    "2014-07-28": {
+      "distance": 6.79, 
+      "margcal": 749, 
+      "weight": 158, 
+      "active1": 74, 
       "who": "dane", 
-      "active1": 124, 
-      "active3": 49, 
-      "active2": 126, 
-      "steps": 13580, 
-      "date": "2013-09-16", 
-      "sedentary": 1141, 
-      "biking": 17.6, 
-      "actcal": 1295
+      "calories": 2582, 
+      "active3": 63, 
+      "active2": 111, 
+      "steps": 13833, 
+      "date": "2014-07-28", 
+      "sedentary": 1192, 
+      "actcal": 1198
     }, 
     "2013-01-03": {
       "distance": 4.92, 
@@ -6774,6 +7181,21 @@
       "date": "2015-01-30", 
       "sedentary": 1167, 
       "actcal": 1452
+    }, 
+    "2013-06-21": {
+      "distance": 5.59, 
+      "margcal": 0, 
+      "weight": 159.9, 
+      "active1": 680, 
+      "who": "dane", 
+      "calories": 2238, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 11417, 
+      "date": "2013-06-21", 
+      "sedentary": 760, 
+      "biking": 12.7, 
+      "actcal": 1408
     }, 
     "2014-08-30": {
       "distance": 9, 
@@ -6844,6 +7266,21 @@
       "date": "2014-07-19", 
       "sedentary": 963, 
       "actcal": 2464
+    }, 
+    "2014-03-18": {
+      "distance": 7.5, 
+      "margcal": 840, 
+      "weight": 158, 
+      "active1": 135, 
+      "who": "dane", 
+      "calories": 2718, 
+      "active3": 60, 
+      "active2": 130, 
+      "steps": 15168, 
+      "date": "2014-03-18", 
+      "sedentary": 1115, 
+      "biking": 15.0, 
+      "actcal": 1447
     }, 
     "2014-07-18": {
       "distance": 7.96, 
@@ -7035,6 +7472,20 @@
       "sedentary": 1278, 
       "actcal": 870
     }, 
+    "2014-11-24": {
+      "distance": 7.64, 
+      "margcal": 858, 
+      "weight": 0, 
+      "active1": 54, 
+      "who": "dane", 
+      "calories": 2566, 
+      "active3": 102, 
+      "active2": 60, 
+      "steps": 15601, 
+      "date": "2014-11-24", 
+      "sedentary": 1224, 
+      "actcal": 1241
+    }, 
     "2013-08-31": {
       "distance": 7.74, 
       "margcal": 0, 
@@ -7063,6 +7514,20 @@
       "sedentary": 1139, 
       "biking": 11.4, 
       "actcal": 1475
+    }, 
+    "2014-09-01": {
+      "distance": 10.21, 
+      "margcal": 691, 
+      "weight": 0, 
+      "calories": 2590, 
+      "who": "dane", 
+      "active1": 217, 
+      "active3": 88, 
+      "active2": 45, 
+      "steps": 20850, 
+      "date": "2014-09-01", 
+      "sedentary": 1090, 
+      "actcal": 1400
     }, 
     "2014-11-08": {
       "distance": 13.87, 
@@ -7393,6 +7858,46 @@
       "date": "2013-03-30", 
       "sedentary": 800, 
       "actcal": 1427
+    }, 
+    "2015-12-01": {
+      "distance": 7.34, 
+      "margcal": 801, 
+      "weight": 158.6, 
+      "calories": 2533, 
+      "active1": 115, 
+      "active3": 85, 
+      "active2": 22, 
+      "steps": 14909, 
+      "date": "2015-12-01", 
+      "sedentary": 1218, 
+      "actcal": 1217
+    }, 
+    "2014-01-17": {
+      "distance": 9.4, 
+      "margcal": 1025, 
+      "weight": 0, 
+      "calories": 2781, 
+      "who": "dane", 
+      "active1": 50, 
+      "active3": 122, 
+      "active2": 78, 
+      "steps": 19178, 
+      "date": "2014-01-17", 
+      "sedentary": 1190, 
+      "actcal": 1489
+    }, 
+    "2016-03-23": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
     }, 
     "2013-10-10": {
       "distance": 7.94, 
@@ -7736,18 +8241,19 @@
       "sedentary": 1223, 
       "actcal": 1127
     }, 
-    "2015-10-11": {
-      "distance": 5.92, 
-      "margcal": 633, 
+    "2014-09-28": {
+      "distance": 9.15, 
+      "margcal": 979, 
       "weight": 0, 
-      "active1": 114, 
-      "calories": 2402, 
-      "active3": 48, 
-      "active2": 27, 
-      "steps": 12083, 
-      "date": "2015-10-11", 
-      "sedentary": 1251, 
-      "actcal": 978
+      "calories": 2804, 
+      "who": "dane", 
+      "active1": 68, 
+      "active3": 103, 
+      "active2": 119, 
+      "steps": 18685, 
+      "date": "2014-09-28", 
+      "sedentary": 1150, 
+      "actcal": 1526
     }, 
     "2014-11-28": {
       "distance": 12.07, 
@@ -7763,6 +8269,46 @@
       "sedentary": 1084, 
       "actcal": 1982
     }, 
+    "2015-03-10": {
+      "distance": 0.01, 
+      "margcal": 2, 
+      "weight": 0, 
+      "calories": 1565, 
+      "active1": 2, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 23, 
+      "date": "2015-03-10", 
+      "sedentary": 1438, 
+      "actcal": 6
+    }, 
+    "2013-08-15": {
+      "distance": 5.55, 
+      "margcal": 0, 
+      "weight": 157.8, 
+      "calories": 1888, 
+      "who": "dane", 
+      "active1": 0, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 11333, 
+      "date": "2013-08-15", 
+      "sedentary": 1440, 
+      "actcal": 0
+    }, 
+    "2015-12-28": {
+      "distance": 8.29, 
+      "margcal": 808, 
+      "weight": 0, 
+      "calories": 2566, 
+      "active1": 137, 
+      "active3": 49, 
+      "active2": 87, 
+      "steps": 16935, 
+      "date": "2015-12-28", 
+      "sedentary": 1167, 
+      "actcal": 1303
+    }, 
     "2015-11-22": {
       "distance": 13.07, 
       "margcal": 1397, 
@@ -7777,61 +8323,71 @@
       "biking": 8.1, 
       "actcal": 2131
     }, 
-    "2012-12-17": {
-      "distance": 4.79, 
+    "2013-04-01": {
+      "distance": 5.11, 
       "margcal": 0, 
-      "weight": 188.4, 
-      "calories": 2008, 
-      "who": "dane", 
-      "active1": 0, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 9788, 
-      "date": "2012-12-17", 
-      "sedentary": 1440, 
-      "actcal": 0
-    }, 
-    "2012-12-16": {
-      "distance": 9.47, 
-      "margcal": 498, 
       "weight": 0, 
-      "calories": 2558, 
-      "who": "dane", 
-      "active1": 498, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 19332, 
-      "date": "2012-12-16", 
-      "sedentary": 942, 
-      "actcal": 1442
-    }, 
-    "2012-12-15": {
-      "distance": 8.31, 
-      "margcal": 449, 
-      "weight": 190, 
-      "calories": 2312, 
-      "who": "dane", 
-      "active1": 449, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 16966, 
-      "date": "2012-12-15", 
-      "sedentary": 991, 
-      "actcal": 1135
-    }, 
-    "2012-12-14": {
-      "distance": 4.54, 
-      "margcal": 0, 
-      "weight": 189, 
-      "calories": 2037, 
+      "calories": 2001, 
       "who": "dane", 
       "active1": 0, 
       "active3": 0, 
       "active2": 0, 
-      "steps": 9279, 
-      "date": "2012-12-14", 
+      "steps": 10429, 
+      "date": "2013-04-01", 
       "sedentary": 1440, 
       "actcal": 0
+    }, 
+    "2016-01-04": {
+      "distance": 7.87, 
+      "margcal": 781, 
+      "weight": 158.3, 
+      "active1": 171, 
+      "calories": 2538, 
+      "active3": 34, 
+      "active2": 76, 
+      "steps": 16071, 
+      "date": "2016-01-04", 
+      "sedentary": 811, 
+      "actcal": 1290
+    }, 
+    "2016-01-05": {
+      "distance": 7.38, 
+      "margcal": 729, 
+      "weight": 158.4, 
+      "active1": 140, 
+      "calories": 2460, 
+      "active3": 42, 
+      "active2": 68, 
+      "steps": 15074, 
+      "date": "2016-01-05", 
+      "sedentary": 577, 
+      "actcal": 1179
+    }, 
+    "2016-01-06": {
+      "distance": 7.14, 
+      "margcal": 772, 
+      "weight": 159.1, 
+      "active1": 205, 
+      "calories": 2546, 
+      "active3": 39, 
+      "active2": 57, 
+      "steps": 14592, 
+      "date": "2016-01-06", 
+      "sedentary": 1139, 
+      "actcal": 1317
+    }, 
+    "2016-01-07": {
+      "distance": 6.42, 
+      "margcal": 611, 
+      "weight": 158.1, 
+      "active1": 193, 
+      "calories": 2361, 
+      "active3": 29, 
+      "active2": 41, 
+      "steps": 13107, 
+      "date": "2016-01-07", 
+      "sedentary": 1177, 
+      "actcal": 1094
     }, 
     "2012-12-13": {
       "distance": 5.84, 
@@ -7847,19 +8403,18 @@
       "sedentary": 922, 
       "actcal": 1100
     }, 
-    "2012-12-12": {
-      "distance": 6.08, 
-      "margcal": 0, 
-      "weight": 0, 
-      "calories": 2196, 
-      "who": "dane", 
-      "active1": 583, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 12427, 
-      "date": "2012-12-12", 
-      "sedentary": 857, 
-      "actcal": 1178
+    "2016-01-01": {
+      "distance": 8.3, 
+      "margcal": 851, 
+      "weight": 161, 
+      "active1": 113, 
+      "calories": 2605, 
+      "active3": 52, 
+      "active2": 100, 
+      "steps": 16941, 
+      "date": "2016-01-01", 
+      "sedentary": 1175, 
+      "actcal": 1330
     }, 
     "2012-12-11": {
       "distance": 2.52, 
@@ -7875,19 +8430,18 @@
       "sedentary": 1440, 
       "actcal": 0
     }, 
-    "2012-12-10": {
-      "distance": 5.22, 
-      "margcal": 0, 
-      "weight": 0, 
-      "calories": 1971, 
-      "who": "dane", 
-      "active1": 0, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 10665, 
-      "date": "2012-12-10", 
-      "sedentary": 1440, 
-      "actcal": 0
+    "2016-01-03": {
+      "distance": 8.8, 
+      "margcal": 917, 
+      "weight": 160.1, 
+      "active1": 174, 
+      "calories": 2720, 
+      "active3": 47, 
+      "active2": 104, 
+      "steps": 17979, 
+      "date": "2016-01-03", 
+      "sedentary": 1115, 
+      "actcal": 1513
     }, 
     "2015-03-30": {
       "distance": 8.9, 
@@ -7903,19 +8457,18 @@
       "biking": 11.3, 
       "actcal": 1461
     }, 
-    "2015-03-31": {
-      "distance": 8.71, 
-      "margcal": 946, 
-      "weight": 157.1, 
-      "calories": 2718, 
-      "active1": 70, 
-      "active3": 72, 
-      "active2": 151, 
-      "steps": 17796, 
-      "date": "2015-03-31", 
-      "sedentary": 1147, 
-      "biking": 14.9, 
-      "actcal": 1472
+    "2016-01-09": {
+      "distance": 7.86, 
+      "margcal": 851, 
+      "weight": 160.2, 
+      "active1": 202, 
+      "calories": 2650, 
+      "active3": 60, 
+      "active2": 53, 
+      "steps": 16055, 
+      "date": "2016-01-09", 
+      "sedentary": 1125, 
+      "actcal": 1432
     }, 
     "2012-12-19": {
       "distance": 7.65, 
@@ -8255,18 +8808,19 @@
       "biking": 19.0, 
       "actcal": 1424
     }, 
-    "2015-01-05": {
-      "distance": 7.82, 
-      "margcal": 837, 
-      "weight": 158.8, 
-      "active1": 64, 
-      "calories": 2594, 
-      "active3": 87, 
-      "active2": 84, 
-      "steps": 15800, 
-      "date": "2015-01-05", 
-      "sedentary": 1205, 
-      "actcal": 1283
+    "2013-04-07": {
+      "distance": 4.19, 
+      "margcal": 0, 
+      "weight": 0, 
+      "calories": 1854, 
+      "who": "dane", 
+      "active1": 0, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 8554, 
+      "date": "2013-04-07", 
+      "sedentary": 1440, 
+      "actcal": 0
     }, 
     "2015-01-04": {
       "distance": 9.31, 
@@ -8469,19 +9023,57 @@
       "sedentary": 677, 
       "actcal": 1272
     }, 
-    "2015-02-09": {
-      "distance": 13.39, 
-      "margcal": 1524, 
+    "2016-02-23": {
+      "distance": 6.76, 
+      "margcal": 695, 
       "weight": 0, 
-      "calories": 3422, 
-      "active1": 121, 
-      "active3": 183, 
-      "active2": 47, 
-      "steps": 27347, 
-      "date": "2015-02-09", 
-      "sedentary": 1089, 
-      "biking": 11.6, 
-      "actcal": 2187
+      "active1": 96, 
+      "calories": 2393, 
+      "active3": 53, 
+      "active2": 63, 
+      "steps": 13806, 
+      "date": "2016-02-23", 
+      "sedentary": 1228, 
+      "actcal": 1074
+    }, 
+    "2016-02-22": {
+      "distance": 10.66, 
+      "margcal": 1137, 
+      "weight": 0, 
+      "active1": 130, 
+      "calories": 2925, 
+      "active3": 87, 
+      "active2": 98, 
+      "steps": 21776, 
+      "date": "2016-02-22", 
+      "sedentary": 1125, 
+      "actcal": 1716
+    }, 
+    "2016-02-21": {
+      "distance": 7.16, 
+      "margcal": 1154, 
+      "weight": 0, 
+      "active1": 120, 
+      "calories": 2926, 
+      "active3": 131, 
+      "active2": 45, 
+      "steps": 14585, 
+      "date": "2016-02-21", 
+      "sedentary": 1144, 
+      "actcal": 1696
+    }, 
+    "2016-02-20": {
+      "distance": 11.180451, 
+      "margcal": 0, 
+      "weight": 0, 
+      "active1": 720, 
+      "calories": 2326, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 22834, 
+      "date": "2016-02-20", 
+      "sedentary": 720, 
+      "actcal": 1551
     }, 
     "2013-02-08": {
       "distance": 6.39, 
@@ -8511,19 +9103,18 @@
       "sedentary": 765, 
       "actcal": 1193
     }, 
-    "2014-07-28": {
-      "distance": 6.79, 
-      "margcal": 749, 
-      "weight": 158, 
-      "active1": 74, 
-      "who": "dane", 
-      "calories": 2582, 
-      "active3": 63, 
-      "active2": 111, 
-      "steps": 13833, 
-      "date": "2014-07-28", 
-      "sedentary": 1192, 
-      "actcal": 1198
+    "2016-02-25": {
+      "distance": 11.15, 
+      "margcal": 1412, 
+      "weight": 0, 
+      "active1": 174, 
+      "calories": 3261, 
+      "active3": 128, 
+      "active2": 113, 
+      "steps": 22775, 
+      "date": "2016-02-25", 
+      "sedentary": 1025, 
+      "actcal": 2161
     }, 
     "2014-07-29": {
       "distance": 4.5, 
@@ -8568,34 +9159,31 @@
       "sedentary": 813, 
       "actcal": 1453
     }, 
-    "2013-02-06": {
-      "distance": 4.43, 
-      "margcal": 0, 
-      "weight": 182.4, 
-      "active1": 0, 
-      "who": "dane", 
-      "calories": 2066, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 9041, 
-      "date": "2013-02-06", 
-      "sedentary": 1440, 
-      "biking": 11.3, 
-      "actcal": 0
+    "2016-02-29": {
+      "distance": 6.25, 
+      "margcal": 701, 
+      "weight": 0, 
+      "active1": 135, 
+      "calories": 2431, 
+      "active3": 44, 
+      "active2": 66, 
+      "steps": 12757, 
+      "date": "2016-02-29", 
+      "sedentary": 1195, 
+      "actcal": 1144
     }, 
-    "2013-02-07": {
-      "distance": 3.79, 
-      "margcal": 0, 
-      "weight": 180.5, 
-      "active1": 0, 
-      "who": "dane", 
-      "calories": 1785, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 7740, 
-      "date": "2013-02-07", 
-      "sedentary": 1440, 
-      "actcal": 0
+    "2016-02-28": {
+      "distance": 7.78, 
+      "margcal": 899, 
+      "weight": 0, 
+      "active1": 153, 
+      "calories": 2666, 
+      "active3": 65, 
+      "active2": 62, 
+      "steps": 15882, 
+      "date": "2016-02-28", 
+      "sedentary": 1160, 
+      "actcal": 1416
     }, 
     "2014-07-22": {
       "distance": 7.35, 
@@ -8770,20 +9358,6 @@
       "sedentary": 1189, 
       "biking": 17.8, 
       "actcal": 1218
-    }, 
-    "2015-11-20": {
-      "distance": 5.17, 
-      "margcal": 564, 
-      "weight": 156.5, 
-      "calories": 2249, 
-      "active1": 107, 
-      "active3": 51, 
-      "active2": 30, 
-      "steps": 10568, 
-      "date": "2015-11-20", 
-      "sedentary": 1252, 
-      "biking": 13.5, 
-      "actcal": 906
     }, 
     "2014-06-18": {
       "distance": 8.9, 
@@ -8960,6 +9534,19 @@
       "sedentary": 1134, 
       "actcal": 1486
     }, 
+    "2015-03-19": {
+      "distance": 6.29, 
+      "margcal": 695, 
+      "weight": 156.8, 
+      "calories": 2400, 
+      "active1": 60, 
+      "active3": 81, 
+      "active2": 59, 
+      "steps": 12841, 
+      "date": "2015-03-19", 
+      "sedentary": 1240, 
+      "actcal": 1060
+    }, 
     "2014-05-19": {
       "distance": 7.83, 
       "margcal": 863, 
@@ -8988,6 +9575,20 @@
       "date": "2014-05-18", 
       "sedentary": 1063, 
       "actcal": 1964
+    }, 
+    "2015-04-13": {
+      "distance": 10.78, 
+      "margcal": 1147, 
+      "weight": 0, 
+      "active1": 115, 
+      "calories": 2954, 
+      "active3": 116, 
+      "active2": 93, 
+      "steps": 21989, 
+      "date": "2015-04-13", 
+      "sedentary": 1116, 
+      "biking": 12.7, 
+      "actcal": 1747
     }, 
     "2014-09-30": {
       "distance": 5.08, 
@@ -9213,19 +9814,19 @@
       "sedentary": 755, 
       "actcal": 1345
     }, 
-    "2015-10-23": {
-      "distance": 10.05, 
-      "margcal": 1078, 
+    "2013-05-23": {
+      "distance": 10.03, 
+      "margcal": 820, 
       "weight": 0, 
-      "active1": 86, 
-      "calories": 2827, 
-      "active3": 131, 
-      "active2": 47, 
-      "steps": 20528, 
-      "date": "2015-10-23", 
-      "sedentary": 1176, 
-      "biking": 13.0, 
-      "actcal": 1562
+      "calories": 2654, 
+      "who": "dane", 
+      "active1": 820, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 20476, 
+      "date": "2013-05-23", 
+      "sedentary": 620, 
+      "actcal": 1969
     }, 
     "2015-10-22": {
       "distance": 6.88, 
@@ -9241,32 +9842,34 @@
       "biking": 11.2, 
       "actcal": 1220
     }, 
-    "2015-10-21": {
-      "distance": 8.68, 
-      "margcal": 940, 
-      "weight": 0, 
-      "active1": 118, 
-      "calories": 2696, 
-      "active3": 103, 
-      "active2": 51, 
-      "steps": 17719, 
-      "date": "2015-10-21", 
-      "sedentary": 1168, 
-      "actcal": 1435
+    "2013-05-21": {
+      "distance": 4.53, 
+      "margcal": 0, 
+      "weight": 163, 
+      "calories": 1847, 
+      "who": "dane", 
+      "active1": 0, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 9260, 
+      "date": "2013-05-21", 
+      "sedentary": 1440, 
+      "actcal": 0
     }, 
-    "2015-10-20": {
-      "distance": 7.24, 
-      "margcal": 790, 
-      "weight": 157.9, 
-      "active1": 107, 
-      "calories": 2517, 
-      "active3": 83, 
-      "active2": 38, 
-      "steps": 14794, 
-      "date": "2015-10-20", 
-      "sedentary": 1212, 
-      "biking": 13.6, 
-      "actcal": 1209
+    "2013-05-20": {
+      "distance": 6.96, 
+      "margcal": 622, 
+      "weight": 163.2, 
+      "calories": 2393, 
+      "who": "dane", 
+      "active1": 622, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 14222, 
+      "date": "2013-05-20", 
+      "sedentary": 818, 
+      "biking": 15.0, 
+      "actcal": 1491
     }, 
     "2014-11-30": {
       "distance": 9.53, 
@@ -9379,32 +9982,32 @@
       "biking": 13.7, 
       "actcal": 1450
     }, 
-    "2015-07-21": {
-      "distance": 5.826722, 
+    "2016-03-24": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
+    "2013-08-09": {
+      "distance": 4.02, 
       "margcal": 0, 
-      "weight": 159.1, 
-      "active1": 840, 
-      "calories": 2469, 
+      "weight": 0, 
+      "calories": 1802, 
+      "who": "dane", 
+      "active1": 0, 
       "active3": 0, 
       "active2": 0, 
-      "steps": 11900, 
-      "date": "2015-07-21", 
-      "sedentary": 600, 
-      "actcal": 1820
-    }, 
-    "2015-07-20": {
-      "distance": 7.65, 
-      "margcal": 827, 
-      "weight": 158.7, 
-      "active1": 175, 
-      "calories": 2604, 
-      "active3": 59, 
-      "active2": 31, 
-      "steps": 15626, 
-      "date": "2015-07-20", 
-      "sedentary": 1175, 
-      "biking": 16.0, 
-      "actcal": 1325
+      "steps": 8213, 
+      "date": "2013-08-09", 
+      "sedentary": 1440, 
+      "actcal": 0
     }, 
     "2013-08-06": {
       "distance": 5.99, 
@@ -9675,6 +10278,32 @@
       "sedentary": 674, 
       "actcal": 1396
     }, 
+    "2016-03-31": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
+    "2016-03-30": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
+    }, 
     "2014-01-15": {
       "distance": 7.71, 
       "margcal": 852, 
@@ -9704,19 +10333,20 @@
       "biking": 17.8, 
       "actcal": 1487
     }, 
-    "2014-01-17": {
-      "distance": 9.4, 
-      "margcal": 1025, 
-      "weight": 0, 
-      "calories": 2781, 
+    "2014-03-11": {
+      "distance": 7.43, 
+      "margcal": 804, 
+      "weight": 157.4, 
+      "active1": 55, 
       "who": "dane", 
-      "active1": 50, 
-      "active3": 122, 
-      "active2": 78, 
-      "steps": 19178, 
-      "date": "2014-01-17", 
-      "sedentary": 1190, 
-      "actcal": 1489
+      "calories": 2550, 
+      "active3": 72, 
+      "active2": 114, 
+      "steps": 15183, 
+      "date": "2014-03-11", 
+      "sedentary": 1199, 
+      "biking": 6.0, 
+      "actcal": 1246
     }, 
     "2014-03-10": {
       "distance": 8.65, 
@@ -9790,33 +10420,34 @@
       "sedentary": 1140, 
       "actcal": 1616
     }, 
-    "2013-04-30": {
-      "distance": 4.09, 
-      "margcal": 0, 
-      "weight": 0, 
-      "calories": 1829, 
+    "2014-03-19": {
+      "distance": 4.06, 
+      "margcal": 444, 
+      "weight": 156.3, 
+      "active1": 88, 
       "who": "dane", 
-      "active1": 0, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 8349, 
-      "date": "2013-04-30", 
-      "sedentary": 1440, 
-      "actcal": 0
+      "calories": 2203, 
+      "active3": 16, 
+      "active2": 98, 
+      "steps": 8260, 
+      "date": "2014-03-19", 
+      "sedentary": 1238, 
+      "biking": 18.8, 
+      "actcal": 820
     }, 
-    "2013-08-09": {
-      "distance": 4.02, 
-      "margcal": 0, 
-      "weight": 0, 
-      "calories": 1802, 
-      "who": "dane", 
-      "active1": 0, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 8213, 
-      "date": "2013-08-09", 
-      "sedentary": 1440, 
-      "actcal": 0
+    "2015-07-20": {
+      "distance": 7.65, 
+      "margcal": 827, 
+      "weight": 158.7, 
+      "active1": 175, 
+      "calories": 2604, 
+      "active3": 59, 
+      "active2": 31, 
+      "steps": 15626, 
+      "date": "2015-07-20", 
+      "sedentary": 1175, 
+      "biking": 16.0, 
+      "actcal": 1325
     }, 
     "2014-01-19": {
       "distance": 10.18, 
@@ -9847,6 +10478,20 @@
       "sedentary": 1137, 
       "actcal": 1780
     }, 
+    "2013-02-21": {
+      "distance": 6.53, 
+      "margcal": 0, 
+      "weight": 177.9, 
+      "active1": 578, 
+      "who": "dane", 
+      "calories": 2234, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 13346, 
+      "date": "2013-02-21", 
+      "sedentary": 862, 
+      "actcal": 1243
+    }, 
     "2014-03-16": {
       "distance": 7.7, 
       "margcal": 841, 
@@ -9874,6 +10519,21 @@
       "date": "2015-11-21", 
       "sedentary": 1095, 
       "actcal": 1877
+    }, 
+    "2014-05-09": {
+      "distance": 10.32, 
+      "margcal": 1111, 
+      "weight": 0, 
+      "calories": 2902, 
+      "who": "dane", 
+      "active1": 50, 
+      "active3": 144, 
+      "active2": 78, 
+      "steps": 21075, 
+      "date": "2014-05-09", 
+      "sedentary": 1168, 
+      "biking": 10.6, 
+      "actcal": 1633
     }, 
     "2013-01-12": {
       "distance": 9, 
@@ -10155,19 +10815,19 @@
       "sedentary": 962, 
       "actcal": 945
     }, 
-    "2013-01-14": {
-      "distance": 4.82, 
+    "2013-07-27": {
+      "distance": 5.88, 
       "margcal": 0, 
-      "weight": 183.3, 
-      "active1": 0, 
+      "weight": 0, 
+      "active1": 643, 
       "who": "dane", 
-      "calories": 2032, 
+      "calories": 2072, 
       "active3": 0, 
       "active2": 0, 
-      "steps": 9844, 
-      "date": "2013-01-14", 
-      "sedentary": 1440, 
-      "actcal": 0
+      "steps": 11999, 
+      "date": "2013-07-27", 
+      "sedentary": 797, 
+      "actcal": 1200
     }, 
     "2012-11-03": {
       "distance": 8.46, 
@@ -10213,20 +10873,19 @@
       "biking": 12.2, 
       "actcal": 1414
     }, 
-    "2013-01-15": {
-      "distance": 5.42, 
+    "2013-07-26": {
+      "distance": 3.89, 
       "margcal": 0, 
-      "weight": 181.9, 
-      "active1": 651, 
+      "weight": 0, 
+      "active1": 0, 
       "who": "dane", 
-      "calories": 2125, 
+      "calories": 1792, 
       "active3": 0, 
       "active2": 0, 
-      "steps": 11077, 
-      "date": "2013-01-15", 
-      "sedentary": 789, 
-      "biking": 12.1, 
-      "actcal": 1208
+      "steps": 7936, 
+      "date": "2013-07-26", 
+      "sedentary": 1440, 
+      "actcal": 0
     }, 
     "2012-11-09": {
       "distance": 4.83, 
@@ -10256,32 +10915,45 @@
       "sedentary": 1440, 
       "actcal": 0
     }, 
-    "2015-12-29": {
-      "distance": 9.46, 
-      "margcal": 886, 
-      "weight": 0, 
-      "calories": 2628, 
-      "active1": 97, 
-      "active3": 58, 
-      "active2": 103, 
-      "steps": 19323, 
-      "date": "2015-12-29", 
-      "sedentary": 1182, 
-      "biking": 12.4, 
-      "actcal": 1348
+    "2016-01-08": {
+      "distance": 10.31, 
+      "margcal": 1003, 
+      "weight": 158.7, 
+      "active1": 173, 
+      "calories": 2802, 
+      "active3": 60, 
+      "active2": 97, 
+      "steps": 21065, 
+      "date": "2016-01-08", 
+      "sedentary": 1110, 
+      "actcal": 1606
     }, 
-    "2015-12-28": {
-      "distance": 8.29, 
-      "margcal": 808, 
+    "2016-03-06": {
+      "distance": 11.49, 
+      "margcal": 1105, 
+      "weight": 158.2, 
+      "active1": 210, 
+      "calories": 2963, 
+      "active3": 69, 
+      "active2": 133, 
+      "steps": 23463, 
+      "date": "2016-03-06", 
+      "sedentary": 1028, 
+      "actcal": 1857
+    }, 
+    "2013-07-28": {
+      "distance": 8.52, 
+      "margcal": 0, 
       "weight": 0, 
-      "calories": 2566, 
-      "active1": 137, 
-      "active3": 49, 
-      "active2": 87, 
-      "steps": 16935, 
-      "date": "2015-12-28", 
-      "sedentary": 1167, 
-      "actcal": 1303
+      "active1": 616, 
+      "who": "dane", 
+      "calories": 2207, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 17407, 
+      "date": "2013-07-28", 
+      "sedentary": 824, 
+      "actcal": 1305
     }, 
     "2015-10-26": {
       "distance": 9.21, 
@@ -10296,6 +10968,33 @@
       "sedentary": 1166, 
       "biking": 12.0, 
       "actcal": 1500
+    }, 
+    "2013-01-18": {
+      "distance": 3.94, 
+      "margcal": 0, 
+      "weight": 182.1, 
+      "active1": 0, 
+      "who": "dane", 
+      "calories": 2005, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 8054, 
+      "date": "2013-01-18", 
+      "sedentary": 1440, 
+      "actcal": 0
+    }, 
+    "2016-03-05": {
+      "distance": 6.76, 
+      "margcal": 660, 
+      "weight": 157, 
+      "active1": 176, 
+      "calories": 2388, 
+      "active3": 13, 
+      "active2": 71, 
+      "steps": 13797, 
+      "date": "2016-03-05", 
+      "sedentary": 1180, 
+      "actcal": 1123
     }, 
     "2015-12-16": {
       "distance": 6.54, 
@@ -10453,6 +11152,32 @@
       "sedentary": 764, 
       "actcal": 1391
     }, 
+    "2016-01-30": {
+      "distance": 6.28, 
+      "margcal": 747, 
+      "weight": 158.7, 
+      "active1": 258, 
+      "calories": 2538, 
+      "active3": 37, 
+      "active2": 30, 
+      "steps": 12834, 
+      "date": "2016-01-30", 
+      "sedentary": 1115, 
+      "actcal": 1337
+    }, 
+    "2016-01-02": {
+      "distance": 7.33, 
+      "margcal": 770, 
+      "weight": 160.6, 
+      "active1": 143, 
+      "calories": 2533, 
+      "active3": 31, 
+      "active2": 100, 
+      "steps": 14963, 
+      "date": "2016-01-02", 
+      "sedentary": 1166, 
+      "actcal": 1269
+    }, 
     "2013-01-22": {
       "distance": 3.7, 
       "margcal": 0, 
@@ -10589,19 +11314,18 @@
       "sedentary": 1141, 
       "actcal": 1629
     }, 
-    "2013-05-11": {
-      "distance": 9.74, 
-      "margcal": 705, 
-      "weight": 165.5, 
-      "calories": 2615, 
-      "who": "dane", 
-      "active1": 705, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 19889, 
-      "date": "2013-05-11", 
-      "sedentary": 735, 
-      "actcal": 1799
+    "2015-10-11": {
+      "distance": 5.92, 
+      "margcal": 633, 
+      "weight": 0, 
+      "active1": 114, 
+      "calories": 2402, 
+      "active3": 48, 
+      "active2": 27, 
+      "steps": 12083, 
+      "date": "2015-10-11", 
+      "sedentary": 1251, 
+      "actcal": 978
     }, 
     "2015-05-21": {
       "distance": 10.18, 
@@ -10712,33 +11436,19 @@
       "biking": 14.2, 
       "actcal": 1247
     }, 
-    "2013-04-23": {
-      "distance": 3.14, 
-      "margcal": 0, 
+    "2014-10-17": {
+      "distance": 10.09, 
+      "margcal": 1091, 
       "weight": 0, 
-      "calories": 1730, 
+      "active1": 62, 
       "who": "dane", 
-      "active1": 0, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 6403, 
-      "date": "2013-04-23", 
-      "sedentary": 1440, 
-      "actcal": 0
-    }, 
-    "2014-03-29": {
-      "distance": 3.81, 
-      "margcal": 424, 
-      "weight": 159.1, 
-      "active1": 59, 
-      "who": "dane", 
-      "calories": 2129, 
-      "active3": 30, 
-      "active2": 74, 
-      "steps": 7783, 
-      "date": "2014-03-29", 
-      "sedentary": 1277, 
-      "actcal": 726
+      "calories": 2879, 
+      "active3": 131, 
+      "active2": 90, 
+      "steps": 20599, 
+      "date": "2014-10-17", 
+      "sedentary": 1157, 
+      "actcal": 1620
     }, 
     "2015-10-24": {
       "distance": 6.89, 
@@ -11039,49 +11749,109 @@
       "sedentary": 1272, 
       "actcal": 879
     }, 
-    "2014-10-08": {
-      "distance": 7.48, 
-      "margcal": 801, 
-      "weight": 158.4, 
-      "calories": 2547, 
-      "who": "dane", 
-      "active1": 55, 
-      "active3": 49, 
-      "active2": 148, 
-      "steps": 15284, 
-      "date": "2014-10-08", 
-      "sedentary": 1188, 
-      "biking": 18.5, 
-      "actcal": 1258
+    "2016-02-12": {
+      "distance": 9.95, 
+      "margcal": 1215, 
+      "weight": 159.9, 
+      "active1": 169, 
+      "calories": 3032, 
+      "active3": 93, 
+      "active2": 75, 
+      "steps": 20326, 
+      "date": "2016-02-12", 
+      "sedentary": 1103, 
+      "actcal": 1839
     }, 
-    "2014-10-09": {
-      "distance": 7.8, 
-      "margcal": 832, 
-      "weight": 157.9, 
-      "active1": 62, 
-      "who": "dane", 
-      "calories": 2603, 
-      "active3": 75, 
-      "active2": 123, 
-      "steps": 15938, 
-      "date": "2014-10-09", 
-      "sedentary": 1180, 
-      "biking": 12.8, 
-      "actcal": 1320
+    "2016-02-13": {
+      "distance": 10.65, 
+      "margcal": 1466, 
+      "weight": 160.6, 
+      "active1": 384, 
+      "calories": 3438, 
+      "active3": 117, 
+      "active2": 77, 
+      "steps": 21751, 
+      "date": "2016-02-13", 
+      "sedentary": 862, 
+      "actcal": 2504
     }, 
-    "2015-12-11": {
-      "distance": 8.48, 
-      "margcal": 1076, 
+    "2016-02-10": {
+      "distance": 8.3, 
+      "margcal": 961, 
       "weight": 0, 
-      "calories": 2954, 
-      "active1": 237, 
-      "active3": 72, 
-      "active2": 79, 
-      "steps": 17318, 
-      "date": "2015-12-11", 
-      "sedentary": 1052, 
-      "biking": 12.4, 
-      "actcal": 1808
+      "active1": 158, 
+      "calories": 2714, 
+      "active3": 76, 
+      "active2": 28, 
+      "steps": 16951, 
+      "date": "2016-02-10", 
+      "sedentary": 1178, 
+      "actcal": 1442
+    }, 
+    "2016-02-11": {
+      "distance": 5.86, 
+      "margcal": 646, 
+      "weight": 160, 
+      "active1": 102, 
+      "calories": 2356, 
+      "active3": 48, 
+      "active2": 50, 
+      "steps": 11964, 
+      "date": "2016-02-11", 
+      "sedentary": 1240, 
+      "actcal": 1014
+    }, 
+    "2016-02-16": {
+      "distance": 7.04, 
+      "margcal": 752, 
+      "weight": 161.5, 
+      "active1": 154, 
+      "calories": 2517, 
+      "active3": 49, 
+      "active2": 61, 
+      "steps": 14382, 
+      "date": "2016-02-16", 
+      "sedentary": 1176, 
+      "actcal": 1239
+    }, 
+    "2016-02-17": {
+      "distance": 9.38, 
+      "margcal": 931, 
+      "weight": 0, 
+      "active1": 170, 
+      "calories": 2730, 
+      "active3": 67, 
+      "active2": 69, 
+      "steps": 19150, 
+      "date": "2016-02-17", 
+      "sedentary": 1134, 
+      "actcal": 1502
+    }, 
+    "2016-02-14": {
+      "distance": 13.81, 
+      "margcal": 1683, 
+      "weight": 0, 
+      "active1": 319, 
+      "calories": 3665, 
+      "active3": 115, 
+      "active2": 132, 
+      "steps": 28210, 
+      "date": "2016-02-14", 
+      "sedentary": 874, 
+      "actcal": 2716
+    }, 
+    "2016-02-15": {
+      "distance": 7.84, 
+      "margcal": 1105, 
+      "weight": 0, 
+      "active1": 360, 
+      "calories": 3006, 
+      "active3": 60, 
+      "active2": 71, 
+      "steps": 16019, 
+      "date": "2016-02-15", 
+      "sedentary": 949, 
+      "actcal": 1976
     }, 
     "2015-08-13": {
       "distance": 8.06, 
@@ -11220,6 +11990,19 @@
       "biking": 9.3, 
       "actcal": 1556
     }, 
+    "2015-03-18": {
+      "distance": 7.72, 
+      "margcal": 836, 
+      "weight": 156.5, 
+      "calories": 2575, 
+      "active1": 67, 
+      "active3": 95, 
+      "active2": 76, 
+      "steps": 15744, 
+      "date": "2015-03-18", 
+      "sedentary": 1202, 
+      "actcal": 1275
+    }, 
     "2014-03-27": {
       "distance": 10.36, 
       "margcal": 1113, 
@@ -11333,19 +12116,20 @@
       "biking": 10.0, 
       "actcal": 1188
     }, 
-    "2013-04-01": {
-      "distance": 5.11, 
-      "margcal": 0, 
-      "weight": 0, 
-      "calories": 2001, 
+    "2013-09-11": {
+      "distance": 6.41, 
+      "margcal": 690, 
+      "weight": 156.2, 
+      "calories": 2458, 
       "who": "dane", 
-      "active1": 0, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 10429, 
-      "date": "2013-04-01", 
-      "sedentary": 1440, 
-      "actcal": 0
+      "active1": 80, 
+      "active3": 28, 
+      "active2": 145, 
+      "steps": 13073, 
+      "date": "2013-09-11", 
+      "sedentary": 712, 
+      "biking": 15.7, 
+      "actcal": 1158
     }, 
     "2013-04-06": {
       "distance": 6.06, 
@@ -11374,19 +12158,18 @@
       "sedentary": 1186, 
       "actcal": 1380
     }, 
-    "2013-04-04": {
-      "distance": 5.55, 
-      "margcal": 0, 
-      "weight": 170.9, 
-      "calories": 2057, 
-      "who": "dane", 
-      "active1": 757, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 11336, 
-      "date": "2013-04-04", 
-      "sedentary": 683, 
-      "actcal": 1287
+    "2015-11-04": {
+      "distance": 6.88, 
+      "margcal": 743, 
+      "weight": 156.1, 
+      "calories": 2482, 
+      "active1": 133, 
+      "active3": 77, 
+      "active2": 24, 
+      "steps": 14043, 
+      "date": "2015-11-04", 
+      "sedentary": 1206, 
+      "actcal": 1187
     }, 
     "2013-04-05": {
       "distance": 5.5, 
@@ -11545,19 +12328,18 @@
       "sedentary": 1212, 
       "actcal": 1285
     }, 
-    "2014-09-01": {
-      "distance": 10.21, 
-      "margcal": 691, 
+    "2015-10-21": {
+      "distance": 8.68, 
+      "margcal": 940, 
       "weight": 0, 
-      "calories": 2590, 
-      "who": "dane", 
-      "active1": 217, 
-      "active3": 88, 
-      "active2": 45, 
-      "steps": 20850, 
-      "date": "2014-09-01", 
-      "sedentary": 1090, 
-      "actcal": 1400
+      "active1": 118, 
+      "calories": 2696, 
+      "active3": 103, 
+      "active2": 51, 
+      "steps": 17719, 
+      "date": "2015-10-21", 
+      "sedentary": 1168, 
+      "actcal": 1435
     }, 
     "2013-01-26": {
       "distance": 3.06, 
@@ -11718,6 +12500,19 @@
       "sedentary": 1173, 
       "actcal": 1431
     }, 
+    "2016-01-29": {
+      "distance": 6.26, 
+      "margcal": 746, 
+      "weight": 0, 
+      "active1": 218, 
+      "calories": 2508, 
+      "active3": 37, 
+      "active2": 24, 
+      "steps": 12783, 
+      "date": "2016-01-29", 
+      "sedentary": 1161, 
+      "actcal": 1257
+    }, 
     "2013-09-12": {
       "distance": 7.5, 
       "margcal": 842, 
@@ -11759,20 +12554,19 @@
       "sedentary": 1210, 
       "actcal": 1175
     }, 
-    "2014-03-11": {
-      "distance": 7.43, 
-      "margcal": 804, 
-      "weight": 157.4, 
-      "active1": 55, 
-      "who": "dane", 
-      "calories": 2550, 
-      "active3": 72, 
-      "active2": 114, 
-      "steps": 15183, 
-      "date": "2014-03-11", 
-      "sedentary": 1199, 
-      "biking": 6.0, 
-      "actcal": 1246
+    "2015-10-20": {
+      "distance": 7.24, 
+      "margcal": 790, 
+      "weight": 157.9, 
+      "active1": 107, 
+      "calories": 2517, 
+      "active3": 83, 
+      "active2": 38, 
+      "steps": 14794, 
+      "date": "2015-10-20", 
+      "sedentary": 1212, 
+      "biking": 13.6, 
+      "actcal": 1209
     }, 
     "2015-03-17": {
       "distance": 7.6, 
@@ -11800,18 +12594,19 @@
       "sedentary": 1236, 
       "actcal": 979
     }, 
-    "2015-11-13": {
-      "distance": 10.35, 
-      "margcal": 1118, 
-      "weight": 156.7, 
-      "calories": 2903, 
-      "active1": 158, 
-      "active3": 110, 
-      "active2": 49, 
-      "steps": 21128, 
-      "date": "2015-11-13", 
-      "sedentary": 1123, 
-      "actcal": 1690
+    "2013-04-30": {
+      "distance": 4.09, 
+      "margcal": 0, 
+      "weight": 0, 
+      "calories": 1829, 
+      "who": "dane", 
+      "active1": 0, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 8349, 
+      "date": "2013-04-30", 
+      "sedentary": 1440, 
+      "actcal": 0
     }, 
     "2014-01-16": {
       "distance": 9.12, 
@@ -12076,19 +12871,19 @@
       "biking": 15.3, 
       "actcal": 1290
     }, 
-    "2013-09-30": {
-      "distance": 6.72, 
-      "margcal": 741, 
-      "weight": 156.6, 
-      "calories": 2501, 
-      "who": "dane", 
-      "active1": 93, 
-      "active3": 67, 
-      "active2": 93, 
-      "steps": 13732, 
-      "date": "2013-09-30", 
-      "sedentary": 1187, 
-      "actcal": 1212
+    "2015-11-20": {
+      "distance": 5.17, 
+      "margcal": 564, 
+      "weight": 156.5, 
+      "calories": 2249, 
+      "active1": 107, 
+      "active3": 51, 
+      "active2": 30, 
+      "steps": 10568, 
+      "date": "2015-11-20", 
+      "sedentary": 1252, 
+      "biking": 13.5, 
+      "actcal": 906
     }, 
     "2014-01-12": {
       "distance": 11.29, 
@@ -12232,33 +13027,31 @@
       "biking": 16.5, 
       "actcal": 1125
     }, 
-    "2013-07-27": {
-      "distance": 5.88, 
-      "margcal": 0, 
+    "2016-03-08": {
+      "distance": 9.69, 
+      "margcal": 919, 
       "weight": 0, 
-      "active1": 643, 
-      "who": "dane", 
-      "calories": 2072, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 11999, 
-      "date": "2013-07-27", 
-      "sedentary": 797, 
-      "actcal": 1200
+      "active1": 127, 
+      "calories": 2684, 
+      "active3": 64, 
+      "active2": 101, 
+      "steps": 19797, 
+      "date": "2016-03-08", 
+      "sedentary": 544, 
+      "actcal": 1450
     }, 
-    "2013-07-26": {
-      "distance": 3.89, 
-      "margcal": 0, 
+    "2016-03-09": {
+      "distance": 7.03, 
+      "margcal": 718, 
       "weight": 0, 
-      "active1": 0, 
-      "who": "dane", 
-      "calories": 1792, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 7936, 
-      "date": "2013-07-26", 
-      "sedentary": 1440, 
-      "actcal": 0
+      "active1": 195, 
+      "calories": 2475, 
+      "active3": 29, 
+      "active2": 73, 
+      "steps": 14352, 
+      "date": "2016-03-09", 
+      "sedentary": 1143, 
+      "actcal": 1246
     }, 
     "2013-07-29": {
       "distance": 4.03, 
@@ -12275,62 +13068,83 @@
       "biking": 15.6, 
       "actcal": 29
     }, 
-    "2013-07-28": {
-      "distance": 8.52, 
-      "margcal": 0, 
+    "2016-03-07": {
+      "distance": 9.11, 
+      "margcal": 852, 
       "weight": 0, 
-      "active1": 616, 
-      "who": "dane", 
-      "calories": 2207, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 17407, 
-      "date": "2013-07-28", 
-      "sedentary": 824, 
-      "actcal": 1305
+      "active1": 143, 
+      "calories": 2614, 
+      "active3": 48, 
+      "active2": 95, 
+      "steps": 18603, 
+      "date": "2016-03-07", 
+      "sedentary": 856, 
+      "actcal": 1373
     }, 
-    "2013-01-18": {
-      "distance": 3.94, 
-      "margcal": 0, 
-      "weight": 182.1, 
-      "active1": 0, 
-      "who": "dane", 
-      "calories": 2005, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 8054, 
-      "date": "2013-01-18", 
-      "sedentary": 1440, 
-      "actcal": 0
+    "2016-03-04": {
+      "distance": 8.37, 
+      "margcal": 826, 
+      "weight": 157.2, 
+      "active1": 168, 
+      "calories": 2588, 
+      "active3": 36, 
+      "active2": 91, 
+      "steps": 17100, 
+      "date": "2016-03-04", 
+      "sedentary": 1145, 
+      "actcal": 1359
     }, 
-    "2013-01-19": {
-      "distance": 8.32, 
-      "margcal": 0, 
-      "weight": 182.5, 
-      "active1": 569, 
-      "who": "dane", 
-      "calories": 2323, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 17001, 
-      "date": "2013-01-19", 
-      "sedentary": 871, 
-      "actcal": 1309
+    "2015-11-23": {
+      "distance": 7.82, 
+      "margcal": 847, 
+      "weight": 0, 
+      "calories": 2604, 
+      "active1": 128, 
+      "active3": 98, 
+      "active2": 20, 
+      "steps": 15964, 
+      "date": "2015-11-23", 
+      "sedentary": 1194, 
+      "actcal": 1310
     }, 
-    "2014-03-19": {
-      "distance": 4.06, 
-      "margcal": 444, 
-      "weight": 156.3, 
-      "active1": 88, 
-      "who": "dane", 
-      "calories": 2203, 
-      "active3": 16, 
-      "active2": 98, 
-      "steps": 8260, 
-      "date": "2014-03-19", 
-      "sedentary": 1238, 
-      "biking": 18.8, 
-      "actcal": 820
+    "2016-03-02": {
+      "distance": 8.19, 
+      "margcal": 804, 
+      "weight": 0, 
+      "active1": 152, 
+      "calories": 2553, 
+      "active3": 40, 
+      "active2": 92, 
+      "steps": 16719, 
+      "date": "2016-03-02", 
+      "sedentary": 1156, 
+      "actcal": 1313
+    }, 
+    "2016-03-03": {
+      "distance": 7.41, 
+      "margcal": 703, 
+      "weight": 156.5, 
+      "active1": 116, 
+      "calories": 2420, 
+      "active3": 32, 
+      "active2": 92, 
+      "steps": 15138, 
+      "date": "2016-03-03", 
+      "sedentary": 1200, 
+      "actcal": 1135
+    }, 
+    "2016-03-01": {
+      "distance": 6.29, 
+      "margcal": 540, 
+      "weight": 158.1, 
+      "active1": 99, 
+      "calories": 2238, 
+      "active3": 20, 
+      "active2": 85, 
+      "steps": 12840, 
+      "date": "2016-03-01", 
+      "sedentary": 1236, 
+      "actcal": 909
     }, 
     "2013-07-22": {
       "distance": 4.95, 
@@ -12361,20 +13175,45 @@
       "sedentary": 992, 
       "actcal": 1527
     }, 
-    "2014-03-18": {
-      "distance": 7.5, 
-      "margcal": 840, 
-      "weight": 158, 
-      "active1": 135, 
+    "2014-03-29": {
+      "distance": 3.81, 
+      "margcal": 424, 
+      "weight": 159.1, 
+      "active1": 59, 
       "who": "dane", 
-      "calories": 2718, 
-      "active3": 60, 
-      "active2": 130, 
-      "steps": 15168, 
-      "date": "2014-03-18", 
-      "sedentary": 1115, 
-      "biking": 15.0, 
-      "actcal": 1447
+      "calories": 2129, 
+      "active3": 30, 
+      "active2": 74, 
+      "steps": 7783, 
+      "date": "2014-03-29", 
+      "sedentary": 1277, 
+      "actcal": 726
+    }, 
+    "2015-01-05": {
+      "distance": 7.82, 
+      "margcal": 837, 
+      "weight": 158.8, 
+      "active1": 64, 
+      "calories": 2594, 
+      "active3": 87, 
+      "active2": 84, 
+      "steps": 15800, 
+      "date": "2015-01-05", 
+      "sedentary": 1205, 
+      "actcal": 1283
+    }, 
+    "2015-03-22": {
+      "distance": 11.2, 
+      "margcal": 1196, 
+      "weight": 157.2, 
+      "calories": 3016, 
+      "active1": 76, 
+      "active3": 138, 
+      "active2": 122, 
+      "steps": 22865, 
+      "date": "2015-03-22", 
+      "sedentary": 1104, 
+      "actcal": 1818
     }, 
     "2014-03-22": {
       "distance": 8.45, 
@@ -12507,34 +13346,31 @@
       "biking": 14.0, 
       "actcal": 1425
     }, 
-    "2013-09-17": {
-      "distance": 6.39, 
-      "margcal": 715, 
-      "weight": 157, 
-      "calories": 2512, 
-      "who": "dane", 
-      "active1": 115, 
-      "active3": 57, 
-      "active2": 102, 
-      "steps": 12957, 
-      "date": "2013-09-17", 
-      "sedentary": 1166, 
-      "biking": 13.0, 
-      "actcal": 1219
-    }, 
-    "2014-09-23": {
-      "distance": 8.68, 
-      "margcal": 935, 
+    "2016-01-19": {
+      "distance": 8.84, 
+      "margcal": 841, 
       "weight": 0, 
-      "calories": 2733, 
-      "who": "dane", 
-      "active1": 91, 
-      "active3": 81, 
-      "active2": 134, 
-      "steps": 17677, 
-      "date": "2014-09-23", 
-      "sedentary": 1134, 
-      "actcal": 1501
+      "active1": 177, 
+      "calories": 2633, 
+      "active3": 43, 
+      "active2": 103, 
+      "steps": 18050, 
+      "date": "2016-01-19", 
+      "sedentary": 1117, 
+      "actcal": 1426
+    }, 
+    "2016-01-18": {
+      "distance": 8.74, 
+      "margcal": 918, 
+      "weight": 160.6, 
+      "active1": 199, 
+      "calories": 2727, 
+      "active3": 47, 
+      "active2": 83, 
+      "steps": 17855, 
+      "date": "2016-01-18", 
+      "sedentary": 1111, 
+      "actcal": 1523
     }, 
     "2014-01-21": {
       "distance": 9.66, 
@@ -12551,62 +13387,109 @@
       "biking": 12.9, 
       "actcal": 1625
     }, 
-    "2015-03-27": {
-      "distance": 7.91, 
-      "margcal": 841, 
-      "weight": 156.3, 
-      "calories": 2613, 
-      "active1": 79, 
-      "active3": 59, 
-      "active2": 145, 
-      "steps": 16160, 
-      "date": "2015-03-27", 
-      "sedentary": 1157, 
-      "biking": 15.2, 
-      "actcal": 1362
-    }, 
-    "2014-01-22": {
-      "distance": 11.03, 
-      "margcal": 1224, 
-      "weight": 157.8, 
-      "calories": 3099, 
-      "who": "dane", 
-      "active1": 142, 
-      "active3": 116, 
-      "active2": 145, 
-      "steps": 22501, 
-      "date": "2014-01-22", 
-      "sedentary": 1037, 
-      "actcal": 1962
-    }, 
-    "2013-09-11": {
-      "distance": 6.41, 
-      "margcal": 690, 
-      "weight": 156.2, 
-      "calories": 2458, 
-      "who": "dane", 
-      "active1": 80, 
-      "active3": 28, 
-      "active2": 145, 
-      "steps": 13073, 
-      "date": "2013-09-11", 
-      "sedentary": 712, 
-      "biking": 15.7, 
-      "actcal": 1158
-    }, 
-    "2015-03-26": {
-      "distance": 10.39, 
-      "margcal": 1106, 
+    "2016-01-13": {
+      "distance": 12.65, 
+      "margcal": 1428, 
       "weight": 0, 
-      "calories": 2900, 
-      "active1": 61, 
-      "active3": 111, 
-      "active2": 136, 
-      "steps": 21224, 
-      "date": "2015-03-26", 
-      "sedentary": 1132, 
-      "biking": 15.4, 
-      "actcal": 1674
+      "active1": 183, 
+      "calories": 3309, 
+      "active3": 130, 
+      "active2": 100, 
+      "steps": 25827, 
+      "date": "2016-01-13", 
+      "sedentary": 1027, 
+      "actcal": 2197
+    }, 
+    "2016-01-12": {
+      "distance": 9.55, 
+      "margcal": 1433, 
+      "weight": 0, 
+      "active1": 506, 
+      "calories": 3456, 
+      "active3": 74, 
+      "active2": 57, 
+      "steps": 19464, 
+      "date": "2016-01-12", 
+      "sedentary": 803, 
+      "actcal": 2588
+    }, 
+    "2016-01-11": {
+      "distance": 8.37, 
+      "margcal": 1072, 
+      "weight": 0, 
+      "active1": 212, 
+      "calories": 2892, 
+      "active3": 54, 
+      "active2": 79, 
+      "steps": 17085, 
+      "date": "2016-01-11", 
+      "sedentary": 1095, 
+      "actcal": 1709
+    }, 
+    "2016-01-10": {
+      "distance": 9.29, 
+      "margcal": 980, 
+      "weight": 158.5, 
+      "active1": 179, 
+      "calories": 3058, 
+      "active3": 67, 
+      "active2": 76, 
+      "steps": 18966, 
+      "date": "2016-01-10", 
+      "sedentary": 1118, 
+      "actcal": 1568
+    }, 
+    "2016-01-17": {
+      "distance": 3.77, 
+      "margcal": 536, 
+      "weight": 0, 
+      "active1": 202, 
+      "calories": 2264, 
+      "active3": 9, 
+      "active2": 16, 
+      "steps": 7706, 
+      "date": "2016-01-17", 
+      "sedentary": 651, 
+      "actcal": 950
+    }, 
+    "2016-01-16": {
+      "distance": 7.64, 
+      "margcal": 999, 
+      "weight": 0, 
+      "active1": 172, 
+      "calories": 2785, 
+      "active3": 70, 
+      "active2": 73, 
+      "steps": 15606, 
+      "date": "2016-01-16", 
+      "sedentary": 1125, 
+      "actcal": 1567
+    }, 
+    "2016-01-15": {
+      "distance": 9.04, 
+      "margcal": 893, 
+      "weight": 0, 
+      "active1": 249, 
+      "calories": 2723, 
+      "active3": 50, 
+      "active2": 71, 
+      "steps": 18458, 
+      "date": "2016-01-15", 
+      "sedentary": 455, 
+      "actcal": 1565
+    }, 
+    "2016-01-14": {
+      "distance": 9.23, 
+      "margcal": 1327, 
+      "weight": 0, 
+      "active1": 193, 
+      "calories": 3120, 
+      "active3": 101, 
+      "active2": 29, 
+      "steps": 18598, 
+      "date": "2016-01-14", 
+      "sedentary": 771, 
+      "actcal": 1911
     }, 
     "2015-03-23": {
       "distance": 11.19, 
@@ -12622,18 +13505,18 @@
       "biking": 9.8, 
       "actcal": 1725
     }, 
-    "2015-03-22": {
-      "distance": 11.2, 
-      "margcal": 1196, 
-      "weight": 157.2, 
-      "calories": 3016, 
-      "active1": 76, 
-      "active3": 138, 
-      "active2": 122, 
-      "steps": 22865, 
-      "date": "2015-03-22", 
-      "sedentary": 1104, 
-      "actcal": 1818
+    "2016-03-19": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
     }, 
     "2015-03-21": {
       "distance": 11.25, 
@@ -12662,20 +13545,19 @@
       "biking": 15.4, 
       "actcal": 1775
     }, 
-    "2013-03-29": {
-      "distance": 8.67, 
-      "margcal": 710, 
-      "weight": 170.1, 
-      "calories": 2654, 
-      "who": "dane", 
-      "active1": 710, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 17717, 
-      "date": "2013-03-29", 
-      "sedentary": 730, 
-      "biking": 23.5, 
-      "actcal": 1833
+    "2015-03-27": {
+      "distance": 7.91, 
+      "margcal": 841, 
+      "weight": 156.3, 
+      "calories": 2613, 
+      "active1": 79, 
+      "active3": 59, 
+      "active2": 145, 
+      "steps": 16160, 
+      "date": "2015-03-27", 
+      "sedentary": 1157, 
+      "biking": 15.2, 
+      "actcal": 1362
     }, 
     "2013-03-28": {
       "distance": 5, 
@@ -12846,19 +13728,19 @@
       "biking": 9.2, 
       "actcal": 1145
     }, 
-    "2014-09-28": {
-      "distance": 9.15, 
-      "margcal": 979, 
-      "weight": 0, 
-      "calories": 2804, 
-      "who": "dane", 
-      "active1": 68, 
-      "active3": 103, 
-      "active2": 119, 
-      "steps": 18685, 
-      "date": "2014-09-28", 
-      "sedentary": 1150, 
-      "actcal": 1526
+    "2015-06-03": {
+      "distance": 8.33, 
+      "margcal": 888, 
+      "weight": 159, 
+      "active1": 108, 
+      "calories": 2659, 
+      "active3": 65, 
+      "active2": 93, 
+      "steps": 17018, 
+      "date": "2015-06-03", 
+      "sedentary": 1174, 
+      "biking": 13.6, 
+      "actcal": 1383
     }, 
     "2015-10-16": {
       "distance": 8.62, 
@@ -12928,19 +13810,18 @@
       "sedentary": 1212, 
       "actcal": 1236
     }, 
-    "2015-06-05": {
-      "distance": 9.26, 
-      "margcal": 991, 
-      "weight": 158.2, 
-      "active1": 128, 
-      "calories": 2774, 
-      "active3": 48, 
-      "active2": 133, 
-      "steps": 18919, 
-      "date": "2015-06-05", 
-      "sedentary": 1131, 
-      "biking": 19.2, 
-      "actcal": 1546
+    "2015-04-18": {
+      "distance": 15.02, 
+      "margcal": 1576, 
+      "weight": 0, 
+      "active1": 175, 
+      "calories": 3495, 
+      "active3": 154, 
+      "active2": 100, 
+      "steps": 30675, 
+      "date": "2015-04-18", 
+      "sedentary": 1011, 
+      "actcal": 2389
     }, 
     "2015-04-17": {
       "distance": 11.28, 
@@ -12997,19 +13878,20 @@
       "sedentary": 1161, 
       "actcal": 1155
     }, 
-    "2015-04-13": {
-      "distance": 10.78, 
-      "margcal": 1147, 
-      "weight": 0, 
-      "active1": 115, 
-      "calories": 2954, 
-      "active3": 116, 
-      "active2": 93, 
-      "steps": 21989, 
-      "date": "2015-04-13", 
-      "sedentary": 1116, 
-      "biking": 12.7, 
-      "actcal": 1747
+    "2013-09-16": {
+      "distance": 6.86, 
+      "margcal": 733, 
+      "weight": 157.3, 
+      "calories": 2547, 
+      "who": "dane", 
+      "active1": 124, 
+      "active3": 49, 
+      "active2": 126, 
+      "steps": 13580, 
+      "date": "2013-09-16", 
+      "sedentary": 1141, 
+      "biking": 17.6, 
+      "actcal": 1295
     }, 
     "2015-04-12": {
       "distance": 10.1, 
@@ -13038,19 +13920,18 @@
       "sedentary": 1147, 
       "actcal": 1628
     }, 
-    "2015-04-10": {
-      "distance": 8.33, 
-      "margcal": 887, 
-      "weight": 157.3, 
-      "active1": 176, 
-      "calories": 2669, 
-      "active3": 72, 
-      "active2": 42, 
-      "steps": 17015, 
-      "date": "2015-04-10", 
-      "sedentary": 1150, 
-      "biking": 17.2, 
-      "actcal": 1420
+    "2016-03-18": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
     }, 
     "2013-05-05": {
       "distance": 6.45, 
@@ -13223,6 +14104,20 @@
       "biking": 14.0, 
       "actcal": 1776
     }, 
+    "2015-12-18": {
+      "distance": 10.66, 
+      "margcal": 1016, 
+      "weight": 0, 
+      "calories": 2866, 
+      "active1": 241, 
+      "active3": 54, 
+      "active2": 92, 
+      "steps": 21775, 
+      "date": "2015-12-18", 
+      "sedentary": 663, 
+      "biking": 14.2, 
+      "actcal": 1727
+    }, 
     "2013-05-06": {
       "distance": 5.32, 
       "margcal": 0, 
@@ -13238,19 +14133,19 @@
       "biking": 11.5, 
       "actcal": 1312
     }, 
-    "2015-05-18": {
-      "distance": 9.07, 
-      "margcal": 959, 
-      "weight": 158.1, 
-      "active1": 157, 
-      "calories": 2774, 
-      "active3": 75, 
-      "active2": 82, 
-      "steps": 18521, 
-      "date": "2015-05-18", 
-      "sedentary": 1126, 
-      "biking": 15.2, 
-      "actcal": 1551
+    "2015-10-01": {
+      "distance": 7.66, 
+      "margcal": 822, 
+      "weight": 158.9, 
+      "active1": 90, 
+      "calories": 2570, 
+      "active3": 93, 
+      "active2": 49, 
+      "steps": 15637, 
+      "date": "2015-10-01", 
+      "sedentary": 1208, 
+      "biking": 15.0, 
+      "actcal": 1263
     }, 
     "2015-03-29": {
       "distance": 9.43, 
@@ -13458,19 +14353,18 @@
       "biking": 12.4, 
       "actcal": 1287
     }, 
-    "2013-05-25": {
-      "distance": 10.15, 
-      "margcal": 669, 
-      "weight": 0, 
-      "calories": 2547, 
-      "who": "dane", 
-      "active1": 669, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 20733, 
-      "date": "2013-05-25", 
-      "sedentary": 771, 
-      "actcal": 1695
+    "2015-02-03": {
+      "distance": 5.04, 
+      "margcal": 552, 
+      "weight": 155.9, 
+      "calories": 2253, 
+      "active1": 67, 
+      "active3": 45, 
+      "active2": 79, 
+      "steps": 10289, 
+      "date": "2015-02-03", 
+      "sedentary": 1249, 
+      "actcal": 900
     }, 
     "2013-06-19": {
       "distance": 7.27, 
@@ -13646,18 +14540,20 @@
       "sedentary": 1440, 
       "actcal": 0
     }, 
-    "2015-04-07": {
-      "distance": 8.31, 
-      "margcal": 899, 
-      "weight": 0, 
-      "active1": 78, 
-      "calories": 2626, 
-      "active3": 115, 
-      "active2": 21, 
-      "steps": 16975, 
-      "date": "2015-04-07", 
-      "sedentary": 1226, 
-      "actcal": 1299
+    "2013-02-18": {
+      "distance": 5.27, 
+      "margcal": 0, 
+      "weight": 180, 
+      "active1": 565, 
+      "who": "dane", 
+      "calories": 2091, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 10753, 
+      "date": "2013-02-18", 
+      "sedentary": 875, 
+      "biking": 6.0, 
+      "actcal": 1080
     }, 
     "2014-07-31": {
       "distance": 10.5, 
@@ -13687,6 +14583,20 @@
       "sedentary": 1157, 
       "actcal": 1275
     }, 
+    "2015-03-31": {
+      "distance": 8.71, 
+      "margcal": 946, 
+      "weight": 157.1, 
+      "calories": 2718, 
+      "active1": 70, 
+      "active3": 72, 
+      "active2": 151, 
+      "steps": 17796, 
+      "date": "2015-03-31", 
+      "sedentary": 1147, 
+      "biking": 14.9, 
+      "actcal": 1472
+    }, 
     "2015-04-19": {
       "distance": 13.29, 
       "margcal": 1418, 
@@ -13699,6 +14609,20 @@
       "date": "2015-04-19", 
       "sedentary": 1070, 
       "actcal": 2104
+    }, 
+    "2015-05-13": {
+      "distance": 7.88, 
+      "margcal": 838, 
+      "weight": 158.6, 
+      "active1": 112, 
+      "calories": 2608, 
+      "active3": 45, 
+      "active2": 109, 
+      "steps": 16085, 
+      "date": "2015-05-13", 
+      "sedentary": 1174, 
+      "biking": 19.0, 
+      "actcal": 1324
     }, 
     "2013-05-09": {
       "distance": 7.06, 
@@ -13715,18 +14639,19 @@
       "biking": 15.6, 
       "actcal": 1675
     }, 
-    "2015-04-18": {
-      "distance": 15.02, 
-      "margcal": 1576, 
-      "weight": 0, 
-      "active1": 175, 
-      "calories": 3495, 
-      "active3": 154, 
-      "active2": 100, 
-      "steps": 30675, 
-      "date": "2015-04-18", 
-      "sedentary": 1011, 
-      "actcal": 2389
+    "2015-06-05": {
+      "distance": 9.26, 
+      "margcal": 991, 
+      "weight": 158.2, 
+      "active1": 128, 
+      "calories": 2774, 
+      "active3": 48, 
+      "active2": 133, 
+      "steps": 18919, 
+      "date": "2015-06-05", 
+      "sedentary": 1131, 
+      "biking": 19.2, 
+      "actcal": 1546
     }, 
     "2015-05-11": {
       "distance": 6.13, 
@@ -13741,6 +14666,21 @@
       "sedentary": 1205, 
       "biking": 16.0, 
       "actcal": 1106
+    }, 
+    "2014-10-12": {
+      "distance": 11.63, 
+      "margcal": 1234, 
+      "weight": 0, 
+      "active1": 32, 
+      "who": "dane", 
+      "calories": 3036, 
+      "active3": 125, 
+      "active2": 162, 
+      "steps": 23747, 
+      "date": "2014-10-12", 
+      "sedentary": 1121, 
+      "biking": 16.5, 
+      "actcal": 1819
     }, 
     "2015-10-30": {
       "distance": 9.51, 
@@ -13822,6 +14762,33 @@
       "date": "2015-06-08", 
       "sedentary": 1111, 
       "actcal": 1676
+    }, 
+    "2016-02-27": {
+      "distance": 10.19, 
+      "margcal": 1087, 
+      "weight": 159.5, 
+      "active1": 121, 
+      "calories": 2877, 
+      "active3": 91, 
+      "active2": 93, 
+      "steps": 20816, 
+      "date": "2016-02-27", 
+      "sedentary": 1135, 
+      "actcal": 1651
+    }, 
+    "2013-01-19": {
+      "distance": 8.32, 
+      "margcal": 0, 
+      "weight": 182.5, 
+      "active1": 569, 
+      "who": "dane", 
+      "calories": 2323, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 17001, 
+      "date": "2013-01-19", 
+      "sedentary": 871, 
+      "actcal": 1309
     }, 
     "2014-08-18": {
       "distance": 7.75, 
@@ -14010,6 +14977,33 @@
       "sedentary": 1114, 
       "actcal": 1726
     }, 
+    "2013-05-25": {
+      "distance": 10.15, 
+      "margcal": 669, 
+      "weight": 0, 
+      "calories": 2547, 
+      "who": "dane", 
+      "active1": 669, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 20733, 
+      "date": "2013-05-25", 
+      "sedentary": 771, 
+      "actcal": 1695
+    }, 
+    "2016-03-14": {
+      "distance": 7.34, 
+      "margcal": 840, 
+      "weight": 0, 
+      "active1": 188, 
+      "calories": 2634, 
+      "active3": 52, 
+      "active2": 60, 
+      "steps": 14991, 
+      "date": "2016-03-14", 
+      "sedentary": 1140, 
+      "actcal": 1403
+    }, 
     "2015-12-20": {
       "distance": 6.99, 
       "margcal": 675, 
@@ -14022,6 +15016,20 @@
       "date": "2015-12-20", 
       "sedentary": 611, 
       "actcal": 1147
+    }, 
+    "2015-04-10": {
+      "distance": 8.33, 
+      "margcal": 887, 
+      "weight": 157.3, 
+      "active1": 176, 
+      "calories": 2669, 
+      "active3": 72, 
+      "active2": 42, 
+      "steps": 17015, 
+      "date": "2015-04-10", 
+      "sedentary": 1150, 
+      "biking": 17.2, 
+      "actcal": 1420
     }, 
     "2014-11-21": {
       "distance": 7.79, 
@@ -14093,19 +15101,19 @@
       "sedentary": 1232, 
       "actcal": 1168
     }, 
-    "2014-11-24": {
-      "distance": 7.64, 
-      "margcal": 858, 
+    "2012-12-16": {
+      "distance": 9.47, 
+      "margcal": 498, 
       "weight": 0, 
-      "active1": 54, 
+      "calories": 2558, 
       "who": "dane", 
-      "calories": 2566, 
-      "active3": 102, 
-      "active2": 60, 
-      "steps": 15601, 
-      "date": "2014-11-24", 
-      "sedentary": 1224, 
-      "actcal": 1241
+      "active1": 498, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 19332, 
+      "date": "2012-12-16", 
+      "sedentary": 942, 
+      "actcal": 1442
     }, 
     "2014-11-27": {
       "distance": 9.51, 
@@ -14276,17 +15284,31 @@
       "sedentary": 886, 
       "actcal": 1052
     }, 
-    "2013-08-15": {
-      "distance": 5.55, 
+    "2013-01-14": {
+      "distance": 4.82, 
       "margcal": 0, 
-      "weight": 157.8, 
-      "calories": 1888, 
-      "who": "dane", 
+      "weight": 183.3, 
       "active1": 0, 
+      "who": "dane", 
+      "calories": 2032, 
       "active3": 0, 
       "active2": 0, 
-      "steps": 11333, 
-      "date": "2013-08-15", 
+      "steps": 9844, 
+      "date": "2013-01-14", 
+      "sedentary": 1440, 
+      "actcal": 0
+    }, 
+    "2013-07-11": {
+      "distance": 5.19, 
+      "margcal": 0, 
+      "weight": 0, 
+      "active1": 0, 
+      "who": "dane", 
+      "calories": 1840, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 10598, 
+      "date": "2013-07-11", 
       "sedentary": 1440, 
       "actcal": 0
     }, 
@@ -14552,6 +15574,20 @@
       "sedentary": 1241, 
       "actcal": 1092
     }, 
+    "2013-11-05": {
+      "distance": 6.62, 
+      "margcal": 723, 
+      "weight": 155.7, 
+      "active1": 52, 
+      "who": "dane", 
+      "calories": 2445, 
+      "active3": 73, 
+      "active2": 84, 
+      "steps": 13293, 
+      "date": "2013-11-05", 
+      "sedentary": 734, 
+      "actcal": 1109
+    }, 
     "2014-06-09": {
       "distance": 11.24, 
       "margcal": 1223, 
@@ -14666,20 +15702,19 @@
       "sedentary": 1235, 
       "actcal": 1057
     }, 
-    "2014-07-07": {
-      "distance": 8.01, 
-      "margcal": 876, 
-      "weight": 157.7, 
-      "active1": 77, 
+    "2014-06-04": {
+      "distance": 8.56, 
+      "margcal": 929, 
+      "weight": 0, 
+      "active1": 72, 
       "who": "dane", 
-      "calories": 2717, 
-      "active3": 83, 
-      "active2": 115, 
-      "steps": 16316, 
-      "date": "2014-07-07", 
-      "sedentary": 1165, 
-      "biking": 10.0, 
-      "actcal": 1380
+      "calories": 2718, 
+      "active3": 108, 
+      "active2": 85, 
+      "steps": 17478, 
+      "date": "2014-06-04", 
+      "sedentary": 1175, 
+      "actcal": 1422
     }, 
     "2015-04-26": {
       "distance": 8.49, 
@@ -14793,6 +15828,21 @@
       "biking": 13.3, 
       "actcal": 1308
     }, 
+    "2014-07-24": {
+      "distance": 6.66, 
+      "margcal": 725, 
+      "weight": 158.4, 
+      "active1": 73, 
+      "who": "dane", 
+      "calories": 2485, 
+      "active3": 68, 
+      "active2": 93, 
+      "steps": 13604, 
+      "date": "2014-07-24", 
+      "sedentary": 1206, 
+      "biking": 15.8, 
+      "actcal": 1165
+    }, 
     "2014-05-25": {
       "distance": 12, 
       "margcal": 1304, 
@@ -14834,6 +15884,21 @@
       "biking": 10.3, 
       "actcal": 1683
     }, 
+    "2013-03-29": {
+      "distance": 8.67, 
+      "margcal": 710, 
+      "weight": 170.1, 
+      "calories": 2654, 
+      "who": "dane", 
+      "active1": 710, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 17717, 
+      "date": "2013-03-29", 
+      "sedentary": 730, 
+      "biking": 23.5, 
+      "actcal": 1833
+    }, 
     "2013-10-04": {
       "distance": 5.63, 
       "margcal": 631, 
@@ -14860,6 +15925,20 @@
       "date": "2015-05-26", 
       "sedentary": 1178, 
       "actcal": 1479
+    }, 
+    "2013-04-20": {
+      "distance": 4.78, 
+      "margcal": 0, 
+      "weight": 166.1, 
+      "calories": 1951, 
+      "who": "dane", 
+      "active1": 0, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 9756, 
+      "date": "2013-04-20", 
+      "sedentary": 1440, 
+      "actcal": 0
     }, 
     "2014-02-26": {
       "distance": 5.32, 
@@ -15033,19 +16112,18 @@
       "sedentary": 1187, 
       "actcal": 1354
     }, 
-    "2014-02-15": {
-      "distance": 7.36, 
-      "margcal": 796, 
-      "weight": 0, 
-      "calories": 2557, 
-      "who": "dane", 
-      "active1": 65, 
-      "active3": 94, 
-      "active2": 70, 
-      "steps": 15040, 
-      "date": "2014-02-15", 
-      "sedentary": 1211, 
-      "actcal": 1231
+    "2016-02-26": {
+      "distance": 7.81, 
+      "margcal": 831, 
+      "weight": 157.1, 
+      "active1": 121, 
+      "calories": 2564, 
+      "active3": 62, 
+      "active2": 60, 
+      "steps": 15954, 
+      "date": "2016-02-26", 
+      "sedentary": 1197, 
+      "actcal": 1280
     }, 
     "2014-02-16": {
       "distance": 7.24, 
@@ -15116,6 +16194,19 @@
       "date": "2014-08-24", 
       "sedentary": 853, 
       "actcal": 1805
+    }, 
+    "2016-03-15": {
+      "distance": 8.14, 
+      "margcal": 918, 
+      "weight": 0, 
+      "active1": 299, 
+      "calories": 2756, 
+      "active3": 36, 
+      "active2": 52, 
+      "steps": 16625, 
+      "date": "2016-03-31", 
+      "sedentary": 1053, 
+      "actcal": 1619
     }, 
     "2015-01-29": {
       "distance": 8.02, 
@@ -15259,31 +16350,109 @@
       "biking": 11.5, 
       "actcal": 1258
     }, 
-    "2015-03-18": {
-      "distance": 7.72, 
-      "margcal": 836, 
-      "weight": 156.5, 
-      "calories": 2575, 
-      "active1": 67, 
-      "active3": 95, 
+    "2016-01-22": {
+      "distance": 5.83, 
+      "margcal": 581, 
+      "weight": 0, 
+      "active1": 141, 
+      "calories": 2312, 
+      "active3": 25, 
       "active2": 76, 
-      "steps": 15744, 
-      "date": "2015-03-18", 
-      "sedentary": 1202, 
-      "actcal": 1275
+      "steps": 11887, 
+      "date": "2016-01-22", 
+      "sedentary": 1198, 
+      "actcal": 1020
     }, 
-    "2015-03-19": {
-      "distance": 6.29, 
-      "margcal": 695, 
-      "weight": 156.8, 
-      "calories": 2400, 
-      "active1": 60, 
-      "active3": 81, 
-      "active2": 59, 
-      "steps": 12841, 
-      "date": "2015-03-19", 
-      "sedentary": 1240, 
-      "actcal": 1060
+    "2016-01-23": {
+      "distance": 8.54, 
+      "margcal": 926, 
+      "weight": 158.4, 
+      "active1": 229, 
+      "calories": 2719, 
+      "active3": 44, 
+      "active2": 67, 
+      "steps": 17447, 
+      "date": "2016-01-23", 
+      "sedentary": 1100, 
+      "actcal": 1535
+    }, 
+    "2016-01-20": {
+      "distance": 7.91, 
+      "margcal": 939, 
+      "weight": 0, 
+      "active1": 159, 
+      "calories": 2722, 
+      "active3": 74, 
+      "active2": 69, 
+      "steps": 16159, 
+      "date": "2016-01-20", 
+      "sedentary": 1138, 
+      "actcal": 1495
+    }, 
+    "2016-01-21": {
+      "distance": 4.24, 
+      "margcal": 440, 
+      "weight": 0, 
+      "active1": 105, 
+      "calories": 2111, 
+      "active3": 19, 
+      "active2": 37, 
+      "steps": 8664, 
+      "date": "2016-01-21", 
+      "sedentary": 1279, 
+      "actcal": 732
+    }, 
+    "2016-01-26": {
+      "distance": 6.68, 
+      "margcal": 747, 
+      "weight": 158.3, 
+      "active1": 219, 
+      "calories": 2515, 
+      "active3": 32, 
+      "active2": 64, 
+      "steps": 13635, 
+      "date": "2016-01-26", 
+      "sedentary": 1125, 
+      "actcal": 1304
+    }, 
+    "2016-01-27": {
+      "distance": 7.13, 
+      "margcal": 831, 
+      "weight": 0, 
+      "active1": 228, 
+      "calories": 2620, 
+      "active3": 42, 
+      "active2": 65, 
+      "steps": 14567, 
+      "date": "2016-01-27", 
+      "sedentary": 1105, 
+      "actcal": 1430
+    }, 
+    "2016-01-24": {
+      "distance": 8.2, 
+      "margcal": 1082, 
+      "weight": 158.9, 
+      "active1": 140, 
+      "calories": 2881, 
+      "active3": 91, 
+      "active2": 80, 
+      "steps": 16745, 
+      "date": "2016-01-24", 
+      "sedentary": 1129, 
+      "actcal": 1663
+    }, 
+    "2016-01-25": {
+      "distance": 6.08, 
+      "margcal": 630, 
+      "weight": 160, 
+      "active1": 109, 
+      "calories": 2345, 
+      "active3": 42, 
+      "active2": 55, 
+      "steps": 12423, 
+      "date": "2016-01-25", 
+      "sedentary": 1234, 
+      "actcal": 1010
     }, 
     "2015-03-12": {
       "distance": 6.94, 
@@ -15311,31 +16480,31 @@
       "sedentary": 1216, 
       "actcal": 1124
     }, 
-    "2015-03-10": {
-      "distance": 0.01, 
-      "margcal": 2, 
+    "2016-01-28": {
+      "distance": 7.37, 
+      "margcal": 899, 
       "weight": 0, 
-      "calories": 1565, 
-      "active1": 2, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 23, 
-      "date": "2015-03-10", 
-      "sedentary": 1438, 
-      "actcal": 6
+      "active1": 197, 
+      "calories": 2674, 
+      "active3": 59, 
+      "active2": 56, 
+      "steps": 15048, 
+      "date": "2016-01-28", 
+      "sedentary": 1128, 
+      "actcal": 1459
     }, 
-    "2015-03-11": {
-      "distance": 1.44, 
-      "margcal": 159, 
+    "2016-02-24": {
+      "distance": 7.97, 
+      "margcal": 809, 
       "weight": 0, 
-      "calories": 1770, 
-      "active1": 25, 
-      "active3": 14, 
-      "active2": 23, 
-      "steps": 2934, 
-      "date": "2015-03-11", 
-      "sedentary": 1378, 
-      "actcal": 273
+      "active1": 80, 
+      "calories": 2515, 
+      "active3": 70, 
+      "active2": 64, 
+      "steps": 16268, 
+      "date": "2016-02-24", 
+      "sedentary": 1226, 
+      "actcal": 1198
     }, 
     "2012-12-31": {
       "distance": 5.79, 
@@ -15467,6 +16636,19 @@
       "sedentary": 1051, 
       "actcal": 2426
     }, 
+    "2016-03-10": {
+      "distance": 7.86, 
+      "margcal": 721, 
+      "weight": 0, 
+      "active1": 98, 
+      "calories": 2431, 
+      "active3": 42, 
+      "active2": 92, 
+      "steps": 16051, 
+      "date": "2016-03-10", 
+      "sedentary": 1208, 
+      "actcal": 1133
+    }, 
     "2013-11-04": {
       "distance": 6.22, 
       "margcal": 671, 
@@ -15482,19 +16664,19 @@
       "biking": 15.1, 
       "actcal": 1078
     }, 
-    "2013-11-05": {
-      "distance": 6.62, 
-      "margcal": 723, 
-      "weight": 155.7, 
-      "active1": 52, 
+    "2012-12-10": {
+      "distance": 5.22, 
+      "margcal": 0, 
+      "weight": 0, 
+      "calories": 1971, 
       "who": "dane", 
-      "calories": 2445, 
-      "active3": 73, 
-      "active2": 84, 
-      "steps": 13293, 
-      "date": "2013-11-05", 
-      "sedentary": 734, 
-      "actcal": 1109
+      "active1": 0, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 10665, 
+      "date": "2012-12-10", 
+      "sedentary": 1440, 
+      "actcal": 0
     }, 
     "2013-11-06": {
       "distance": 4.53, 
@@ -15637,19 +16819,20 @@
       "biking": 15.0, 
       "actcal": 726
     }, 
-    "2015-10-01": {
-      "distance": 7.66, 
-      "margcal": 822, 
-      "weight": 158.9, 
-      "active1": 90, 
-      "calories": 2570, 
-      "active3": 93, 
-      "active2": 49, 
-      "steps": 15637, 
-      "date": "2015-10-01", 
-      "sedentary": 1208, 
-      "biking": 15.0, 
-      "actcal": 1263
+    "2013-05-01": {
+      "distance": 5.62, 
+      "margcal": 0, 
+      "weight": 165.7, 
+      "calories": 2299, 
+      "who": "dane", 
+      "active1": 682, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 11468, 
+      "date": "2013-05-01", 
+      "sedentary": 758, 
+      "biking": 15.1, 
+      "actcal": 1457
     }, 
     "2015-05-19": {
       "distance": 7.68, 
@@ -15785,19 +16968,18 @@
       "biking": 10.1, 
       "actcal": 1409
     }, 
-    "2015-05-13": {
-      "distance": 7.88, 
-      "margcal": 838, 
-      "weight": 158.6, 
-      "active1": 112, 
-      "calories": 2608, 
-      "active3": 45, 
-      "active2": 109, 
-      "steps": 16085, 
-      "date": "2015-05-13", 
-      "sedentary": 1174, 
-      "biking": 19.0, 
-      "actcal": 1324
+    "2016-02-18": {
+      "distance": 4.26, 
+      "margcal": 471, 
+      "weight": 159.1, 
+      "active1": 192, 
+      "calories": 2175, 
+      "active3": 8, 
+      "active2": 15, 
+      "steps": 8705, 
+      "date": "2016-02-18", 
+      "sedentary": 1225, 
+      "actcal": 853
     }, 
     "2015-12-17": {
       "distance": 7.21, 
@@ -15812,19 +16994,18 @@
       "sedentary": 1196, 
       "actcal": 1155
     }, 
-    "2012-11-30": {
-      "distance": 4.86, 
-      "margcal": 0, 
+    "2016-02-01": {
+      "distance": 7.21, 
+      "margcal": 867, 
       "weight": 0, 
-      "calories": 2165, 
-      "who": "dane", 
-      "active1": 489, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 9923, 
-      "date": "2012-11-30", 
-      "sedentary": 951, 
-      "actcal": 1036
+      "active1": 142, 
+      "calories": 2628, 
+      "active3": 69, 
+      "active2": 71, 
+      "steps": 14723, 
+      "date": "2016-02-01", 
+      "sedentary": 1158, 
+      "actcal": 1381
     }, 
     "2015-12-23": {
       "distance": 6.7, 
@@ -15865,6 +17046,21 @@
       "date": "2015-11-28", 
       "sedentary": 1154, 
       "actcal": 1398
+    }, 
+    "2013-02-20": {
+      "distance": 5.14, 
+      "margcal": 0, 
+      "weight": 178.7, 
+      "active1": 707, 
+      "who": "dane", 
+      "calories": 2337, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 10499, 
+      "date": "2013-02-20", 
+      "sedentary": 733, 
+      "biking": 13.0, 
+      "actcal": 1493
     }, 
     "2015-01-25": {
       "distance": 6.81, 
@@ -16076,48 +17272,44 @@
       "biking": 13.6, 
       "actcal": 1170
     }, 
-    "2013-06-21": {
-      "distance": 5.59, 
-      "margcal": 0, 
-      "weight": 159.9, 
-      "active1": 680, 
-      "who": "dane", 
-      "calories": 2238, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 11417, 
-      "date": "2013-06-21", 
-      "sedentary": 760, 
-      "biking": 12.7, 
-      "actcal": 1408
+    "2016-02-04": {
+      "distance": 5.87, 
+      "margcal": 579, 
+      "weight": 159.7, 
+      "active1": 99, 
+      "calories": 2281, 
+      "active3": 32, 
+      "active2": 67, 
+      "steps": 11991, 
+      "date": "2016-02-04", 
+      "sedentary": 1242, 
+      "actcal": 939
     }, 
-    "2014-10-17": {
-      "distance": 10.09, 
-      "margcal": 1091, 
-      "weight": 0, 
-      "active1": 62, 
-      "who": "dane", 
-      "calories": 2879, 
-      "active3": 131, 
-      "active2": 90, 
-      "steps": 20599, 
-      "date": "2014-10-17", 
-      "sedentary": 1157, 
-      "actcal": 1620
+    "2016-02-09": {
+      "distance": 3.59, 
+      "margcal": 494, 
+      "weight": 158.9, 
+      "active1": 172, 
+      "calories": 2197, 
+      "active3": 27, 
+      "active2": 4, 
+      "steps": 7335, 
+      "date": "2016-02-09", 
+      "sedentary": 1237, 
+      "actcal": 864
     }, 
-    "2014-10-16": {
-      "distance": 9.76, 
-      "margcal": 1046, 
+    "2016-02-08": {
+      "distance": 4.81, 
+      "margcal": 737, 
       "weight": 0, 
-      "active1": 35, 
-      "who": "dane", 
-      "calories": 2804, 
-      "active3": 144, 
-      "active2": 60, 
-      "steps": 19943, 
-      "date": "2014-10-16", 
-      "sedentary": 1201, 
-      "actcal": 1503
+      "active1": 139, 
+      "calories": 2475, 
+      "active3": 61, 
+      "active2": 44, 
+      "steps": 9827, 
+      "date": "2016-02-08", 
+      "sedentary": 1196, 
+      "actcal": 1186
     }, 
     "2013-02-28": {
       "distance": 5.47, 
@@ -16162,20 +17354,18 @@
       "sedentary": 1238, 
       "actcal": 929
     }, 
-    "2014-10-12": {
-      "distance": 11.63, 
-      "margcal": 1234, 
+    "2016-02-07": {
+      "distance": 10.04, 
+      "margcal": 1033, 
       "weight": 0, 
-      "active1": 32, 
-      "who": "dane", 
-      "calories": 3036, 
-      "active3": 125, 
-      "active2": 162, 
-      "steps": 23747, 
-      "date": "2014-10-12", 
-      "sedentary": 1121, 
-      "biking": 16.5, 
-      "actcal": 1819
+      "active1": 129, 
+      "calories": 2811, 
+      "active3": 73, 
+      "active2": 101, 
+      "steps": 20512, 
+      "date": "2016-02-07", 
+      "sedentary": 1137, 
+      "actcal": 1586
     }, 
     "2014-10-11": {
       "distance": 7.52, 
@@ -16205,20 +17395,19 @@
       "sedentary": 1153, 
       "actcal": 1691
     }, 
-    "2013-02-22": {
-      "distance": 4.59, 
+    "2012-11-30": {
+      "distance": 4.86, 
       "margcal": 0, 
-      "weight": 177.7, 
-      "active1": 647, 
+      "weight": 0, 
+      "calories": 2165, 
       "who": "dane", 
-      "calories": 2132, 
+      "active1": 489, 
       "active3": 0, 
       "active2": 0, 
-      "steps": 9367, 
-      "date": "2013-02-22", 
-      "sedentary": 793, 
-      "biking": 16.0, 
-      "actcal": 1221
+      "steps": 9923, 
+      "date": "2012-11-30", 
+      "sedentary": 951, 
+      "actcal": 1036
     }, 
     "2013-02-23": {
       "distance": 10.58, 
@@ -16234,49 +17423,44 @@
       "sedentary": 840, 
       "actcal": 1379
     }, 
-    "2013-02-20": {
-      "distance": 5.14, 
-      "margcal": 0, 
-      "weight": 178.7, 
-      "active1": 707, 
-      "who": "dane", 
-      "calories": 2337, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 10499, 
-      "date": "2013-02-20", 
-      "sedentary": 733, 
-      "biking": 13.0, 
-      "actcal": 1493
+    "2016-02-03": {
+      "distance": 9.04, 
+      "margcal": 808, 
+      "weight": 159.6, 
+      "active1": 188, 
+      "calories": 2604, 
+      "active3": 31, 
+      "active2": 87, 
+      "steps": 18465, 
+      "date": "2016-02-03", 
+      "sedentary": 1134, 
+      "actcal": 1379
     }, 
-    "2013-02-21": {
-      "distance": 6.53, 
-      "margcal": 0, 
-      "weight": 177.9, 
-      "active1": 578, 
-      "who": "dane", 
-      "calories": 2234, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 13346, 
-      "date": "2013-02-21", 
-      "sedentary": 862, 
-      "actcal": 1243
+    "2016-02-02": {
+      "distance": 6.6, 
+      "margcal": 665, 
+      "weight": 158.4, 
+      "active1": 99, 
+      "calories": 2371, 
+      "active3": 43, 
+      "active2": 71, 
+      "steps": 13472, 
+      "date": "2016-02-02", 
+      "sedentary": 1227, 
+      "actcal": 1050
     }, 
-    "2013-05-01": {
-      "distance": 5.62, 
-      "margcal": 0, 
-      "weight": 165.7, 
-      "calories": 2299, 
-      "who": "dane", 
-      "active1": 682, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 11468, 
-      "date": "2013-05-01", 
-      "sedentary": 758, 
-      "biking": 15.1, 
-      "actcal": 1457
+    "2016-02-05": {
+      "distance": 9.28, 
+      "margcal": 893, 
+      "weight": 158.2, 
+      "active1": 112, 
+      "calories": 2639, 
+      "active3": 49, 
+      "active2": 110, 
+      "steps": 18956, 
+      "date": "2016-02-05", 
+      "sedentary": 1169, 
+      "actcal": 1382
     }, 
     "2013-02-27": {
       "distance": 5.19, 
@@ -16307,19 +17491,18 @@
       "sedentary": 775, 
       "actcal": 1485
     }, 
-    "2013-02-25": {
-      "distance": 7.69, 
-      "margcal": 0, 
+    "2016-02-06": {
+      "distance": 10.43, 
+      "margcal": 1094, 
       "weight": 0, 
-      "active1": 577, 
-      "who": "dane", 
-      "calories": 2271, 
-      "active3": 0, 
-      "active2": 0, 
-      "steps": 15704, 
-      "date": "2013-02-25", 
-      "sedentary": 863, 
-      "actcal": 1279
+      "active1": 128, 
+      "calories": 2872, 
+      "active3": 83, 
+      "active2": 92, 
+      "steps": 21307, 
+      "date": "2016-02-06", 
+      "sedentary": 1137, 
+      "actcal": 1647
     }
   }, 
   "cindy": {
@@ -16348,6 +17531,19 @@
       "date": "2015-12-07", 
       "sedentary": 1185, 
       "actcal": 1076
+    }, 
+    "2016-02-25": {
+      "margcal": 574, 
+      "weight": 0, 
+      "calories": 1998, 
+      "date": "2016-02-25", 
+      "distance": 6.68, 
+      "active1": 146, 
+      "active3": 50, 
+      "active2": 62, 
+      "steps": 14331, 
+      "sedentary": 1182, 
+      "actcal": 946
     }, 
     "2013-07-06": {
       "distance": 7.94, 
@@ -16466,18 +17662,18 @@
       "sedentary": 1268, 
       "actcal": 700
     }, 
-    "2013-09-05": {
-      "distance": 2.93, 
-      "margcal": 308, 
-      "weight": 137.4, 
-      "calories": 1716, 
-      "active1": 150, 
-      "active3": 11, 
-      "active2": 45, 
-      "steps": 6287, 
-      "date": "2013-09-05", 
-      "sedentary": 1234, 
-      "actcal": 604
+    "2015-11-15": {
+      "distance": 9.4, 
+      "margcal": 760, 
+      "weight": 0, 
+      "calories": 2264, 
+      "active1": 177, 
+      "active3": 47, 
+      "active2": 102, 
+      "steps": 20174, 
+      "date": "2015-11-15", 
+      "sedentary": 1114, 
+      "actcal": 1265
     }, 
     "2013-04-14": {
       "distance": 8.69, 
@@ -16817,6 +18013,19 @@
       "sedentary": 1079, 
       "actcal": 1159
     }, 
+    "2016-03-25": {
+      "margcal": 566, 
+      "weight": 138.1, 
+      "calories": 2036, 
+      "date": "2016-03-25", 
+      "distance": 7.76, 
+      "active1": 172, 
+      "active3": 36, 
+      "active2": 84, 
+      "steps": 16662, 
+      "sedentary": 1148, 
+      "actcal": 1011
+    }, 
     "2013-07-02": {
       "distance": 5.22, 
       "margcal": 425, 
@@ -16830,18 +18039,18 @@
       "sedentary": 1238, 
       "actcal": 725
     }, 
-    "2013-07-01": {
-      "distance": 4.77, 
-      "margcal": 398, 
-      "weight": 139.6, 
-      "calories": 1822, 
-      "active1": 119, 
-      "active3": 19, 
-      "active2": 69, 
-      "steps": 10230, 
-      "date": "2013-07-01", 
-      "sedentary": 1233, 
-      "actcal": 702
+    "2013-02-26": {
+      "distance": 8.6, 
+      "margcal": 716, 
+      "weight": 151.8, 
+      "calories": 2255, 
+      "active1": 111, 
+      "active3": 81, 
+      "active2": 80, 
+      "steps": 18065, 
+      "date": "2013-02-26", 
+      "sedentary": 1168, 
+      "actcal": 1150
     }, 
     "2015-07-09": {
       "distance": 8.21, 
@@ -16868,6 +18077,19 @@
       "date": "2015-07-08", 
       "sedentary": 1224, 
       "actcal": 891
+    }, 
+    "2016-03-29": {
+      "margcal": 503, 
+      "weight": 0, 
+      "calories": 1924, 
+      "date": "2016-03-29", 
+      "distance": 6.37, 
+      "active1": 103, 
+      "active3": 49, 
+      "active2": 65, 
+      "steps": 13670, 
+      "sedentary": 1223, 
+      "actcal": 834
     }, 
     "2015-07-05": {
       "distance": 10.44, 
@@ -16986,6 +18208,19 @@
       "sedentary": 946, 
       "actcal": 867
     }, 
+    "2013-02-18": {
+      "distance": 6.12, 
+      "margcal": 528, 
+      "weight": 153.3, 
+      "calories": 2050, 
+      "active1": 120, 
+      "active3": 39, 
+      "active2": 82, 
+      "steps": 13127, 
+      "date": "2013-02-18", 
+      "sedentary": 1199, 
+      "actcal": 910
+    }, 
     "2013-09-08": {
       "distance": 7.16, 
       "margcal": 679, 
@@ -16998,6 +18233,19 @@
       "date": "2013-09-08", 
       "sedentary": 1130, 
       "actcal": 1133
+    }, 
+    "2015-12-26": {
+      "distance": 7.5, 
+      "margcal": 707, 
+      "weight": 136.1, 
+      "calories": 2231, 
+      "active1": 386, 
+      "active3": 23, 
+      "active2": 46, 
+      "steps": 16094, 
+      "date": "2015-12-26", 
+      "sedentary": 985, 
+      "actcal": 1354
     }, 
     "2013-07-14": {
       "distance": 9.22, 
@@ -17129,6 +18377,32 @@
       "sedentary": 1194, 
       "actcal": 918
     }, 
+    "2016-03-17": {
+      "margcal": 537, 
+      "weight": 0, 
+      "calories": 1955, 
+      "date": "2016-03-17", 
+      "distance": 7.61, 
+      "active1": 92, 
+      "active3": 32, 
+      "active2": 98, 
+      "steps": 16326, 
+      "sedentary": 1218, 
+      "actcal": 870
+    }, 
+    "2016-03-16": {
+      "margcal": 598, 
+      "weight": 136.4, 
+      "calories": 2102, 
+      "date": "2016-03-16", 
+      "distance": 7.85, 
+      "active1": 153, 
+      "active3": 38, 
+      "active2": 78, 
+      "steps": 16841, 
+      "sedentary": 1171, 
+      "actcal": 998
+    }, 
     "2013-07-18": {
       "distance": 5.12, 
       "margcal": 438, 
@@ -17155,18 +18429,44 @@
       "sedentary": 1238, 
       "actcal": 802
     }, 
-    "2015-06-14": {
-      "distance": 7.5, 
-      "margcal": 643, 
+    "2016-03-13": {
+      "margcal": 613, 
       "weight": 0, 
-      "calories": 2137, 
-      "active1": 270, 
-      "active3": 53, 
-      "active2": 49, 
-      "steps": 16093, 
-      "date": "2015-06-14", 
-      "sedentary": 1068, 
-      "actcal": 1184
+      "calories": 2063, 
+      "date": "2016-03-13", 
+      "distance": 8.14, 
+      "active1": 149, 
+      "active3": 55, 
+      "active2": 60, 
+      "steps": 17469, 
+      "sedentary": 1176, 
+      "actcal": 1018
+    }, 
+    "2016-03-12": {
+      "margcal": 855, 
+      "weight": 0, 
+      "calories": 2391, 
+      "date": "2016-03-12", 
+      "distance": 11, 
+      "active1": 266, 
+      "active3": 49, 
+      "active2": 91, 
+      "steps": 23608, 
+      "sedentary": 1034, 
+      "actcal": 1473
+    }, 
+    "2015-02-03": {
+      "distance": 6.92, 
+      "margcal": 472, 
+      "weight": 136, 
+      "calories": 1898, 
+      "active1": 92, 
+      "active3": 29, 
+      "active2": 102, 
+      "steps": 14858, 
+      "date": "2015-02-03", 
+      "sedentary": 1217, 
+      "actcal": 814
     }, 
     "2014-03-31": {
       "distance": 6.23, 
@@ -17193,6 +18493,19 @@
       "date": "2014-03-30", 
       "sedentary": 1206, 
       "actcal": 819
+    }, 
+    "2016-02-02": {
+      "margcal": 447, 
+      "weight": 138.1, 
+      "calories": 1853, 
+      "date": "2016-02-02", 
+      "distance": 6.63, 
+      "active1": 57, 
+      "active3": 34, 
+      "active2": 84, 
+      "steps": 14122, 
+      "sedentary": 1265, 
+      "actcal": 723
     }, 
     "2013-04-11": {
       "distance": 5.13, 
@@ -17389,18 +18702,18 @@
       "sedentary": 1042, 
       "actcal": 1195
     }, 
-    "2015-11-15": {
-      "distance": 9.4, 
-      "margcal": 760, 
-      "weight": 0, 
-      "calories": 2264, 
-      "active1": 177, 
-      "active3": 47, 
-      "active2": 102, 
-      "steps": 20174, 
-      "date": "2015-11-15", 
-      "sedentary": 1114, 
-      "actcal": 1265
+    "2013-09-05": {
+      "distance": 2.93, 
+      "margcal": 308, 
+      "weight": 137.4, 
+      "calories": 1716, 
+      "active1": 150, 
+      "active3": 11, 
+      "active2": 45, 
+      "steps": 6287, 
+      "date": "2013-09-05", 
+      "sedentary": 1234, 
+      "actcal": 604
     }, 
     "2013-09-04": {
       "distance": 7.52, 
@@ -17558,6 +18871,19 @@
       "sedentary": 1125, 
       "actcal": 1144
     }, 
+    "2015-11-06": {
+      "distance": 8.19, 
+      "margcal": 542, 
+      "weight": 136, 
+      "calories": 2003, 
+      "active1": 146, 
+      "active3": 39, 
+      "active2": 82, 
+      "steps": 17568, 
+      "date": "2015-11-06", 
+      "sedentary": 1173, 
+      "actcal": 959
+    }, 
     "2015-02-01": {
       "distance": 7.92, 
       "margcal": 689, 
@@ -17570,6 +18896,19 @@
       "date": "2015-02-01", 
       "sedentary": 1154, 
       "actcal": 1118
+    }, 
+    "2016-01-04": {
+      "margcal": 473, 
+      "weight": 136.4, 
+      "calories": 1882, 
+      "date": "2016-01-04", 
+      "distance": 6.61, 
+      "active1": 112, 
+      "active3": 35, 
+      "active2": 57, 
+      "steps": 14036, 
+      "sedentary": 1236, 
+      "actcal": 784
     }, 
     "2014-03-07": {
       "distance": 8.57, 
@@ -17727,6 +19066,19 @@
       "sedentary": 1034, 
       "actcal": 1815
     }, 
+    "2016-01-07": {
+      "margcal": 603, 
+      "weight": 136.8, 
+      "calories": 2034, 
+      "date": "2016-01-07", 
+      "distance": 7.74, 
+      "active1": 100, 
+      "active3": 53, 
+      "active2": 84, 
+      "steps": 16598, 
+      "sedentary": 1203, 
+      "actcal": 965
+    }, 
     "2014-01-08": {
       "distance": 6.72, 
       "margcal": 543, 
@@ -17765,6 +19117,19 @@
       "date": "2014-03-03", 
       "sedentary": 1150, 
       "actcal": 1104
+    }, 
+    "2016-02-26": {
+      "margcal": 856, 
+      "weight": 137, 
+      "calories": 2413, 
+      "date": "2016-02-26", 
+      "distance": 9.53, 
+      "active1": 416, 
+      "active3": 23, 
+      "active2": 85, 
+      "steps": 20452, 
+      "sedentary": 916, 
+      "actcal": 1597
     }, 
     "2015-02-19": {
       "distance": 12.13, 
@@ -18013,6 +19378,19 @@
       "sedentary": 1164, 
       "actcal": 1047
     }, 
+    "2016-02-24": {
+      "margcal": 501, 
+      "weight": 0, 
+      "calories": 1939, 
+      "date": "2016-02-24", 
+      "distance": 8.02, 
+      "active1": 70, 
+      "active3": 30, 
+      "active2": 118, 
+      "steps": 17208, 
+      "sedentary": 1222, 
+      "actcal": 852
+    }, 
     "2013-12-21": {
       "distance": 8.43, 
       "margcal": 610, 
@@ -18052,19 +19430,6 @@
       "sedentary": 1157, 
       "actcal": 1051
     }, 
-    "2013-05-21": {
-      "distance": 3.93, 
-      "margcal": 366, 
-      "weight": 141.4, 
-      "calories": 1812, 
-      "active1": 109, 
-      "active3": 24, 
-      "active2": 72, 
-      "steps": 8442, 
-      "date": "2013-05-21", 
-      "sedentary": 1235, 
-      "actcal": 684
-    }, 
     "2015-05-28": {
       "distance": 8.32, 
       "margcal": 615, 
@@ -18090,6 +19455,19 @@
       "date": "2014-09-11", 
       "sedentary": 1150, 
       "actcal": 1152
+    }, 
+    "2016-03-08": {
+      "margcal": 671, 
+      "weight": 0, 
+      "calories": 2133, 
+      "date": "2016-03-08", 
+      "distance": 9.22, 
+      "active1": 110, 
+      "active3": 53, 
+      "active2": 111, 
+      "steps": 19764, 
+      "sedentary": 1166, 
+      "actcal": 1098
     }, 
     "2015-10-14": {
       "distance": 7.51, 
@@ -18182,18 +19560,31 @@
       "sedentary": 1116, 
       "actcal": 664
     }, 
-    "2015-07-20": {
-      "distance": 8.13, 
-      "margcal": 560, 
-      "weight": 136.2, 
-      "calories": 2050, 
-      "active1": 202, 
-      "active3": 32, 
-      "active2": 76, 
-      "steps": 17446, 
-      "date": "2015-07-20", 
-      "sedentary": 1130, 
-      "actcal": 1043
+    "2016-01-21": {
+      "margcal": 499, 
+      "weight": 0, 
+      "calories": 1922, 
+      "date": "2016-01-21", 
+      "distance": 6.39, 
+      "active1": 82, 
+      "active3": 47, 
+      "active2": 72, 
+      "steps": 13453, 
+      "sedentary": 1239, 
+      "actcal": 817
+    }, 
+    "2016-01-16": {
+      "margcal": 691, 
+      "weight": 0, 
+      "calories": 2190, 
+      "date": "2016-01-16", 
+      "distance": 9.89, 
+      "active1": 230, 
+      "active3": 41, 
+      "active2": 110, 
+      "steps": 21219, 
+      "sedentary": 1059, 
+      "actcal": 1241
     }, 
     "2015-10-13": {
       "distance": 8.06, 
@@ -18286,6 +19677,19 @@
       "sedentary": 1141, 
       "actcal": 1265
     }, 
+    "2016-03-09": {
+      "margcal": 559, 
+      "weight": 0, 
+      "calories": 1990, 
+      "date": "2016-03-09", 
+      "distance": 7.2, 
+      "active1": 104, 
+      "active3": 51, 
+      "active2": 76, 
+      "steps": 15457, 
+      "sedentary": 1209, 
+      "actcal": 917
+    }, 
     "2014-08-03": {
       "distance": 7.7, 
       "margcal": 579, 
@@ -18364,18 +19768,18 @@
       "sedentary": 1175, 
       "actcal": 1037
     }, 
-    "2015-12-08": {
-      "distance": 9.33, 
-      "margcal": 665, 
+    "2013-05-23": {
+      "distance": 8.96, 
+      "margcal": 699, 
       "weight": 0, 
-      "calories": 2135, 
-      "active1": 121, 
-      "active3": 53, 
-      "active2": 104, 
-      "steps": 20011, 
-      "date": "2015-12-08", 
-      "sedentary": 1162, 
-      "actcal": 1102
+      "calories": 2235, 
+      "active1": 183, 
+      "active3": 40, 
+      "active2": 147, 
+      "steps": 19224, 
+      "date": "2013-05-23", 
+      "sedentary": 1070, 
+      "actcal": 1251
     }, 
     "2014-10-28": {
       "distance": 7.62, 
@@ -18806,6 +20210,19 @@
       "sedentary": 1302, 
       "actcal": 485
     }, 
+    "2016-01-14": {
+      "margcal": 651, 
+      "weight": 0, 
+      "calories": 2130, 
+      "date": "2016-01-14", 
+      "distance": 7.18, 
+      "active1": 212, 
+      "active3": 43, 
+      "active2": 54, 
+      "steps": 15407, 
+      "sedentary": 1131, 
+      "actcal": 1116
+    }, 
     "2015-10-19": {
       "distance": 8.93, 
       "margcal": 565, 
@@ -18857,6 +20274,32 @@
       "date": "2014-12-18", 
       "sedentary": 1196, 
       "actcal": 873
+    }, 
+    "2016-03-07": {
+      "margcal": 614, 
+      "weight": 0, 
+      "calories": 2027, 
+      "date": "2016-03-07", 
+      "distance": 7.7, 
+      "active1": 102, 
+      "active3": 54, 
+      "active2": 83, 
+      "steps": 16519, 
+      "sedentary": 1201, 
+      "actcal": 961
+    }, 
+    "2014-09-15": {
+      "distance": 8.05, 
+      "margcal": 691, 
+      "weight": 0, 
+      "calories": 2156, 
+      "active1": 145, 
+      "active3": 46, 
+      "active2": 128, 
+      "steps": 17263, 
+      "date": "2014-09-15", 
+      "sedentary": 1121, 
+      "actcal": 1164
     }, 
     "2014-12-11": {
       "distance": 8.83, 
@@ -19066,6 +20509,19 @@
       "sedentary": 1000, 
       "actcal": 1336
     }, 
+    "2016-01-09": {
+      "margcal": 661, 
+      "weight": 137.4, 
+      "calories": 2143, 
+      "date": "2016-01-09", 
+      "distance": 7.94, 
+      "active1": 238, 
+      "active3": 49, 
+      "active2": 56, 
+      "steps": 17046, 
+      "sedentary": 1097, 
+      "actcal": 1166
+    }, 
     "2013-12-18": {
       "distance": 5.84, 
       "margcal": 468, 
@@ -19104,19 +20560,6 @@
       "date": "2014-08-10", 
       "sedentary": 988, 
       "actcal": 1458
-    }, 
-    "2013-01-15": {
-      "distance": 5.57, 
-      "margcal": 470, 
-      "weight": 0, 
-      "calories": 1985, 
-      "active1": 93, 
-      "active3": 34, 
-      "active2": 90, 
-      "steps": 12002, 
-      "date": "2013-01-15", 
-      "sedentary": 1223, 
-      "actcal": 821
     }, 
     "2014-08-11": {
       "distance": 8.04, 
@@ -19157,6 +20600,19 @@
       "sedentary": 1150, 
       "actcal": 1068
     }, 
+    "2013-05-20": {
+      "distance": 5.15, 
+      "margcal": 364, 
+      "weight": 142.5, 
+      "calories": 1792, 
+      "active1": 79, 
+      "active3": 13, 
+      "active2": 89, 
+      "steps": 11058, 
+      "date": "2013-05-20", 
+      "sedentary": 1145, 
+      "actcal": 637
+    }, 
     "2014-08-17": {
       "distance": 9.63, 
       "margcal": 743, 
@@ -19182,6 +20638,19 @@
       "date": "2015-12-12", 
       "sedentary": 1029, 
       "actcal": 1314
+    }, 
+    "2016-02-28": {
+      "margcal": 551, 
+      "weight": 0, 
+      "calories": 1991, 
+      "date": "2016-02-28", 
+      "distance": 7.2, 
+      "active1": 109, 
+      "active3": 50, 
+      "active2": 71, 
+      "steps": 15457, 
+      "sedentary": 1210, 
+      "actcal": 918
     }, 
     "2014-08-14": {
       "distance": 9.03, 
@@ -19456,19 +20925,6 @@
       "sedentary": 1076, 
       "actcal": 1464
     }, 
-    "2015-10-23": {
-      "distance": 5.01, 
-      "margcal": 474, 
-      "weight": 0, 
-      "calories": 1920, 
-      "active1": 247, 
-      "active3": 30, 
-      "active2": 39, 
-      "steps": 10669, 
-      "date": "2015-10-23", 
-      "sedentary": 1124, 
-      "actcal": 921
-    }, 
     "2014-02-09": {
       "distance": 9.52, 
       "margcal": 791, 
@@ -19520,6 +20976,19 @@
       "date": "2013-04-15", 
       "sedentary": 1131, 
       "actcal": 943
+    }, 
+    "2016-03-11": {
+      "margcal": 560, 
+      "weight": 136.5, 
+      "calories": 2011, 
+      "date": "2016-03-11", 
+      "distance": 7.76, 
+      "active1": 186, 
+      "active3": 25, 
+      "active2": 78, 
+      "steps": 16579, 
+      "sedentary": 1151, 
+      "actcal": 989
     }, 
     "2015-03-09": {
       "distance": 6.58, 
@@ -20236,6 +21705,32 @@
       "sedentary": 1132, 
       "actcal": 1132
     }, 
+    "2016-02-19": {
+      "margcal": 754, 
+      "weight": 0, 
+      "calories": 2251, 
+      "date": "2016-02-19", 
+      "distance": 10.34, 
+      "active1": 181, 
+      "active3": 45, 
+      "active2": 116, 
+      "steps": 22189, 
+      "sedentary": 1098, 
+      "actcal": 1274
+    }, 
+    "2015-12-01": {
+      "distance": 7.77, 
+      "margcal": 539, 
+      "weight": 135.7, 
+      "calories": 1963, 
+      "active1": 116, 
+      "active3": 34, 
+      "active2": 82, 
+      "steps": 16566, 
+      "date": "2015-12-01", 
+      "sedentary": 1208, 
+      "actcal": 889
+    }, 
     "2015-08-23": {
       "distance": 13.16, 
       "margcal": 932, 
@@ -20392,6 +21887,19 @@
       "sedentary": 1138, 
       "actcal": 1011
     }, 
+    "2016-02-12": {
+      "margcal": 608, 
+      "weight": 137, 
+      "calories": 2085, 
+      "date": "2016-02-12", 
+      "distance": 8.61, 
+      "active1": 179, 
+      "active3": 26, 
+      "active2": 109, 
+      "steps": 18485, 
+      "sedentary": 1126, 
+      "actcal": 1084
+    }, 
     "2014-01-20": {
       "distance": 8.12, 
       "margcal": 619, 
@@ -20430,6 +21938,19 @@
       "date": "2013-04-29", 
       "sedentary": 1249, 
       "actcal": 746
+    }, 
+    "2016-02-13": {
+      "margcal": 724, 
+      "weight": 136.9, 
+      "calories": 2240, 
+      "date": "2016-02-13", 
+      "distance": 9.32, 
+      "active1": 281, 
+      "active3": 25, 
+      "active2": 114, 
+      "steps": 19926, 
+      "sedentary": 1020, 
+      "actcal": 1332
     }, 
     "2013-04-24": {
       "distance": 5.04, 
@@ -20821,19 +22342,6 @@
       "sedentary": 1232, 
       "actcal": 796
     }, 
-    "2015-06-03": {
-      "distance": 6.72, 
-      "margcal": 425, 
-      "weight": 136.7, 
-      "calories": 1850, 
-      "active1": 90, 
-      "active3": 25, 
-      "active2": 80, 
-      "steps": 14352, 
-      "date": "2015-06-03", 
-      "sedentary": 1245, 
-      "actcal": 739
-    }, 
     "2013-05-30": {
       "distance": 5.43, 
       "margcal": 471, 
@@ -20859,6 +22367,19 @@
       "date": "2013-05-31", 
       "sedentary": 1206, 
       "actcal": 903
+    }, 
+    "2016-02-15": {
+      "margcal": 522, 
+      "weight": 0, 
+      "calories": 1976, 
+      "date": "2016-02-15", 
+      "distance": 5.86, 
+      "active1": 245, 
+      "active3": 24, 
+      "active2": 63, 
+      "steps": 12580, 
+      "sedentary": 1108, 
+      "actcal": 988
     }, 
     "2015-09-09": {
       "distance": 7.1, 
@@ -20886,18 +22407,31 @@
       "sedentary": 1212, 
       "actcal": 777
     }, 
-    "2014-01-22": {
-      "distance": 6.9, 
-      "margcal": 544, 
-      "weight": 129.9, 
-      "calories": 1932, 
-      "active1": 100, 
-      "active3": 39, 
-      "active2": 91, 
-      "steps": 14773, 
-      "date": "2014-01-22", 
-      "sedentary": 1210, 
-      "actcal": 874
+    "2016-03-18": {
+      "margcal": 527, 
+      "weight": 0, 
+      "calories": 1973, 
+      "date": "2016-03-18", 
+      "distance": 5.99, 
+      "active1": 186, 
+      "active3": 32, 
+      "active2": 63, 
+      "steps": 12853, 
+      "sedentary": 1159, 
+      "actcal": 939
+    }, 
+    "2016-02-29": {
+      "margcal": 519, 
+      "weight": 0, 
+      "calories": 1969, 
+      "date": "2016-02-29", 
+      "distance": 7.57, 
+      "active1": 137, 
+      "active3": 34, 
+      "active2": 94, 
+      "steps": 16236, 
+      "sedentary": 1175, 
+      "actcal": 928
     }, 
     "2015-07-30": {
       "distance": 10.03, 
@@ -20964,18 +22498,18 @@
       "sedentary": 1209, 
       "actcal": 865
     }, 
-    "2013-07-08": {
-      "distance": 5.66, 
-      "margcal": 535, 
-      "weight": 140.7, 
-      "calories": 2005, 
-      "active1": 184, 
-      "active3": 54, 
-      "active2": 46, 
-      "steps": 11822, 
-      "date": "2013-07-08", 
-      "sedentary": 1156, 
-      "actcal": 951
+    "2015-12-08": {
+      "distance": 9.33, 
+      "margcal": 665, 
+      "weight": 0, 
+      "calories": 2135, 
+      "active1": 121, 
+      "active3": 53, 
+      "active2": 104, 
+      "steps": 20011, 
+      "date": "2015-12-08", 
+      "sedentary": 1162, 
+      "actcal": 1102
     }, 
     "2015-12-15": {
       "distance": 7.98, 
@@ -21016,18 +22550,18 @@
       "sedentary": 1209, 
       "actcal": 867
     }, 
-    "2015-12-01": {
-      "distance": 7.77, 
-      "margcal": 539, 
-      "weight": 135.7, 
-      "calories": 1963, 
-      "active1": 116, 
-      "active3": 34, 
-      "active2": 82, 
-      "steps": 16566, 
-      "date": "2015-12-01", 
-      "sedentary": 1208, 
-      "actcal": 889
+    "2013-07-01": {
+      "distance": 4.77, 
+      "margcal": 398, 
+      "weight": 139.6, 
+      "calories": 1822, 
+      "active1": 119, 
+      "active3": 19, 
+      "active2": 69, 
+      "steps": 10230, 
+      "date": "2013-07-01", 
+      "sedentary": 1233, 
+      "actcal": 702
     }, 
     "2013-07-07": {
       "distance": 6.92, 
@@ -21081,6 +22615,45 @@
       "sedentary": 1190, 
       "actcal": 885
     }, 
+    "2016-03-20": {
+      "margcal": 754, 
+      "weight": 0, 
+      "calories": 2237, 
+      "date": "2016-03-20", 
+      "distance": 10.09, 
+      "active1": 119, 
+      "active3": 64, 
+      "active2": 111, 
+      "steps": 21642, 
+      "sedentary": 1146, 
+      "actcal": 1214
+    }, 
+    "2016-03-21": {
+      "margcal": 508, 
+      "weight": 0, 
+      "calories": 1943, 
+      "date": "2016-03-21", 
+      "distance": 6.28, 
+      "active1": 148, 
+      "active3": 33, 
+      "active2": 74, 
+      "steps": 13476, 
+      "sedentary": 1185, 
+      "actcal": 885
+    }, 
+    "2016-03-22": {
+      "margcal": 591, 
+      "weight": 0, 
+      "calories": 2064, 
+      "date": "2016-03-22", 
+      "distance": 8.71, 
+      "active1": 148, 
+      "active3": 34, 
+      "active2": 102, 
+      "steps": 18648, 
+      "sedentary": 1156, 
+      "actcal": 1032
+    }, 
     "2013-07-17": {
       "distance": 5.85, 
       "margcal": 452, 
@@ -21119,6 +22692,45 @@
       "date": "2013-01-31", 
       "sedentary": 1244, 
       "actcal": 713
+    }, 
+    "2016-03-26": {
+      "margcal": 491, 
+      "weight": 0, 
+      "calories": 1928, 
+      "date": "2016-03-26", 
+      "distance": 6.47, 
+      "active1": 144, 
+      "active3": 38, 
+      "active2": 61, 
+      "steps": 13887, 
+      "sedentary": 1197, 
+      "actcal": 861
+    }, 
+    "2016-03-27": {
+      "margcal": 702, 
+      "weight": 0, 
+      "calories": 2200, 
+      "date": "2016-03-27", 
+      "distance": 9.6, 
+      "active1": 153, 
+      "active3": 70, 
+      "active2": 92, 
+      "steps": 20604, 
+      "sedentary": 1125, 
+      "actcal": 1198
+    }, 
+    "2016-03-28": {
+      "margcal": 783, 
+      "weight": 0, 
+      "calories": 2272, 
+      "date": "2016-03-28", 
+      "distance": 10.75, 
+      "active1": 132, 
+      "active3": 58, 
+      "active2": 124, 
+      "steps": 23074, 
+      "sedentary": 1126, 
+      "actcal": 1268
     }, 
     "2015-12-10": {
       "distance": 5.82, 
@@ -21341,19 +22953,6 @@
       "sedentary": 1069, 
       "actcal": 1173
     }, 
-    "2015-04-12": {
-      "distance": 10.43, 
-      "margcal": 1028, 
-      "weight": 0, 
-      "calories": 2559, 
-      "active1": 188, 
-      "active3": 111, 
-      "active2": 92, 
-      "steps": 22343, 
-      "date": "2015-04-12", 
-      "sedentary": 1049, 
-      "actcal": 1627
-    }, 
     "2014-07-27": {
       "distance": 6.34, 
       "margcal": 641, 
@@ -21510,6 +23109,19 @@
       "sedentary": 1192, 
       "actcal": 862
     }, 
+    "2015-11-04": {
+      "distance": 7.43, 
+      "margcal": 515, 
+      "weight": 136.2, 
+      "calories": 1921, 
+      "active1": 88, 
+      "active3": 51, 
+      "active2": 66, 
+      "steps": 14845, 
+      "date": "2015-11-04", 
+      "sedentary": 1235, 
+      "actcal": 821
+    }, 
     "2013-09-18": {
       "distance": 5.47, 
       "margcal": 543, 
@@ -21653,6 +23265,19 @@
       "sedentary": 1152, 
       "actcal": 1018
     }, 
+    "2016-01-25": {
+      "margcal": 648, 
+      "weight": 0, 
+      "calories": 2087, 
+      "date": "2016-01-25", 
+      "distance": 9.11, 
+      "active1": 142, 
+      "active3": 39, 
+      "active2": 112, 
+      "steps": 19545, 
+      "sedentary": 1147, 
+      "actcal": 1065
+    }, 
     "2014-07-21": {
       "distance": 8.66, 
       "margcal": 668, 
@@ -21692,6 +23317,19 @@
       "sedentary": 1167, 
       "actcal": 996
     }, 
+    "2016-01-15": {
+      "margcal": 652, 
+      "weight": 0, 
+      "calories": 2152, 
+      "date": "2016-01-15", 
+      "distance": 8.61, 
+      "active1": 246, 
+      "active3": 33, 
+      "active2": 83, 
+      "steps": 18470, 
+      "sedentary": 1078, 
+      "actcal": 1185
+    }, 
     "2014-01-26": {
       "distance": 9.79, 
       "margcal": 873, 
@@ -21704,6 +23342,19 @@
       "date": "2014-01-26", 
       "sedentary": 992, 
       "actcal": 1526
+    }, 
+    "2016-01-28": {
+      "margcal": 593, 
+      "weight": 0, 
+      "calories": 2074, 
+      "date": "2016-01-28", 
+      "distance": 9.34, 
+      "active1": 112, 
+      "active3": 45, 
+      "active2": 112, 
+      "steps": 20042, 
+      "sedentary": 1171, 
+      "actcal": 1030
     }, 
     "2015-11-29": {
       "distance": 9.8, 
@@ -21861,18 +23512,31 @@
       "sedentary": 1092, 
       "actcal": 1267
     }, 
-    "2015-11-06": {
-      "distance": 8.19, 
-      "margcal": 542, 
+    "2013-04-06": {
+      "distance": 6.96, 
+      "margcal": 578, 
+      "weight": 0, 
+      "active1": 129, 
+      "calories": 2092, 
+      "active3": 32, 
+      "active2": 127, 
+      "steps": 14942, 
+      "date": "2013-04-06", 
+      "sedentary": 1152, 
+      "actcal": 1027
+    }, 
+    "2015-06-05": {
+      "distance": 5.99, 
+      "margcal": 469, 
       "weight": 136, 
-      "calories": 2003, 
-      "active1": 146, 
-      "active3": 39, 
-      "active2": 82, 
-      "steps": 17568, 
-      "date": "2015-11-06", 
-      "sedentary": 1173, 
-      "actcal": 959
+      "calories": 1897, 
+      "active1": 152, 
+      "active3": 44, 
+      "active2": 36, 
+      "steps": 12685, 
+      "date": "2015-06-05", 
+      "sedentary": 1208, 
+      "actcal": 822
     }, 
     "2014-07-15": {
       "distance": 8.23, 
@@ -22108,6 +23772,32 @@
       "sedentary": 1185, 
       "actcal": 820
     }, 
+    "2016-01-31": {
+      "margcal": 585, 
+      "weight": 0, 
+      "calories": 2025, 
+      "date": "2016-01-31", 
+      "distance": 8, 
+      "active1": 102, 
+      "active3": 56, 
+      "active2": 83, 
+      "steps": 17176, 
+      "sedentary": 1199, 
+      "actcal": 955
+    }, 
+    "2016-01-30": {
+      "margcal": 643, 
+      "weight": 0, 
+      "calories": 2142, 
+      "date": "2016-01-30", 
+      "distance": 6.76, 
+      "active1": 318, 
+      "active3": 24, 
+      "active2": 46, 
+      "steps": 14507, 
+      "sedentary": 1052, 
+      "actcal": 1203
+    }, 
     "2015-05-30": {
       "distance": 8.97, 
       "margcal": 778, 
@@ -22159,6 +23849,19 @@
       "date": "2013-11-29", 
       "sedentary": 1128, 
       "actcal": 1009
+    }, 
+    "2015-11-26": {
+      "distance": 9.39, 
+      "margcal": 713, 
+      "weight": 135.3, 
+      "calories": 2252, 
+      "active1": 288, 
+      "active3": 41, 
+      "active2": 98, 
+      "steps": 20134, 
+      "date": "2015-11-26", 
+      "sedentary": 1013, 
+      "actcal": 1353
     }, 
     "2013-01-03": {
       "distance": 5.26, 
@@ -22225,6 +23928,19 @@
       "sedentary": 973, 
       "actcal": 1836
     }, 
+    "2016-02-05": {
+      "margcal": 825, 
+      "weight": 137.6, 
+      "calories": 2321, 
+      "date": "2016-02-05", 
+      "distance": 11.1, 
+      "active1": 170, 
+      "active3": 61, 
+      "active2": 115, 
+      "steps": 23435, 
+      "sedentary": 1094, 
+      "actcal": 1345
+    }, 
     "2014-07-18": {
       "distance": 7.85, 
       "margcal": 734, 
@@ -22263,19 +23979,6 @@
       "date": "2014-10-30", 
       "sedentary": 1136, 
       "actcal": 1141
-    }, 
-    "2015-10-20": {
-      "distance": 7.76, 
-      "margcal": 608, 
-      "weight": 136.1, 
-      "calories": 2120, 
-      "active1": 245, 
-      "active3": 34, 
-      "active2": 90, 
-      "steps": 16650, 
-      "date": "2015-10-20", 
-      "sedentary": 1071, 
-      "actcal": 1166
     }, 
     "2015-08-08": {
       "distance": 9.75, 
@@ -22446,31 +24149,18 @@
       "sedentary": 1095, 
       "actcal": 1214
     }, 
-    "2015-04-22": {
-      "distance": 10.13, 
-      "margcal": 744, 
+    "2014-09-01": {
+      "distance": 10.8, 
+      "margcal": 750, 
       "weight": 0, 
-      "calories": 2217, 
-      "active1": 108, 
-      "active3": 68, 
-      "active2": 112, 
-      "steps": 21734, 
-      "date": "2015-04-22", 
-      "sedentary": 1152, 
-      "actcal": 1194
-    }, 
-    "2015-10-02": {
-      "distance": 5.25, 
-      "margcal": 355, 
-      "weight": 138.4, 
-      "calories": 1752, 
-      "active1": 90, 
-      "active3": 20, 
-      "active2": 70, 
-      "steps": 11266, 
-      "date": "2015-10-02", 
-      "sedentary": 1260, 
-      "actcal": 620
+      "calories": 2240, 
+      "active1": 138, 
+      "active3": 47, 
+      "active2": 158, 
+      "steps": 23027, 
+      "date": "2014-09-01", 
+      "sedentary": 1097, 
+      "actcal": 1265
     }, 
     "2015-06-09": {
       "distance": 8.89, 
@@ -22485,18 +24175,18 @@
       "sedentary": 1071, 
       "actcal": 1308
     }, 
-    "2015-11-26": {
-      "distance": 9.39, 
-      "margcal": 713, 
-      "weight": 135.3, 
-      "calories": 2252, 
-      "active1": 288, 
-      "active3": 41, 
-      "active2": 98, 
-      "steps": 20134, 
-      "date": "2015-11-26", 
-      "sedentary": 1013, 
-      "actcal": 1353
+    "2014-12-28": {
+      "distance": 8.62, 
+      "margcal": 648, 
+      "weight": 0, 
+      "calories": 2097, 
+      "active1": 101, 
+      "active3": 52, 
+      "active2": 119, 
+      "steps": 18498, 
+      "date": "2014-12-28", 
+      "sedentary": 1168, 
+      "actcal": 1055
     }, 
     "2014-12-29": {
       "distance": 7.59, 
@@ -22758,6 +24448,19 @@
       "sedentary": 1218, 
       "actcal": 865
     }, 
+    "2016-02-07": {
+      "margcal": 898, 
+      "weight": 0, 
+      "calories": 2374, 
+      "date": "2016-02-07", 
+      "distance": 11.49, 
+      "active1": 121, 
+      "active3": 85, 
+      "active2": 120, 
+      "steps": 24663, 
+      "sedentary": 1114, 
+      "actcal": 1375
+    }, 
     "2013-03-30": {
       "distance": 8.81, 
       "margcal": 757, 
@@ -22770,6 +24473,19 @@
       "date": "2013-03-30", 
       "sedentary": 1071, 
       "actcal": 1230
+    }, 
+    "2016-03-23": {
+      "margcal": 563, 
+      "weight": 0, 
+      "calories": 2036, 
+      "date": "2016-03-23", 
+      "distance": 7.03, 
+      "active1": 185, 
+      "active3": 46, 
+      "active2": 56, 
+      "steps": 15086, 
+      "sedentary": 1153, 
+      "actcal": 1006
     }, 
     "2013-10-10": {
       "distance": 4.84, 
@@ -23070,18 +24786,57 @@
       "sedentary": 1220, 
       "actcal": 911
     }, 
-    "2015-10-01": {
-      "distance": 6.67, 
-      "margcal": 472, 
+    "2016-01-05": {
+      "margcal": 603, 
+      "weight": 136.2, 
+      "calories": 2012, 
+      "date": "2016-01-05", 
+      "distance": 8.12, 
+      "active1": 90, 
+      "active3": 39, 
+      "active2": 96, 
+      "steps": 16732, 
+      "sedentary": 1215, 
+      "actcal": 934
+    }, 
+    "2015-10-11": {
+      "distance": 5.88, 
+      "margcal": 476, 
+      "weight": 0, 
+      "calories": 1969, 
+      "active1": 195, 
+      "active3": 24, 
+      "active2": 48, 
+      "steps": 12490, 
+      "date": "2015-10-11", 
+      "sedentary": 1173, 
+      "actcal": 870
+    }, 
+    "2014-09-28": {
+      "distance": 8.2, 
+      "margcal": 689, 
+      "weight": 0, 
+      "calories": 2160, 
+      "active1": 178, 
+      "active3": 43, 
+      "active2": 118, 
+      "steps": 17593, 
+      "date": "2014-09-28", 
+      "sedentary": 1101, 
+      "actcal": 1179
+    }, 
+    "2016-03-24": {
+      "margcal": 556, 
       "weight": 138.4, 
-      "calories": 1881, 
-      "active1": 79, 
-      "active3": 41, 
-      "active2": 74, 
-      "steps": 13982, 
-      "date": "2015-10-01", 
-      "sedentary": 1246, 
-      "actcal": 763
+      "calories": 2029, 
+      "date": "2016-03-24", 
+      "distance": 7.18, 
+      "active1": 155, 
+      "active3": 52, 
+      "active2": 62, 
+      "steps": 15400, 
+      "sedentary": 1171, 
+      "actcal": 982
     }, 
     "2015-11-22": {
       "distance": 12.22, 
@@ -23138,18 +24893,57 @@
       "sedentary": 669, 
       "actcal": 1110
     }, 
-    "2014-09-29": {
-      "distance": 6.9, 
-      "margcal": 567, 
-      "weight": 135.8, 
-      "calories": 2002, 
-      "active1": 81, 
-      "active3": 65, 
-      "active2": 76, 
-      "steps": 14750, 
-      "date": "2014-09-29", 
-      "sedentary": 1218, 
-      "actcal": 914
+    "2016-01-06": {
+      "margcal": 499, 
+      "weight": 136.5, 
+      "calories": 1895, 
+      "date": "2016-01-06", 
+      "distance": 6.68, 
+      "active1": 98, 
+      "active3": 36, 
+      "active2": 77, 
+      "steps": 14197, 
+      "sedentary": 1229, 
+      "actcal": 803
+    }, 
+    "2016-01-01": {
+      "margcal": 547, 
+      "weight": 137, 
+      "calories": 1981, 
+      "date": "2016-01-01", 
+      "distance": 7.61, 
+      "active1": 145, 
+      "active3": 36, 
+      "active2": 81, 
+      "steps": 16331, 
+      "sedentary": 1178, 
+      "actcal": 933
+    }, 
+    "2016-01-02": {
+      "margcal": 663, 
+      "weight": 0, 
+      "calories": 2168, 
+      "date": "2016-01-02", 
+      "distance": 8.28, 
+      "active1": 264, 
+      "active3": 27, 
+      "active2": 79, 
+      "steps": 17758, 
+      "sedentary": 1070, 
+      "actcal": 1216
+    }, 
+    "2016-01-03": {
+      "margcal": 573, 
+      "weight": 137.5, 
+      "calories": 2026, 
+      "date": "2016-01-03", 
+      "distance": 7.56, 
+      "active1": 157, 
+      "active3": 46, 
+      "active2": 70, 
+      "steps": 16147, 
+      "sedentary": 1167, 
+      "actcal": 986
     }, 
     "2015-03-30": {
       "distance": 7.28, 
@@ -23231,6 +25025,32 @@
       "sedentary": 1123, 
       "actcal": 1062
     }, 
+    "2015-12-22": {
+      "distance": 7.09, 
+      "margcal": 596, 
+      "weight": 0, 
+      "calories": 2075, 
+      "active1": 239, 
+      "active3": 30, 
+      "active2": 67, 
+      "steps": 15218, 
+      "date": "2015-12-22", 
+      "sedentary": 1104, 
+      "actcal": 1090
+    }, 
+    "2013-07-08": {
+      "distance": 5.66, 
+      "margcal": 535, 
+      "weight": 140.7, 
+      "calories": 2005, 
+      "active1": 184, 
+      "active3": 54, 
+      "active2": 46, 
+      "steps": 11822, 
+      "date": "2013-07-08", 
+      "sedentary": 1156, 
+      "actcal": 951
+    }, 
     "2015-04-01": {
       "distance": 7.41, 
       "margcal": 491, 
@@ -23309,18 +25129,18 @@
       "sedentary": 1148, 
       "actcal": 1210
     }, 
-    "2015-04-07": {
-      "distance": 8.95, 
-      "margcal": 674, 
+    "2015-06-14": {
+      "distance": 7.5, 
+      "margcal": 643, 
       "weight": 0, 
-      "calories": 2113, 
-      "active1": 99, 
-      "active3": 64, 
-      "active2": 98, 
-      "steps": 19206, 
-      "date": "2015-04-07", 
-      "sedentary": 1179, 
-      "actcal": 1070
+      "calories": 2137, 
+      "active1": 270, 
+      "active3": 53, 
+      "active2": 49, 
+      "steps": 16093, 
+      "date": "2015-06-14", 
+      "sedentary": 1068, 
+      "actcal": 1184
     }, 
     "2015-10-29": {
       "distance": 9.39, 
@@ -23672,6 +25492,58 @@
       "date": "2015-10-22", 
       "sedentary": 1130, 
       "actcal": 1059
+    }, 
+    "2016-02-23": {
+      "margcal": 628, 
+      "weight": 0, 
+      "calories": 2071, 
+      "date": "2016-02-23", 
+      "distance": 7.82, 
+      "active1": 114, 
+      "active3": 72, 
+      "active2": 65, 
+      "steps": 16731, 
+      "sedentary": 1189, 
+      "actcal": 1013
+    }, 
+    "2016-02-22": {
+      "margcal": 682, 
+      "weight": 0, 
+      "calories": 2230, 
+      "date": "2016-02-22", 
+      "distance": 7.64, 
+      "active1": 402, 
+      "active3": 21, 
+      "active2": 71, 
+      "steps": 16397, 
+      "sedentary": 946, 
+      "actcal": 1389
+    }, 
+    "2016-02-21": {
+      "margcal": 639, 
+      "weight": 0, 
+      "calories": 2105, 
+      "date": "2016-02-21", 
+      "distance": 6.85, 
+      "active1": 238, 
+      "active3": 52, 
+      "active2": 52, 
+      "steps": 14691, 
+      "sedentary": 1098, 
+      "actcal": 1128
+    }, 
+    "2016-02-20": {
+      "margcal": 949, 
+      "weight": 0, 
+      "calories": 2443, 
+      "date": "2016-02-20", 
+      "distance": 12.21, 
+      "active1": 111, 
+      "active3": 102, 
+      "active2": 113, 
+      "steps": 25923, 
+      "sedentary": 1114, 
+      "actcal": 1452
     }, 
     "2013-02-08": {
       "distance": 5.3, 
@@ -24115,19 +25987,6 @@
       "sedentary": 1063, 
       "actcal": 1536
     }, 
-    "2015-04-13": {
-      "distance": 9.68, 
-      "margcal": 747, 
-      "weight": 0, 
-      "calories": 2228, 
-      "active1": 143, 
-      "active3": 74, 
-      "active2": 94, 
-      "steps": 20766, 
-      "date": "2015-04-13", 
-      "sedentary": 1129, 
-      "actcal": 1225
-    }, 
     "2014-09-30": {
       "distance": 7.75, 
       "margcal": 516, 
@@ -24336,18 +26195,18 @@
       "sedentary": 1155, 
       "actcal": 974
     }, 
-    "2013-05-23": {
-      "distance": 8.96, 
-      "margcal": 699, 
+    "2015-10-23": {
+      "distance": 5.01, 
+      "margcal": 474, 
       "weight": 0, 
-      "calories": 2235, 
-      "active1": 183, 
-      "active3": 40, 
-      "active2": 147, 
-      "steps": 19224, 
-      "date": "2013-05-23", 
-      "sedentary": 1070, 
-      "actcal": 1251
+      "calories": 1920, 
+      "active1": 247, 
+      "active3": 30, 
+      "active2": 39, 
+      "steps": 10669, 
+      "date": "2015-10-23", 
+      "sedentary": 1124, 
+      "actcal": 921
     }, 
     "2013-05-22": {
       "distance": 5.84, 
@@ -24362,31 +26221,31 @@
       "sedentary": 1116, 
       "actcal": 1048
     }, 
-    "2015-10-21": {
-      "distance": 8.97, 
-      "margcal": 686, 
-      "weight": 0, 
-      "calories": 2158, 
-      "active1": 132, 
-      "active3": 67, 
-      "active2": 102, 
-      "steps": 19238, 
-      "date": "2015-10-21", 
-      "sedentary": 1139, 
-      "actcal": 1145
+    "2013-05-21": {
+      "distance": 3.93, 
+      "margcal": 366, 
+      "weight": 141.4, 
+      "calories": 1812, 
+      "active1": 109, 
+      "active3": 24, 
+      "active2": 72, 
+      "steps": 8442, 
+      "date": "2013-05-21", 
+      "sedentary": 1235, 
+      "actcal": 684
     }, 
-    "2013-05-20": {
-      "distance": 5.15, 
-      "margcal": 364, 
-      "weight": 142.5, 
-      "calories": 1792, 
-      "active1": 79, 
-      "active3": 13, 
-      "active2": 89, 
-      "steps": 11058, 
-      "date": "2013-05-20", 
-      "sedentary": 1145, 
-      "actcal": 637
+    "2015-10-20": {
+      "distance": 7.76, 
+      "margcal": 608, 
+      "weight": 136.1, 
+      "calories": 2120, 
+      "active1": 245, 
+      "active3": 34, 
+      "active2": 90, 
+      "steps": 16650, 
+      "date": "2015-10-20", 
+      "sedentary": 1071, 
+      "actcal": 1166
     }, 
     "2014-11-30": {
       "distance": 9.26, 
@@ -24765,6 +26624,32 @@
       "sedentary": 1209, 
       "actcal": 775
     }, 
+    "2016-03-31": {
+      "margcal": 647, 
+      "weight": 137.2, 
+      "calories": 2092, 
+      "date": "2016-03-31", 
+      "distance": 9.12, 
+      "active1": 91, 
+      "active3": 43, 
+      "active2": 116, 
+      "steps": 19545, 
+      "sedentary": 1190, 
+      "actcal": 1032
+    }, 
+    "2016-03-30": {
+      "margcal": 512, 
+      "weight": 0, 
+      "calories": 1944, 
+      "date": "2016-03-30", 
+      "distance": 6.72, 
+      "active1": 121, 
+      "active3": 43, 
+      "active2": 72, 
+      "steps": 14419, 
+      "sedentary": 1204, 
+      "actcal": 872
+    }, 
     "2014-01-15": {
       "distance": 8.78, 
       "margcal": 675, 
@@ -24791,18 +26676,18 @@
       "sedentary": 1201, 
       "actcal": 894
     }, 
-    "2014-01-17": {
-      "distance": 4.24, 
-      "margcal": 336, 
-      "weight": 0, 
-      "calories": 1702, 
-      "active1": 64, 
-      "active3": 35, 
-      "active2": 58, 
-      "steps": 9097, 
-      "date": "2014-01-17", 
-      "sedentary": 1283, 
-      "actcal": 573
+    "2014-03-11": {
+      "distance": 7.01, 
+      "margcal": 558, 
+      "weight": 132.1, 
+      "calories": 1996, 
+      "active1": 171, 
+      "active3": 48, 
+      "active2": 81, 
+      "steps": 15043, 
+      "date": "2014-03-11", 
+      "sedentary": 1140, 
+      "actcal": 992
     }, 
     "2014-01-16": {
       "distance": 7.47, 
@@ -24817,18 +26702,18 @@
       "sedentary": 1148, 
       "actcal": 1024
     }, 
-    "2015-11-18": {
-      "distance": 7.76, 
-      "margcal": 481, 
-      "weight": 137, 
-      "calories": 1929, 
-      "active1": 94, 
-      "active3": 32, 
-      "active2": 96, 
-      "steps": 16570, 
-      "date": "2015-11-18", 
-      "sedentary": 1193, 
-      "actcal": 841
+    "2014-03-17": {
+      "distance": 7.95, 
+      "margcal": 604, 
+      "weight": 132.7, 
+      "calories": 2049, 
+      "active1": 135, 
+      "active3": 54, 
+      "active2": 94, 
+      "steps": 17065, 
+      "date": "2014-03-17", 
+      "sedentary": 1157, 
+      "actcal": 1027
     }, 
     "2013-08-08": {
       "distance": 10.37, 
@@ -24882,18 +26767,18 @@
       "sedentary": 643, 
       "actcal": 1398
     }, 
-    "2014-03-18": {
-      "distance": 4.57, 
-      "margcal": 379, 
-      "weight": 131.5, 
-      "calories": 1761, 
-      "active1": 127, 
-      "active3": 28, 
-      "active2": 58, 
-      "steps": 9820, 
-      "date": "2014-03-18", 
-      "sedentary": 1227, 
-      "actcal": 681
+    "2015-07-20": {
+      "distance": 8.13, 
+      "margcal": 560, 
+      "weight": 136.2, 
+      "calories": 2050, 
+      "active1": 202, 
+      "active3": 32, 
+      "active2": 76, 
+      "steps": 17446, 
+      "date": "2015-07-20", 
+      "sedentary": 1130, 
+      "actcal": 1043
     }, 
     "2014-01-19": {
       "distance": 8.83, 
@@ -24921,6 +26806,19 @@
       "sedentary": 1057, 
       "actcal": 1499
     }, 
+    "2016-01-27": {
+      "margcal": 542, 
+      "weight": 137.1, 
+      "calories": 1976, 
+      "date": "2016-01-27", 
+      "distance": 7.01, 
+      "active1": 184, 
+      "active3": 22, 
+      "active2": 63, 
+      "steps": 15019, 
+      "sedentary": 1171, 
+      "actcal": 934
+    }, 
     "2015-11-21": {
       "distance": 10.97, 
       "margcal": 795, 
@@ -24947,18 +26845,18 @@
       "sedentary": 1077, 
       "actcal": 1333
     }, 
-    "2015-07-17": {
-      "distance": 8.13, 
-      "margcal": 566, 
-      "weight": 135.6, 
-      "calories": 2038, 
-      "active1": 177, 
-      "active3": 34, 
-      "active2": 90, 
-      "steps": 17436, 
-      "date": "2015-07-17", 
-      "sedentary": 1139, 
-      "actcal": 1026
+    "2016-02-09": {
+      "margcal": 695, 
+      "weight": 139.8, 
+      "calories": 2157, 
+      "date": "2016-02-09", 
+      "distance": 9.12, 
+      "active1": 149, 
+      "active3": 48, 
+      "active2": 100, 
+      "steps": 19564, 
+      "sedentary": 1143, 
+      "actcal": 1130
     }, 
     "2013-07-20": {
       "distance": 3.11, 
@@ -24999,6 +26897,19 @@
       "sedentary": 1151, 
       "actcal": 1022
     }, 
+    "2016-03-19": {
+      "margcal": 741, 
+      "weight": 0, 
+      "calories": 2190, 
+      "date": "2016-03-19", 
+      "distance": 9.69, 
+      "active1": 96, 
+      "active3": 60, 
+      "active2": 113, 
+      "steps": 20762, 
+      "sedentary": 1171, 
+      "actcal": 1145
+    }, 
     "2013-07-23": {
       "distance": 5.71, 
       "margcal": 506, 
@@ -25012,18 +26923,18 @@
       "sedentary": 1206, 
       "actcal": 857
     }, 
-    "2013-01-11": {
-      "distance": 5.12, 
-      "margcal": 442, 
-      "weight": 151, 
-      "calories": 1944, 
-      "active1": 114, 
-      "active3": 31, 
-      "active2": 70, 
-      "steps": 11115, 
-      "date": "2013-01-11", 
-      "sedentary": 1225, 
-      "actcal": 788
+    "2013-07-22": {
+      "distance": 7.64, 
+      "margcal": 617, 
+      "weight": 138, 
+      "calories": 2100, 
+      "active1": 136, 
+      "active3": 36, 
+      "active2": 117, 
+      "steps": 16395, 
+      "date": "2013-07-22", 
+      "sedentary": 1151, 
+      "actcal": 1061
     }, 
     "2015-10-03": {
       "distance": 12.48, 
@@ -25050,6 +26961,19 @@
       "date": "2014-02-28", 
       "sedentary": 1183, 
       "actcal": 981
+    }, 
+    "2016-01-12": {
+      "margcal": 691, 
+      "weight": 0, 
+      "calories": 2236, 
+      "date": "2016-01-12", 
+      "distance": 6.75, 
+      "active1": 482, 
+      "active3": 9, 
+      "active2": 17, 
+      "steps": 14354, 
+      "sedentary": 932, 
+      "actcal": 1401
     }, 
     "2014-02-25": {
       "distance": 7.46, 
@@ -25155,6 +27079,19 @@
       "sedentary": 1171, 
       "actcal": 965
     }, 
+    "2016-02-08": {
+      "margcal": 675, 
+      "weight": 0, 
+      "calories": 2145, 
+      "date": "2016-02-08", 
+      "distance": 8.25, 
+      "active1": 178, 
+      "active3": 54, 
+      "active2": 68, 
+      "steps": 17710, 
+      "sedentary": 1140, 
+      "actcal": 1122
+    }, 
     "2015-12-27": {
       "distance": 6.94, 
       "margcal": 546, 
@@ -25168,18 +27105,44 @@
       "sedentary": 1171, 
       "actcal": 940
     }, 
-    "2015-12-26": {
-      "distance": 7.5, 
-      "margcal": 707, 
-      "weight": 136.1, 
-      "calories": 2231, 
-      "active1": 386, 
-      "active3": 23, 
-      "active2": 46, 
-      "steps": 16094, 
-      "date": "2015-12-26", 
-      "sedentary": 985, 
-      "actcal": 1354
+    "2015-03-29": {
+      "distance": 8.93, 
+      "margcal": 679, 
+      "weight": 0, 
+      "calories": 2159, 
+      "active1": 104, 
+      "active3": 67, 
+      "active2": 130, 
+      "steps": 19161, 
+      "date": "2015-03-29", 
+      "sedentary": 1139, 
+      "actcal": 1148
+    }, 
+    "2013-07-26": {
+      "distance": 4.77, 
+      "margcal": 394, 
+      "weight": 0, 
+      "calories": 1853, 
+      "active1": 148, 
+      "active3": 10, 
+      "active2": 98, 
+      "steps": 10226, 
+      "date": "2013-07-26", 
+      "sedentary": 1184, 
+      "actcal": 777
+    }, 
+    "2016-01-08": {
+      "margcal": 566, 
+      "weight": 136.3, 
+      "calories": 1989, 
+      "date": "2016-01-08", 
+      "distance": 7.93, 
+      "active1": 132, 
+      "active3": 41, 
+      "active2": 76, 
+      "steps": 16797, 
+      "sedentary": 1191, 
+      "actcal": 932
     }, 
     "2015-12-29": {
       "distance": 9.27, 
@@ -25220,18 +27183,31 @@
       "sedentary": 1090, 
       "actcal": 1137
     }, 
-    "2014-12-28": {
-      "distance": 8.62, 
-      "margcal": 648, 
-      "weight": 0, 
-      "calories": 2097, 
-      "active1": 101, 
-      "active3": 52, 
-      "active2": 119, 
-      "steps": 18498, 
-      "date": "2014-12-28", 
-      "sedentary": 1168, 
-      "actcal": 1055
+    "2016-03-04": {
+      "margcal": 589, 
+      "weight": 136.9, 
+      "calories": 2053, 
+      "date": "2016-03-04", 
+      "distance": 8.01, 
+      "active1": 189, 
+      "active3": 31, 
+      "active2": 80, 
+      "steps": 17191, 
+      "sedentary": 1140, 
+      "actcal": 1039
+    }, 
+    "2016-03-05": {
+      "margcal": 466, 
+      "weight": 136.1, 
+      "calories": 1880, 
+      "date": "2016-03-05", 
+      "distance": 6.41, 
+      "active1": 157, 
+      "active3": 16, 
+      "active2": 65, 
+      "steps": 13731, 
+      "sedentary": 1202, 
+      "actcal": 814
     }, 
     "2015-12-16": {
       "distance": 7.39, 
@@ -25633,6 +27609,32 @@
       "sedentary": 1047, 
       "actcal": 1193
     }, 
+    "2013-04-23": {
+      "distance": 4.91, 
+      "margcal": 296, 
+      "weight": 0, 
+      "active1": 77, 
+      "calories": 1734, 
+      "active3": 6, 
+      "active2": 90, 
+      "steps": 10540, 
+      "date": "2013-04-23", 
+      "sedentary": 1267, 
+      "actcal": 565
+    }, 
+    "2014-03-29": {
+      "distance": 6.08, 
+      "margcal": 496, 
+      "weight": 131.7, 
+      "calories": 1922, 
+      "active1": 146, 
+      "active3": 45, 
+      "active2": 72, 
+      "steps": 13047, 
+      "date": "2014-03-29", 
+      "sedentary": 1177, 
+      "actcal": 886
+    }, 
     "2015-10-24": {
       "distance": 8.35, 
       "margcal": 538, 
@@ -25919,6 +27921,71 @@
       "sedentary": 1114, 
       "actcal": 1025
     }, 
+    "2016-02-10": {
+      "margcal": 548, 
+      "weight": 136.9, 
+      "calories": 2007, 
+      "date": "2016-02-10", 
+      "distance": 8.14, 
+      "active1": 118, 
+      "active3": 42, 
+      "active2": 99, 
+      "steps": 17434, 
+      "sedentary": 1181, 
+      "actcal": 956
+    }, 
+    "2016-02-11": {
+      "margcal": 456, 
+      "weight": 137.3, 
+      "calories": 1887, 
+      "date": "2016-02-11", 
+      "distance": 6.47, 
+      "active1": 140, 
+      "active3": 29, 
+      "active2": 68, 
+      "steps": 13887, 
+      "sedentary": 1203, 
+      "actcal": 815
+    }, 
+    "2016-02-16": {
+      "margcal": 726, 
+      "weight": 138.1, 
+      "calories": 2216, 
+      "date": "2016-02-16", 
+      "distance": 9.4, 
+      "active1": 146, 
+      "active3": 67, 
+      "active2": 100, 
+      "steps": 20162, 
+      "sedentary": 1127, 
+      "actcal": 1210
+    }, 
+    "2016-02-17": {
+      "margcal": 641, 
+      "weight": 0, 
+      "calories": 2096, 
+      "date": "2016-02-17", 
+      "distance": 7.8, 
+      "active1": 147, 
+      "active3": 56, 
+      "active2": 68, 
+      "steps": 16747, 
+      "sedentary": 1169, 
+      "actcal": 1054
+    }, 
+    "2016-02-14": {
+      "margcal": 814, 
+      "weight": 0, 
+      "calories": 2368, 
+      "date": "2016-02-14", 
+      "distance": 12.48, 
+      "active1": 345, 
+      "active3": 19, 
+      "active2": 66, 
+      "steps": 26661, 
+      "sedentary": 1010, 
+      "actcal": 1468
+    }, 
     "2015-12-11": {
       "distance": 6.26, 
       "margcal": 641, 
@@ -26062,6 +28129,19 @@
       "sedentary": 1175, 
       "actcal": 1009
     }, 
+    "2016-01-20": {
+      "margcal": 524, 
+      "weight": 0, 
+      "calories": 1955, 
+      "date": "2016-01-20", 
+      "distance": 6.58, 
+      "active1": 113, 
+      "active3": 48, 
+      "active2": 64, 
+      "steps": 14116, 
+      "sedentary": 1215, 
+      "actcal": 871
+    }, 
     "2013-04-08": {
       "distance": 5.48, 
       "margcal": 440, 
@@ -26166,18 +28246,18 @@
       "sedentary": 1237, 
       "actcal": 745
     }, 
-    "2013-04-06": {
-      "distance": 6.96, 
-      "margcal": 578, 
-      "weight": 0, 
-      "active1": 129, 
-      "calories": 2092, 
-      "active3": 32, 
-      "active2": 127, 
-      "steps": 14942, 
-      "date": "2013-04-06", 
-      "sedentary": 1152, 
-      "actcal": 1027
+    "2013-09-16": {
+      "distance": 6.51, 
+      "margcal": 639, 
+      "weight": 137, 
+      "calories": 2164, 
+      "active1": 276, 
+      "active3": 31, 
+      "active2": 99, 
+      "steps": 13976, 
+      "date": "2013-09-16", 
+      "sedentary": 1034, 
+      "actcal": 1233
     }, 
     "2015-11-07": {
       "distance": 9.77, 
@@ -26348,18 +28428,31 @@
       "sedentary": 1235, 
       "actcal": 818
     }, 
-    "2014-09-01": {
-      "distance": 10.8, 
-      "margcal": 750, 
+    "2015-10-21": {
+      "distance": 8.97, 
+      "margcal": 686, 
       "weight": 0, 
-      "calories": 2240, 
-      "active1": 138, 
-      "active3": 47, 
-      "active2": 158, 
-      "steps": 23027, 
-      "date": "2014-09-01", 
-      "sedentary": 1097, 
-      "actcal": 1265
+      "calories": 2158, 
+      "active1": 132, 
+      "active3": 67, 
+      "active2": 102, 
+      "steps": 19238, 
+      "date": "2015-10-21", 
+      "sedentary": 1139, 
+      "actcal": 1145
+    }, 
+    "2016-01-18": {
+      "margcal": 639, 
+      "weight": 139.4, 
+      "calories": 2118, 
+      "date": "2016-01-18", 
+      "distance": 7.92, 
+      "active1": 206, 
+      "active3": 33, 
+      "active2": 78, 
+      "steps": 16989, 
+      "sedentary": 1123, 
+      "actcal": 1111
     }, 
     "2013-12-30": {
       "distance": 5.92, 
@@ -26517,6 +28610,19 @@
       "sedentary": 1161, 
       "actcal": 999
     }, 
+    "2016-01-29": {
+      "margcal": 513, 
+      "weight": 0, 
+      "calories": 1950, 
+      "date": "2016-01-29", 
+      "distance": 6.91, 
+      "active1": 136, 
+      "active3": 37, 
+      "active2": 74, 
+      "steps": 14831, 
+      "sedentary": 1193, 
+      "actcal": 886
+    }, 
     "2013-09-12": {
       "distance": 5.89, 
       "margcal": 524, 
@@ -26556,18 +28662,18 @@
       "sedentary": 1094, 
       "actcal": 1301
     }, 
-    "2014-03-11": {
-      "distance": 7.01, 
-      "margcal": 558, 
-      "weight": 132.1, 
-      "calories": 1996, 
-      "active1": 171, 
-      "active3": 48, 
-      "active2": 81, 
-      "steps": 15043, 
-      "date": "2014-03-11", 
-      "sedentary": 1140, 
-      "actcal": 992
+    "2014-01-17": {
+      "distance": 4.24, 
+      "margcal": 336, 
+      "weight": 0, 
+      "calories": 1702, 
+      "active1": 64, 
+      "active3": 35, 
+      "active2": 58, 
+      "steps": 9097, 
+      "date": "2014-01-17", 
+      "sedentary": 1283, 
+      "actcal": 573
     }, 
     "2015-03-17": {
       "distance": 10.27, 
@@ -26673,18 +28779,18 @@
       "sedentary": 1191, 
       "actcal": 913
     }, 
-    "2014-03-17": {
-      "distance": 7.95, 
-      "margcal": 604, 
-      "weight": 132.7, 
-      "calories": 2049, 
-      "active1": 135, 
-      "active3": 54, 
-      "active2": 94, 
-      "steps": 17065, 
-      "date": "2014-03-17", 
-      "sedentary": 1157, 
-      "actcal": 1027
+    "2015-07-17": {
+      "distance": 8.13, 
+      "margcal": 566, 
+      "weight": 135.6, 
+      "calories": 2038, 
+      "active1": 177, 
+      "active3": 34, 
+      "active2": 90, 
+      "steps": 17436, 
+      "date": "2015-07-17", 
+      "sedentary": 1139, 
+      "actcal": 1026
     }, 
     "2015-07-14": {
       "distance": 5.94, 
@@ -26868,6 +28974,19 @@
       "sedentary": 885, 
       "actcal": 643
     }, 
+    "2016-03-06": {
+      "margcal": 824, 
+      "weight": 0, 
+      "calories": 2319, 
+      "date": "2016-03-06", 
+      "distance": 10.71, 
+      "active1": 171, 
+      "active3": 62, 
+      "active2": 116, 
+      "steps": 22988, 
+      "sedentary": 1091, 
+      "actcal": 1350
+    }, 
     "2014-03-14": {
       "distance": 9.48, 
       "margcal": 624, 
@@ -26959,18 +29078,18 @@
       "sedentary": 1188, 
       "actcal": 676
     }, 
-    "2013-07-22": {
-      "distance": 7.64, 
-      "margcal": 617, 
-      "weight": 138, 
-      "calories": 2100, 
-      "active1": 136, 
-      "active3": 36, 
-      "active2": 117, 
-      "steps": 16395, 
-      "date": "2013-07-22", 
-      "sedentary": 1151, 
-      "actcal": 1061
+    "2013-01-11": {
+      "distance": 5.12, 
+      "margcal": 442, 
+      "weight": 151, 
+      "calories": 1944, 
+      "active1": 114, 
+      "active3": 31, 
+      "active2": 70, 
+      "steps": 11115, 
+      "date": "2013-01-11", 
+      "sedentary": 1225, 
+      "actcal": 788
     }, 
     "2013-01-16": {
       "distance": 5.95, 
@@ -26985,18 +29104,18 @@
       "sedentary": 1257, 
       "actcal": 758
     }, 
-    "2013-07-24": {
-      "distance": 3.11, 
-      "margcal": 332, 
-      "weight": 139.5, 
-      "calories": 1748, 
-      "active1": 151, 
-      "active3": 12, 
-      "active2": 56, 
-      "steps": 6684, 
-      "date": "2013-07-24", 
-      "sedentary": 1221, 
-      "actcal": 639
+    "2015-12-24": {
+      "distance": 7.29, 
+      "margcal": 664, 
+      "weight": 136.6, 
+      "calories": 2179, 
+      "active1": 355, 
+      "active3": 24, 
+      "active2": 52, 
+      "steps": 15652, 
+      "date": "2015-12-24", 
+      "sedentary": 1009, 
+      "actcal": 1279
     }, 
     "2013-07-27": {
       "distance": 6.16, 
@@ -27011,18 +29130,18 @@
       "sedentary": 1144, 
       "actcal": 1015
     }, 
-    "2013-07-26": {
-      "distance": 4.77, 
-      "margcal": 394, 
+    "2013-01-15": {
+      "distance": 5.57, 
+      "margcal": 470, 
       "weight": 0, 
-      "calories": 1853, 
-      "active1": 148, 
-      "active3": 10, 
-      "active2": 98, 
-      "steps": 10226, 
-      "date": "2013-07-26", 
-      "sedentary": 1184, 
-      "actcal": 777
+      "calories": 1985, 
+      "active1": 93, 
+      "active3": 34, 
+      "active2": 90, 
+      "steps": 12002, 
+      "date": "2013-01-15", 
+      "sedentary": 1223, 
+      "actcal": 821
     }, 
     "2013-07-29": {
       "distance": 4.52, 
@@ -27076,18 +29195,44 @@
       "sedentary": 1149, 
       "actcal": 1191
     }, 
-    "2015-03-23": {
-      "distance": 11.15, 
-      "margcal": 804, 
-      "weight": 0, 
-      "calories": 2283, 
-      "active1": 72, 
-      "active3": 87, 
-      "active2": 138, 
-      "steps": 23933, 
-      "date": "2015-03-23", 
-      "sedentary": 1143, 
-      "actcal": 1269
+    "2016-03-02": {
+      "margcal": 421, 
+      "weight": 136.7, 
+      "calories": 1818, 
+      "date": "2016-03-02", 
+      "distance": 6.1, 
+      "active1": 80, 
+      "active3": 24, 
+      "active2": 82, 
+      "steps": 13082, 
+      "sedentary": 1254, 
+      "actcal": 703
+    }, 
+    "2016-03-03": {
+      "margcal": 461, 
+      "weight": 136.6, 
+      "calories": 1876, 
+      "date": "2016-03-03", 
+      "distance": 6.7, 
+      "active1": 108, 
+      "active3": 19, 
+      "active2": 87, 
+      "steps": 14382, 
+      "sedentary": 1226, 
+      "actcal": 787
+    }, 
+    "2016-03-01": {
+      "margcal": 464, 
+      "weight": 135.2, 
+      "calories": 1884, 
+      "date": "2016-03-01", 
+      "distance": 7.75, 
+      "active1": 90, 
+      "active3": 20, 
+      "active2": 104, 
+      "steps": 16624, 
+      "sedentary": 1226, 
+      "actcal": 800
     }, 
     "2014-03-28": {
       "distance": 5.6, 
@@ -27102,18 +29247,31 @@
       "sedentary": 1248, 
       "actcal": 740
     }, 
-    "2014-03-29": {
-      "distance": 6.08, 
-      "margcal": 496, 
-      "weight": 131.7, 
-      "calories": 1922, 
-      "active1": 146, 
-      "active3": 45, 
-      "active2": 72, 
-      "steps": 13047, 
-      "date": "2014-03-29", 
-      "sedentary": 1177, 
-      "actcal": 886
+    "2014-03-18": {
+      "distance": 4.57, 
+      "margcal": 379, 
+      "weight": 131.5, 
+      "calories": 1761, 
+      "active1": 127, 
+      "active3": 28, 
+      "active2": 58, 
+      "steps": 9820, 
+      "date": "2014-03-18", 
+      "sedentary": 1227, 
+      "actcal": 681
+    }, 
+    "2015-10-02": {
+      "distance": 5.25, 
+      "margcal": 355, 
+      "weight": 138.4, 
+      "calories": 1752, 
+      "active1": 90, 
+      "active3": 20, 
+      "active2": 70, 
+      "steps": 11266, 
+      "date": "2015-10-02", 
+      "sedentary": 1260, 
+      "actcal": 620
     }, 
     "2014-03-22": {
       "distance": 7.47, 
@@ -27232,6 +29390,19 @@
       "sedentary": 1135, 
       "actcal": 1154
     }, 
+    "2016-01-19": {
+      "margcal": 629, 
+      "weight": 0, 
+      "calories": 2081, 
+      "date": "2016-01-19", 
+      "distance": 8.32, 
+      "active1": 134, 
+      "active3": 48, 
+      "active2": 91, 
+      "steps": 17850, 
+      "sedentary": 1167, 
+      "actcal": 1038
+    }, 
     "2014-09-23": {
       "distance": 8.62, 
       "margcal": 786, 
@@ -27258,6 +29429,19 @@
       "sedentary": 1198, 
       "actcal": 900
     }, 
+    "2016-01-13": {
+      "margcal": 815, 
+      "weight": 0, 
+      "calories": 2343, 
+      "date": "2016-01-13", 
+      "distance": 11.14, 
+      "active1": 191, 
+      "active3": 65, 
+      "active2": 106, 
+      "steps": 23901, 
+      "sedentary": 1078, 
+      "actcal": 1377
+    }, 
     "2015-03-27": {
       "distance": 7.3, 
       "margcal": 511, 
@@ -27271,31 +29455,57 @@
       "sedentary": 1194, 
       "actcal": 890
     }, 
-    "2013-05-25": {
-      "distance": 14.68, 
-      "margcal": 1147, 
+    "2016-01-11": {
+      "margcal": 484, 
       "weight": 0, 
-      "calories": 2793, 
-      "active1": 138, 
-      "active3": 114, 
-      "active2": 207, 
-      "steps": 31504, 
-      "date": "2013-05-25", 
-      "sedentary": 981, 
-      "actcal": 1888
+      "calories": 1946, 
+      "date": "2016-01-11", 
+      "distance": 6.61, 
+      "active1": 245, 
+      "active3": 13, 
+      "active2": 41, 
+      "steps": 14164, 
+      "sedentary": 1141, 
+      "actcal": 924
     }, 
-    "2013-11-06": {
-      "distance": 5.84, 
-      "margcal": 486, 
-      "weight": 134, 
-      "calories": 1897, 
-      "active1": 114, 
+    "2016-01-10": {
+      "margcal": 626, 
+      "weight": 138.2, 
+      "calories": 2255, 
+      "date": "2016-01-10", 
+      "distance": 9, 
+      "active1": 227, 
+      "active3": 29, 
+      "active2": 72, 
+      "steps": 19308, 
+      "sedentary": 1112, 
+      "actcal": 1123
+    }, 
+    "2016-01-17": {
+      "margcal": 315, 
+      "weight": 0, 
+      "calories": 1724, 
+      "date": "2016-01-17", 
+      "distance": 2.75, 
+      "active1": 229, 
+      "active3": 0, 
+      "active2": 0, 
+      "steps": 5905, 
+      "sedentary": 1211, 
+      "actcal": 638
+    }, 
+    "2014-01-22": {
+      "distance": 6.9, 
+      "margcal": 544, 
+      "weight": 129.9, 
+      "calories": 1932, 
+      "active1": 100, 
       "active3": 39, 
-      "active2": 71, 
-      "steps": 12485, 
-      "date": "2013-11-06", 
-      "sedentary": 1216, 
-      "actcal": 814
+      "active2": 91, 
+      "steps": 14773, 
+      "date": "2014-01-22", 
+      "sedentary": 1210, 
+      "actcal": 874
     }, 
     "2013-09-11": {
       "distance": 5.43, 
@@ -27323,18 +29533,18 @@
       "sedentary": 1070, 
       "actcal": 1407
     }, 
-    "2015-11-04": {
-      "distance": 7.43, 
-      "margcal": 515, 
-      "weight": 136.2, 
-      "calories": 1921, 
-      "active1": 88, 
-      "active3": 51, 
-      "active2": 66, 
-      "steps": 14845, 
-      "date": "2015-11-04", 
-      "sedentary": 1235, 
-      "actcal": 821
+    "2015-03-23": {
+      "distance": 11.15, 
+      "margcal": 804, 
+      "weight": 0, 
+      "calories": 2283, 
+      "active1": 72, 
+      "active3": 87, 
+      "active2": 138, 
+      "steps": 23933, 
+      "date": "2015-03-23", 
+      "sedentary": 1143, 
+      "actcal": 1269
     }, 
     "2015-03-22": {
       "distance": 10.83, 
@@ -27453,18 +29663,18 @@
       "sedentary": 1133, 
       "actcal": 1052
     }, 
-    "2015-03-29": {
-      "distance": 8.93, 
-      "margcal": 679, 
-      "weight": 0, 
-      "calories": 2159, 
-      "active1": 104, 
-      "active3": 67, 
-      "active2": 130, 
-      "steps": 19161, 
-      "date": "2015-03-29", 
-      "sedentary": 1139, 
-      "actcal": 1148
+    "2013-03-27": {
+      "distance": 5.99, 
+      "margcal": 434, 
+      "weight": 145.6, 
+      "active1": 103, 
+      "calories": 1931, 
+      "active3": 25, 
+      "active2": 100, 
+      "steps": 12843, 
+      "date": "2013-03-27", 
+      "sedentary": 1212, 
+      "actcal": 807
     }, 
     "2013-03-26": {
       "distance": 5.49, 
@@ -27492,18 +29702,18 @@
       "sedentary": 1034, 
       "actcal": 1398
     }, 
-    "2013-03-20": {
-      "distance": 6.8, 
-      "margcal": 590, 
-      "weight": 147.9, 
-      "active1": 147, 
-      "calories": 2106, 
-      "active3": 42, 
-      "active2": 95, 
-      "steps": 14551, 
-      "date": "2013-03-20", 
-      "sedentary": 1156, 
-      "actcal": 1026
+    "2015-11-18": {
+      "distance": 7.76, 
+      "margcal": 481, 
+      "weight": 137, 
+      "calories": 1929, 
+      "active1": 94, 
+      "active3": 32, 
+      "active2": 96, 
+      "steps": 16570, 
+      "date": "2015-11-18", 
+      "sedentary": 1193, 
+      "actcal": 841
     }, 
     "2013-03-23": {
       "distance": 9.29, 
@@ -27544,18 +29754,18 @@
       "sedentary": 1241, 
       "actcal": 755
     }, 
-    "2014-09-28": {
-      "distance": 8.2, 
-      "margcal": 689, 
-      "weight": 0, 
-      "calories": 2160, 
-      "active1": 178, 
-      "active3": 43, 
-      "active2": 118, 
-      "steps": 17593, 
-      "date": "2014-09-28", 
-      "sedentary": 1101, 
-      "actcal": 1179
+    "2015-06-03": {
+      "distance": 6.72, 
+      "margcal": 425, 
+      "weight": 136.7, 
+      "calories": 1850, 
+      "active1": 90, 
+      "active3": 25, 
+      "active2": 80, 
+      "steps": 14352, 
+      "date": "2015-06-03", 
+      "sedentary": 1245, 
+      "actcal": 739
     }, 
     "2015-10-16": {
       "distance": 1.29, 
@@ -27622,18 +29832,18 @@
       "sedentary": 1150, 
       "actcal": 1053
     }, 
-    "2015-04-18": {
-      "distance": 14.27, 
-      "margcal": 1155, 
-      "weight": 135.2, 
-      "calories": 2752, 
-      "active1": 291, 
-      "active3": 85, 
-      "active2": 137, 
-      "steps": 30624, 
-      "date": "2015-04-18", 
-      "sedentary": 927, 
-      "actcal": 1930
+    "2014-09-29": {
+      "distance": 6.9, 
+      "margcal": 567, 
+      "weight": 135.8, 
+      "calories": 2002, 
+      "active1": 81, 
+      "active3": 65, 
+      "active2": 76, 
+      "steps": 14750, 
+      "date": "2014-09-29", 
+      "sedentary": 1218, 
+      "actcal": 914
     }, 
     "2015-04-17": {
       "distance": 8.7, 
@@ -27687,31 +29897,31 @@
       "sedentary": 1164, 
       "actcal": 1143
     }, 
-    "2013-09-16": {
-      "distance": 6.51, 
-      "margcal": 639, 
-      "weight": 137, 
-      "calories": 2164, 
-      "active1": 276, 
-      "active3": 31, 
-      "active2": 99, 
-      "steps": 13976, 
-      "date": "2013-09-16", 
-      "sedentary": 1034, 
-      "actcal": 1233
+    "2015-04-13": {
+      "distance": 9.68, 
+      "margcal": 747, 
+      "weight": 0, 
+      "calories": 2228, 
+      "active1": 143, 
+      "active3": 74, 
+      "active2": 94, 
+      "steps": 20766, 
+      "date": "2015-04-13", 
+      "sedentary": 1129, 
+      "actcal": 1225
     }, 
-    "2013-03-27": {
-      "distance": 5.99, 
-      "margcal": 434, 
-      "weight": 145.6, 
-      "active1": 103, 
-      "calories": 1931, 
-      "active3": 25, 
-      "active2": 100, 
-      "steps": 12843, 
-      "date": "2013-03-27", 
-      "sedentary": 1212, 
-      "actcal": 807
+    "2015-04-12": {
+      "distance": 10.43, 
+      "margcal": 1028, 
+      "weight": 0, 
+      "calories": 2559, 
+      "active1": 188, 
+      "active3": 111, 
+      "active2": 92, 
+      "steps": 22343, 
+      "date": "2015-04-12", 
+      "sedentary": 1049, 
+      "actcal": 1627
     }, 
     "2015-04-11": {
       "distance": 10.41, 
@@ -27843,6 +30053,19 @@
       "sedentary": 1157, 
       "actcal": 1066
     }, 
+    "2013-03-20": {
+      "distance": 6.8, 
+      "margcal": 590, 
+      "weight": 147.9, 
+      "active1": 147, 
+      "calories": 2106, 
+      "active3": 42, 
+      "active2": 95, 
+      "steps": 14551, 
+      "date": "2013-03-20", 
+      "sedentary": 1156, 
+      "actcal": 1026
+    }, 
     "2015-10-17": {
       "distance": 7.08, 
       "margcal": 490, 
@@ -27895,18 +30118,18 @@
       "sedentary": 1286, 
       "actcal": 654
     }, 
-    "2015-05-18": {
-      "distance": 7.88, 
-      "margcal": 613, 
-      "weight": 0, 
-      "calories": 2070, 
-      "active1": 170, 
-      "active3": 42, 
-      "active2": 80, 
-      "steps": 16901, 
-      "date": "2015-05-18", 
-      "sedentary": 1148, 
-      "actcal": 1050
+    "2015-10-01": {
+      "distance": 6.67, 
+      "margcal": 472, 
+      "weight": 138.4, 
+      "calories": 1881, 
+      "active1": 79, 
+      "active3": 41, 
+      "active2": 74, 
+      "steps": 13982, 
+      "date": "2015-10-01", 
+      "sedentary": 1246, 
+      "actcal": 763
     }, 
     "2013-09-17": {
       "distance": 5.11, 
@@ -28103,18 +30326,18 @@
       "sedentary": 1037, 
       "actcal": 990
     }, 
-    "2015-02-03": {
-      "distance": 6.92, 
-      "margcal": 472, 
-      "weight": 136, 
-      "calories": 1898, 
-      "active1": 92, 
-      "active3": 29, 
-      "active2": 102, 
-      "steps": 14858, 
-      "date": "2015-02-03", 
-      "sedentary": 1217, 
-      "actcal": 814
+    "2013-05-25": {
+      "distance": 14.68, 
+      "margcal": 1147, 
+      "weight": 0, 
+      "calories": 2793, 
+      "active1": 138, 
+      "active3": 114, 
+      "active2": 207, 
+      "steps": 31504, 
+      "date": "2013-05-25", 
+      "sedentary": 981, 
+      "actcal": 1888
     }, 
     "2013-06-19": {
       "distance": 6.97, 
@@ -28272,18 +30495,18 @@
       "sedentary": 1266, 
       "actcal": 657
     }, 
-    "2013-02-18": {
-      "distance": 6.12, 
-      "margcal": 528, 
-      "weight": 153.3, 
-      "calories": 2050, 
-      "active1": 120, 
-      "active3": 39, 
-      "active2": 82, 
-      "steps": 13127, 
-      "date": "2013-02-18", 
-      "sedentary": 1199, 
-      "actcal": 910
+    "2015-04-07": {
+      "distance": 8.95, 
+      "margcal": 674, 
+      "weight": 0, 
+      "calories": 2113, 
+      "active1": 99, 
+      "active3": 64, 
+      "active2": 98, 
+      "steps": 19206, 
+      "date": "2015-04-07", 
+      "sedentary": 1179, 
+      "actcal": 1070
     }, 
     "2014-07-31": {
       "distance": 8.34, 
@@ -28337,18 +30560,18 @@
       "sedentary": 1287, 
       "actcal": 647
     }, 
-    "2015-06-05": {
-      "distance": 5.99, 
-      "margcal": 469, 
-      "weight": 136, 
-      "calories": 1897, 
-      "active1": 152, 
-      "active3": 44, 
-      "active2": 36, 
-      "steps": 12685, 
-      "date": "2015-06-05", 
-      "sedentary": 1208, 
-      "actcal": 822
+    "2015-04-18": {
+      "distance": 14.27, 
+      "margcal": 1155, 
+      "weight": 135.2, 
+      "calories": 2752, 
+      "active1": 291, 
+      "active3": 85, 
+      "active2": 137, 
+      "steps": 30624, 
+      "date": "2015-04-18", 
+      "sedentary": 927, 
+      "actcal": 1930
     }, 
     "2015-05-11": {
       "distance": 7.72, 
@@ -28402,18 +30625,18 @@
       "sedentary": 1021, 
       "actcal": 1670
     }, 
-    "2015-12-24": {
-      "distance": 7.29, 
-      "margcal": 664, 
-      "weight": 136.6, 
-      "calories": 2179, 
-      "active1": 355, 
-      "active3": 24, 
-      "active2": 52, 
-      "steps": 15652, 
-      "date": "2015-12-24", 
-      "sedentary": 1009, 
-      "actcal": 1279
+    "2016-03-15": {
+      "margcal": 624, 
+      "weight": 0, 
+      "calories": 2085, 
+      "date": "2016-03-15", 
+      "distance": 7.64, 
+      "active1": 196, 
+      "active3": 42, 
+      "active2": 58, 
+      "steps": 16193, 
+      "sedentary": 1144, 
+      "actcal": 1069
     }, 
     "2015-01-08": {
       "distance": 7.62, 
@@ -28440,6 +30663,19 @@
       "date": "2015-06-08", 
       "sedentary": 1012, 
       "actcal": 1390
+    }, 
+    "2016-02-27": {
+      "margcal": 975, 
+      "weight": 136.7, 
+      "calories": 2507, 
+      "date": "2016-02-27", 
+      "distance": 13.1, 
+      "active1": 174, 
+      "active3": 83, 
+      "active2": 134, 
+      "steps": 28114, 
+      "sedentary": 1049, 
+      "actcal": 1574
     }, 
     "2014-08-18": {
       "distance": 6.66, 
@@ -28505,6 +30741,19 @@
       "date": "2013-10-03", 
       "sedentary": 1224, 
       "actcal": 843
+    }, 
+    "2016-02-06": {
+      "margcal": 1003, 
+      "weight": 0, 
+      "calories": 2584, 
+      "date": "2016-02-06", 
+      "distance": 13.48, 
+      "active1": 195, 
+      "active3": 94, 
+      "active2": 120, 
+      "steps": 28934, 
+      "sedentary": 1031, 
+      "actcal": 1662
     }, 
     "2014-05-24": {
       "distance": 9.76, 
@@ -28609,6 +30858,32 @@
       "date": "2014-05-23", 
       "sedentary": 1076, 
       "actcal": 1334
+    }, 
+    "2016-02-04": {
+      "margcal": 559, 
+      "weight": 138.6, 
+      "calories": 1996, 
+      "date": "2016-02-04", 
+      "distance": 8.03, 
+      "active1": 117, 
+      "active3": 25, 
+      "active2": 103, 
+      "steps": 17236, 
+      "sedentary": 1195, 
+      "actcal": 927
+    }, 
+    "2016-03-14": {
+      "margcal": 526, 
+      "weight": 0, 
+      "calories": 1972, 
+      "date": "2016-03-14", 
+      "distance": 7.09, 
+      "active1": 160, 
+      "active3": 33, 
+      "active2": 78, 
+      "steps": 15223, 
+      "sedentary": 1169, 
+      "actcal": 934
     }, 
     "2015-12-20": {
       "distance": 8.93, 
@@ -29000,19 +31275,6 @@
       "sedentary": 1132, 
       "actcal": 1186
     }, 
-    "2013-07-03": {
-      "distance": 5.09, 
-      "margcal": 393, 
-      "weight": 139.6, 
-      "calories": 1813, 
-      "active1": 90, 
-      "active3": 23, 
-      "active2": 77, 
-      "steps": 10926, 
-      "date": "2013-07-03", 
-      "sedentary": 1250, 
-      "actcal": 677
-    }, 
     "2014-01-11": {
       "distance": 9.9, 
       "margcal": 789, 
@@ -29286,18 +31548,18 @@
       "sedentary": 1125, 
       "actcal": 1067
     }, 
-    "2015-10-11": {
-      "distance": 5.88, 
-      "margcal": 476, 
+    "2015-04-22": {
+      "distance": 10.13, 
+      "margcal": 744, 
       "weight": 0, 
-      "calories": 1969, 
-      "active1": 195, 
-      "active3": 24, 
-      "active2": 48, 
-      "steps": 12490, 
-      "date": "2015-10-11", 
-      "sedentary": 1173, 
-      "actcal": 870
+      "calories": 2217, 
+      "active1": 108, 
+      "active3": 68, 
+      "active2": 112, 
+      "steps": 21734, 
+      "date": "2015-04-22", 
+      "sedentary": 1152, 
+      "actcal": 1194
     }, 
     "2015-04-23": {
       "distance": 7.57, 
@@ -29429,6 +31691,19 @@
       "sedentary": 1172, 
       "actcal": 1053
     }, 
+    "2016-02-18": {
+      "margcal": 565, 
+      "weight": 137, 
+      "calories": 2052, 
+      "date": "2016-02-18", 
+      "distance": 7.73, 
+      "active1": 225, 
+      "active3": 23, 
+      "active2": 78, 
+      "steps": 16582, 
+      "sedentary": 1114, 
+      "actcal": 1061
+    }, 
     "2013-04-20": {
       "distance": 4.52, 
       "margcal": 467, 
@@ -29480,6 +31755,19 @@
       "date": "2015-01-22", 
       "sedentary": 1160, 
       "actcal": 1067
+    }, 
+    "2013-07-24": {
+      "distance": 3.11, 
+      "margcal": 332, 
+      "weight": 139.5, 
+      "calories": 1748, 
+      "active1": 151, 
+      "active3": 12, 
+      "active2": 56, 
+      "steps": 6684, 
+      "date": "2013-07-24", 
+      "sedentary": 1221, 
+      "actcal": 639
     }, 
     "2013-10-30": {
       "distance": 5.99, 
@@ -29676,19 +31964,6 @@
       "sedentary": 1182, 
       "actcal": 914
     }, 
-    "2015-01-27": {
-      "distance": 6.57, 
-      "margcal": 537, 
-      "weight": 135.3, 
-      "calories": 1950, 
-      "active1": 108, 
-      "active3": 47, 
-      "active2": 80, 
-      "steps": 14079, 
-      "date": "2015-01-27", 
-      "sedentary": 1205, 
-      "actcal": 880
-    }, 
     "2013-10-02": {
       "distance": 4.98, 
       "margcal": 420, 
@@ -29793,6 +32068,32 @@
       "sedentary": 1257, 
       "actcal": 736
     }, 
+    "2016-01-22": {
+      "margcal": 529, 
+      "weight": 0, 
+      "calories": 1979, 
+      "date": "2016-01-22", 
+      "distance": 7.31, 
+      "active1": 147, 
+      "active3": 37, 
+      "active2": 82, 
+      "steps": 15640, 
+      "sedentary": 1174, 
+      "actcal": 932
+    }, 
+    "2016-01-23": {
+      "margcal": 681, 
+      "weight": 0, 
+      "calories": 2173, 
+      "date": "2016-01-23", 
+      "distance": 8.49, 
+      "active1": 255, 
+      "active3": 42, 
+      "active2": 61, 
+      "steps": 18228, 
+      "sedentary": 1082, 
+      "actcal": 1209
+    }, 
     "2015-03-18": {
       "distance": 7.69, 
       "margcal": 533, 
@@ -29819,6 +32120,19 @@
       "sedentary": 1197, 
       "actcal": 901
     }, 
+    "2016-01-26": {
+      "margcal": 585, 
+      "weight": 0, 
+      "calories": 2057, 
+      "date": "2016-01-26", 
+      "distance": 7.06, 
+      "active1": 216, 
+      "active3": 41, 
+      "active2": 59, 
+      "steps": 15158, 
+      "sedentary": 1124, 
+      "actcal": 1056
+    }, 
     "2013-02-02": {
       "distance": 11.11, 
       "margcal": 895, 
@@ -29831,6 +32145,19 @@
       "date": "2013-02-02", 
       "sedentary": 1079, 
       "actcal": 1477
+    }, 
+    "2016-01-24": {
+      "margcal": 523, 
+      "weight": 0, 
+      "calories": 1978, 
+      "date": "2016-01-24", 
+      "distance": 6.98, 
+      "active1": 159, 
+      "active3": 36, 
+      "active2": 72, 
+      "steps": 14984, 
+      "sedentary": 1173, 
+      "actcal": 932
     }, 
     "2014-10-16": {
       "distance": 9.14, 
@@ -30016,6 +32343,19 @@
       "sedentary": 970, 
       "actcal": 1977
     }, 
+    "2016-03-10": {
+      "margcal": 813, 
+      "weight": 0, 
+      "calories": 2314, 
+      "date": "2016-03-10", 
+      "distance": 11.05, 
+      "active1": 137, 
+      "active3": 66, 
+      "active2": 133, 
+      "steps": 23711, 
+      "sedentary": 1104, 
+      "actcal": 1334
+    }, 
     "2013-11-04": {
       "distance": 4.85, 
       "margcal": 435, 
@@ -30042,18 +32382,18 @@
       "sedentary": 1227, 
       "actcal": 817
     }, 
-    "2013-04-23": {
-      "distance": 4.91, 
-      "margcal": 296, 
-      "weight": 0, 
-      "active1": 77, 
-      "calories": 1734, 
-      "active3": 6, 
-      "active2": 90, 
-      "steps": 10540, 
-      "date": "2013-04-23", 
-      "sedentary": 1267, 
-      "actcal": 565
+    "2013-11-06": {
+      "distance": 5.84, 
+      "margcal": 486, 
+      "weight": 134, 
+      "calories": 1897, 
+      "active1": 114, 
+      "active3": 39, 
+      "active2": 71, 
+      "steps": 12485, 
+      "date": "2013-11-06", 
+      "sedentary": 1216, 
+      "actcal": 814
     }, 
     "2013-11-07": {
       "distance": 8.19, 
@@ -30172,18 +32512,18 @@
       "sedentary": 911, 
       "actcal": 780
     }, 
-    "2013-05-01": {
-      "distance": 4.34, 
-      "margcal": 304, 
-      "weight": 144.7, 
-      "active1": 57, 
-      "calories": 1749, 
-      "active3": 25, 
-      "active2": 67, 
-      "steps": 9311, 
-      "date": "2013-05-01", 
-      "sedentary": 845, 
-      "actcal": 555
+    "2015-05-18": {
+      "distance": 7.88, 
+      "margcal": 613, 
+      "weight": 0, 
+      "calories": 2070, 
+      "active1": 170, 
+      "active3": 42, 
+      "active2": 80, 
+      "steps": 16901, 
+      "date": "2015-05-18", 
+      "sedentary": 1148, 
+      "actcal": 1050
     }, 
     "2015-05-19": {
       "distance": 7.88, 
@@ -30341,6 +32681,19 @@
       "sedentary": 1189, 
       "actcal": 945
     }, 
+    "2016-02-01": {
+      "margcal": 498, 
+      "weight": 0, 
+      "calories": 1916, 
+      "date": "2016-02-01", 
+      "distance": 6.43, 
+      "active1": 129, 
+      "active3": 41, 
+      "active2": 59, 
+      "steps": 13573, 
+      "sedentary": 1211, 
+      "actcal": 835
+    }, 
     "2015-12-23": {
       "distance": 7.06, 
       "margcal": 644, 
@@ -30380,6 +32733,19 @@
       "sedentary": 1148, 
       "actcal": 1002
     }, 
+    "2016-02-03": {
+      "margcal": 507, 
+      "weight": 0, 
+      "calories": 1931, 
+      "date": "2016-02-03", 
+      "distance": 7.76, 
+      "active1": 84, 
+      "active3": 22, 
+      "active2": 103, 
+      "steps": 16660, 
+      "sedentary": 1231, 
+      "actcal": 830
+    }, 
     "2015-01-25": {
       "distance": 10.1, 
       "margcal": 670, 
@@ -30406,18 +32772,18 @@
       "sedentary": 1172, 
       "actcal": 978
     }, 
-    "2014-09-15": {
-      "distance": 8.05, 
-      "margcal": 691, 
-      "weight": 0, 
-      "calories": 2156, 
-      "active1": 145, 
-      "active3": 46, 
-      "active2": 128, 
-      "steps": 17263, 
-      "date": "2014-09-15", 
-      "sedentary": 1121, 
-      "actcal": 1164
+    "2015-01-27": {
+      "distance": 6.57, 
+      "margcal": 537, 
+      "weight": 135.3, 
+      "calories": 1950, 
+      "active1": 108, 
+      "active3": 47, 
+      "active2": 80, 
+      "steps": 14079, 
+      "date": "2015-01-27", 
+      "sedentary": 1205, 
+      "actcal": 880
     }, 
     "2015-01-26": {
       "distance": 7.94, 
@@ -30601,18 +32967,18 @@
       "sedentary": 1146, 
       "actcal": 1021
     }, 
-    "2015-12-22": {
-      "distance": 7.09, 
-      "margcal": 596, 
-      "weight": 0, 
-      "calories": 2075, 
-      "active1": 239, 
-      "active3": 30, 
-      "active2": 67, 
-      "steps": 15218, 
-      "date": "2015-12-22", 
-      "sedentary": 1104, 
-      "actcal": 1090
+    "2013-07-03": {
+      "distance": 5.09, 
+      "margcal": 393, 
+      "weight": 139.6, 
+      "calories": 1813, 
+      "active1": 90, 
+      "active3": 23, 
+      "active2": 77, 
+      "steps": 10926, 
+      "date": "2013-07-03", 
+      "sedentary": 1250, 
+      "actcal": 677
     }, 
     "2013-02-28": {
       "distance": 5.4, 
@@ -30744,18 +33110,18 @@
       "sedentary": 1248, 
       "actcal": 816
     }, 
-    "2013-02-26": {
-      "distance": 8.6, 
-      "margcal": 716, 
-      "weight": 151.8, 
-      "calories": 2255, 
-      "active1": 111, 
-      "active3": 81, 
-      "active2": 80, 
-      "steps": 18065, 
-      "date": "2013-02-26", 
-      "sedentary": 1168, 
-      "actcal": 1150
+    "2013-05-01": {
+      "distance": 4.34, 
+      "margcal": 304, 
+      "weight": 144.7, 
+      "active1": 57, 
+      "calories": 1749, 
+      "active3": 25, 
+      "active2": 67, 
+      "steps": 9311, 
+      "date": "2013-05-01", 
+      "sedentary": 845, 
+      "actcal": 555
     }, 
     "2013-02-27": {
       "distance": 4.88, 

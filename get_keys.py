@@ -71,16 +71,18 @@ class OAuth2Server:
 if __name__ == '__main__':
 
     if not (len(sys.argv) == 2):
-        print("Arguments: key_file_name")
+        print("Usage: python get_keys.py key_file_name")
+        print("   - FITBIT_CLIENT_ID and FITBIT_CLIENT_SECRET environment variables must be set")
+        print("   - You should have a browser open and be logged into the fitbit account you want to access")
+        print("   - access token and refresh token will be retrieved and stored in key_file_name")
+        print("   - can be used even if key file exists to get a new refresh token")
         sys.exit(1)
 
-    
-
-    server = OAuth2Server(os.environ('FITBIT_CLIENT_ID'), os.environ('FITBIT_CLIENT_SECRET'))
+    server = OAuth2Server(os.environ['FITBIT_CLIENT_ID'], os.environ['FITBIT_CLIENT_SECRET'])
     server.browser_authorize()
 
     json.dump(server.oauth.token, open(sys.argv[1], 'w'))
-    print('FULL RESULTS = %s' % server.oauth.token)
-    print('ACCESS_TOKEN = %s' % server.oauth.token['access_token'])
-    print('REFRESH_TOKEN = %s' % server.oauth.token['refresh_token'])
+    # print('FULL RESULTS = %s' % server.oauth.token)
+    # print('ACCESS_TOKEN = %s' % server.oauth.token['access_token'])
+    # print('REFRESH_TOKEN = %s' % server.oauth.token['refresh_token'])
     print('Keys saved in {}'.format(sys.argv[1]))

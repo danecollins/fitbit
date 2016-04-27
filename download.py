@@ -93,8 +93,10 @@ def get_data():
     fdb.set_user(sys.argv[1])
 
     # get data one day at a time
-
+    token_age = 0
     while d <= de:
+        if (token_age % 50) == 0:
+            authd_client.client.refresh_token()  # make sure the token is fresh (only lasts 1 hour)
         try:
             s = activity_on_day(authd_client, d)
         except:
@@ -112,7 +114,8 @@ def get_data():
         d = d + oneday
         fdb.write()
         if throttle:
-            time.sleep(10)
+            time.sleep(60)
+            token_age += 1
 
     authd_client.sleep()
 
