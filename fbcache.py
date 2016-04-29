@@ -6,23 +6,30 @@ import json
 import datetime
 import os
 
-# database is a dict of dates with the value being a fbday object
-# Looks like:
-#  {
-#     "2014-06-30": {
-#       "distance": 8.44,
-#       "margcal": 932,
-#       "weight": 157.7,
-#       "active1": 94,
-#       "who": "dane",
-#       "calories": 2771,
-#       "active3": 96,
-#       "active2": 113,
-#       "steps": 17235,
-#       "date": "2014-06-30",
-#       "sedentary": 1137,
-#       "actcal": 1487
-#     }
+
+def user_to_key_file(user):
+    """
+    Generates filename for key files.  Can be changed to relocate keys to another location.
+
+    :param user: name of the user
+    :returns: filename of the key file
+    """
+    return "keys/{}.key".format(user)
+
+
+def key_file_exists(user):
+    fn = user_to_key_file(user)
+    return os.path.exists(fn)
+
+
+def read_key(user):
+    key_file = user_to_key_file(user)
+    with open(key_file) as fp:
+        data = json.load(fp)
+
+    data.setdefault('client_id', os.environ['FITBIT_CLIENT_ID'])
+    data.setdefault('client_secret', os.environ['FITBIT_CLIENT_SECRET'])
+    return data
 
 
 class FitbitCache(dict):
@@ -31,6 +38,9 @@ class FitbitCache(dict):
         filename = "./data/{}.json".format(user_name)
         self.user_name = user_name
         self.filename = filename
+
+    def data_exists(self):
+        return os.path.exists(self.filename)
 
     def read(self):
         assert os.path.exists(self.filename)
