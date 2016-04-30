@@ -1,4 +1,30 @@
+"""
+Interface to reading and writing fitness (Fitbit) data cache although more than
+fitbit data can be stored into it.
 
+While the primary use is to cache fitbit data (using download.py) since there is
+limited ability to get to the data through the throttled interface, additional
+data can be aggregated into the cache and then exported to various formats.
+
+Note: by design the cache only stores data that has one value per day such as
+total distance walked or total steps.  It is not mean to handle items that have
+intraday values such as heart rate measurements.
+
+Getting Data
+    1) cache = FitbitCache()  # get a cache object
+    2) cache.read()  # read in the cache
+
+Adding Data
+    cache.add_item(date, item_name, item_value)
+
+Write Changes
+    cache.write()
+
+Export Data
+    cache.write_to_csv(filename)
+    create_dataframe.py  # this is a separate script to eliminate the pandas requirement here
+
+"""
 from __future__ import print_function
 from __future__ import unicode_literals
 

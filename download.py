@@ -107,10 +107,10 @@ def get_data():
 
         print('got data for {}'.format(d.strftime('%Y-%m-%d')))
         d = d + one_day
-        
+
         # in case something crashes, we don't want to lose anything so write cache
         cache.write()
-        
+
         if throttle:
             time.sleep(60)
             token_age += 1
