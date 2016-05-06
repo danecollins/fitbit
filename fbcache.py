@@ -61,7 +61,7 @@ def read_key(user):
 class FitbitCache(dict):
 
     def __init__(self, user_name):
-        filename = "./data/{}.json".format(user_name)
+        filename = './data/{}.json'.format(user_name)
         self.user_name = user_name
         self.filename = filename
 
@@ -105,7 +105,7 @@ class FitbitCache(dict):
         return len(self)
 
     def daylist(self):
-        return(sorted(self.keys()))
+        return sorted(self.keys())
 
     def find_missing_days(self):
         daylist = self.daylist()
@@ -120,8 +120,38 @@ class FitbitCache(dict):
             test_day = test_day + one_day
         return missing
 
-    def create_derived_fields(self):
-        for k, data in self.db.items():
-            date = datetime.strptime('%Y-%m-%d', k)
-            data['day'] = date  # .year, .month, .day .isocalendar()[1]
+    def write_as_csv(self, fp, delim=',', header=True):
+        """
+        Write out the database as CSV
 
+        Will collect up all the attributes, order the dates and write out the data
+        :param fp: output port
+        :param delim: delimiter for csv file
+        :param header: whether a header line should be written
+        :return: dict of statistics on what was written
+        """
+
+        stats = dict(lines=0)  # stats we will collect and return
+
+        # collect up all the attributes
+        fields = set()
+        for d in self.values():
+            fields |= set(d.keys())
+
+        fields = sorted(fields)
+        fields.remove('who')  # obsolete field
+
+        stats['fields'] = ['date'] + fields
+        if header:
+            print(','.join(stats['fields']), file=fp)
+
+        for day, data in sorted(self.items()):
+            print('{}'.format(day.strftime('%Y-%m-%d')), end='', file=fp)
+            for f in fields:
+                print(delim, data.get(f, 'NA'), end='', file=fp)
+            print(file=fp)
+            stats['lines'] += 1
+
+        stats['header'] = header
+
+        return stats
