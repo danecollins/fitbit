@@ -87,7 +87,7 @@ class FitbitCache(dict):
 
     def add_item(self, day, name, value):
         if isinstance(day, datetime.datetime):
-            date = datetime.date()
+            date = day.date()
         elif isinstance(day, str):
             date = datetime.datetime.strptime(day, '%Y-%m-%d').date()
         elif isinstance(day, datetime.date):
