@@ -59,7 +59,31 @@ def read_key(user):
 
 
 class FitbitCache(dict):
+    """
+    This is a cache of data from fitbit or other data providers.  The format of the data is:
+        dict[date] = {name:value, name:value, name:value}
 
+    It is limited to having one set of data per day.  The daily data set is a dict with as many
+    items as desired.  For example in the case of fitbit data this will contains steps, distance,
+    calories and may contain weight and other fitbit data.  It is meant to be flexible enough to
+    allow you to import other data such as cycling or other exercise data to keep it all in one
+    data structure.
+
+    Usage:
+        cache = FitbitCache(user_name)  # create the object for that user
+        cache.read()  # read the data in the cache file
+        cache.write()  # write the cache to disk
+        cache.write_as_csv(filename)  # write the data to a csv, helper for dbdump
+
+        cache.add_item(day, name, value)  # add or replace the value for item name on date day
+        cache.num_days  # number of days in the data
+        cache.daylist()  # return the list of days, in order, in the data
+        cache.find_missing_days()  # return the days between the first and last day without data
+
+    Notes:
+        A separate command dumpdb is used to export the data for analysis.  This is not done in this
+        file because I did not want the pandas dependency here.
+    """
     def __init__(self, user_name):
         filename = './data/{}.json'.format(user_name)
         self.user_name = user_name
