@@ -7,3 +7,4 @@ data/cindy.json
 keys/dane.key
 keys/cindy.key
 *.pyc
+.ipynb_checkpoints/*
