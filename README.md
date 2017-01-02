@@ -57,7 +57,7 @@ way to slowly gather all of the data and then clean and assemble it together.
     slow but lets you download data for an unlimited range of dates.
 
 * db2_csv.py
-  * usage: db2csv.pl wide|long filename.csv
+  * usage: db2csv.py wide|long filename.csv
   * converts the database to a csv file named filename.csv
   * if 'wide' is specified the file will be a table with date as first column followed by a column 
     for each of the items in the cache.  There will be one row per date.
@@ -98,6 +98,32 @@ iPython notebook.
 You need to setup your Fitbit keys by setting the environment variables.  See keys.py for instructions on the variables to set. You can set this up to work for multiple users at once.
 
 You should delete db.json so you can setup your own.
+
+##### Key Setup Walkthrough
+
+```
+Go to registered application on dev.fitbit.com to get the values for the environment variables:
+
+export FITBIT_CLIENT_ID={Value of 'OAuth 2.0 Client ID' field}
+export FITBIT_CLIENT_SECRET={Value of 'Client Secret' field}
+
+# At fitbit.com, log into the account you want to retrieve information from
+
+# python get_keys.py {key file name}
+python python get_keys.py keys/dane.key
+
+# Note: download.py assumes key is in keys/{user}.key
+
+# now download data
+# python download.py {user} {start_date} {end_date}
+python download.py dane 2016-05-01 2016-05-31
+```
+
+A few things to note.
+
+* You do not need a developer account for each person whose data you want
+to download.  The user is defined by who is logged into the fitbit website when you run get_keys.py
+* download.py will rate limit (sleep between calls) if you ask for more than 30 days of data to prevent tripping the rate limiter.
 
 ##### Loading up the database
 

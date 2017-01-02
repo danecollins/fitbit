@@ -14,7 +14,7 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 import fbcache
-from fbcache import key_file_exists, read_key
+from fbcache import key_file_exists, user_to_key_file, read_key
 import fitbit
 from datetime import datetime
 from datetime import timedelta
@@ -66,7 +66,8 @@ def get_data():
         key_data = read_key(user)
     else:
         print('\nUsage: python download.py [user] [startdate] [enddate]')
-        print('\n   ERROR: user {} does not have a key file, run get_keys.py'.format(user))
+        print('\n   ERROR: user {} does not have a key file ({}), run get_keys.py'.format(user,
+              user_to_key_file(user)))
         exit(1)
 
     authd_client = fitbit.Fitbit(key_data['client_id'],
@@ -112,7 +113,7 @@ def get_data():
         cache.write()
 
         if throttle:
-            time.sleep(60)
+            time.sleep(45)
             token_age += 1
 
     authd_client.sleep()
