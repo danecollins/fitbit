@@ -22,7 +22,7 @@ import os
 
 def add_csv_data(cache, fn):
 
-    with open(fn) as fp:
+    with open(fn, 'U') as fp:
         lines = [l.strip() for l in fp.readlines()]
 
     columns = lines[0].split(',')[1:]  # col 0 is the data, other columns are fields to add
@@ -33,6 +33,10 @@ def add_csv_data(cache, fn):
         cols = fields[1:]
         day = datetime.datetime.strptime(fields[0], '%Y-%m-%d').date()
         for name, value in zip(columns, cols):
+            try:
+                value = float(value)
+            except:
+                pass
             cache.add_item(day, name, value)
             item_count += 1
 
