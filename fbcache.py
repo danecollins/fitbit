@@ -99,6 +99,8 @@ class FitbitCache(dict):
         for k, v in db.items():
             day = datetime.datetime.strptime(k, '%Y-%m-%d').date()
             self[day] = v
+        print('Read {} days for user {}'.format(len(self), self.user_name))
+        return self  # allows read to be chained onto FitbitCache()
 
     def get_user(self):
         return self.user_name
