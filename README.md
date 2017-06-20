@@ -25,6 +25,7 @@ handling all users at once.  This is a work-in-progress.
 With the change to oauth2, getting your keys is now a little more challenging.
 
 To get your fitbit keys:
+
   1. install all the requirements (pip -r requirements.txt)
   2. Go to dev.fitbit.com and create an app
      * Set 'Application Website' to: http://localhost:8080/
@@ -34,7 +35,8 @@ To get your fitbit keys:
   4. Set an environment variable named FITBIT\_CLIENT\_ID to the value of 'OAuth 2.0 Client ID'
   5. Set an environment variable named FITBIT\_CLIENT\_SECRET to the value of 'Client Secret'
   6. In your default browser go to http://fitbit.com and log into the account whose data you want to access
-  7. Keys are stored in a json file for later use.  run: python get\_keys key\_filename
+  7. Keys are stored in a json file for later use. The key file name should be "keys/USER.key" where USER is replaced with the name of the user. Get the key using  **get\_keys.py**.
+
 
 ### Setup
 
@@ -56,7 +58,7 @@ way to slowly gather all of the data and then clean and assemble it together.
     one day per minute to prevent triggering fitbit's rate limit.  It goes 
     slow but lets you download data for an unlimited range of dates.
 
-* db2_csv.py
+* db2csv.py
   * usage: db2csv.py wide|long filename.csv
   * converts the database to a csv file named filename.csv
   * if 'wide' is specified the file will be a table with date as first column followed by a column 
