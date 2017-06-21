@@ -30,7 +30,7 @@ def weight_on_day(c, d):
         print('ERROR in getting weight')
         print(body)
 
-import pdb
+
 def activity_on_day(c, d):
     """
     Gets the activities record and maps the values of interest to user-friendly names
@@ -42,7 +42,6 @@ def activity_on_day(c, d):
     """
     act = c.activities(d)
     s = act['summary']
-    pdb.set_trace()
     summary = {'calories': s['caloriesOut'],
                'actcal': s['activityCalories'],
                'margcal': s['marginalCalories'],
@@ -116,10 +115,11 @@ def get_data():
         cache.write()
 
         if throttle:
-            time.sleep(45)
+            time.sleep(55)
             token_age += 1
 
     authd_client.sleep()
+
 
 if __name__ == '__main__':
     get_data()
