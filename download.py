@@ -30,7 +30,7 @@ def weight_on_day(c, d):
         print('ERROR in getting weight')
         print(body)
 
-
+import pdb
 def activity_on_day(c, d):
     """
     Gets the activities record and maps the values of interest to user-friendly names
@@ -42,9 +42,12 @@ def activity_on_day(c, d):
     """
     act = c.activities(d)
     s = act['summary']
+    pdb.set_trace()
     summary = {'calories': s['caloriesOut'],
                'actcal': s['activityCalories'],
                'margcal': s['marginalCalories'],
+               'floors': s['floors'],
+               'elevation': s['elevation'],
                'distance': s['distances'][0]['distance'],
                'sedentary': s['sedentaryMinutes'],
                'active1': s['lightlyActiveMinutes'],
