@@ -119,7 +119,7 @@ class FitbitCache(dict):
         elif isinstance(day, datetime.date):
             date = day
         else:
-            print('Improper date passed to add_item: {}, type:{}', day, typeof(day))
+            print('Improper date passed to add_item: {}, type:{}', day, type(day))
             return False
         if date not in self:
             self[date] = {}
@@ -133,10 +133,19 @@ class FitbitCache(dict):
     def daylist(self):
         return sorted(self.keys())
 
+    def remove_days_without_steps(self):
+        x = []
+        for k, v in self.items():
+            # if the day has no steps, delete it
+            if v.get('steps', 0) < 1:
+                x.append(k)
+                del self[k]
+        return x
+
     def find_missing_days(self):
         daylist = self.daylist()
-        start = daylist[0]
-        end = daylist[-1]
+        start = min(daylist)
+        end = max(daylist)
         one_day = datetime.timedelta(days=1)
         missing = []
         test_day = start
