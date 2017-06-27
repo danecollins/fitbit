@@ -19,7 +19,8 @@ parser.add_argument('-c', '--calories', nargs=1, help='minimum number of calorie
 parser.add_argument('user_name', help='name of user to check')
 args = parser.parse_args()
 
-steps_per_mile = 0
+allowed_spm_error = 500
+steps_per_mile = 2000
 step_total = 0
 dist_total = 0
 
@@ -49,7 +50,7 @@ print('Num Days = {}'.format(cache.num_days()))
 
 i = 0
 while current_date <= end_date:
-    s = False
+    s = ''
     day_data = cache[current_date]
     if 'date' not in day_data:
         day_data['date'] = current_date.strftime(dt_format)
@@ -61,24 +62,29 @@ while current_date <= end_date:
         print('    {}'.format(day_data))
     else:
         if day_data['steps'] < args.steps:
+            s += '    steps below minimum\n'
             valid = False
-
-        if args.distance:
-            step_total += day_data['steps']
-            dist_total += day_data['distance']
-            steps_per_mile = step_total / dist_total
-
-        spm = day_data['steps'] / day_data['distance']
-        if abs(spm - steps_per_mile) > 500:
-            s = 'this={}, lta={}, distance should be={}'.format(spm, steps_per_mile,
-                                                                day_data['steps'] / steps_per_mile)
-            valid = False
+        else:
+            if day_data['distance'] < 1.0:
+                s += '    distance below minimum\n'
+            else:
+                if args.distance:
+                    day_spm = day_data['steps'] / day_data['distance']
+                    if abs(day_spm - steps_per_mile) > 500:
+                        s += '    spm: day={}, avg={}\n'.format(day_spm, steps_per_mile,
+                                                                day_data['steps'], day_data['distance'])
+                        valid = False
+                    else:
+                        # every day, update steps_per_mile
+                        step_total += day_data['steps']
+                        dist_total += day_data['distance']
+                        steps_per_mile = step_total / dist_total
 
         if not valid:
             print('{} steps={}, distance={} calories={}'.format(day_data['date'], day_data['steps'],
                                                                 day_data['distance'], day_data['calories']))
             if s:
-                print("    " + s)
+                print(s)
 
     i += 1
     current_date += timedelta(days=1)
