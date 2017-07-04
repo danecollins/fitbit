@@ -174,7 +174,8 @@ class FitbitCache(dict):
             fields |= set(d.keys())
 
         fields = sorted(fields)
-        fields.remove('who')  # obsolete field
+        if 'who' in fields:
+            fields.remove('who')  # obsolete field
 
         stats['fields'] = ['date'] + fields
         if header:

@@ -27,7 +27,7 @@ parser.add_option('-o', '--output',
 
 
 
-def dump_data(fp):
+def dump_data(fp, debug):
     stats = cache.write_as_csv(fp)
     if debug:
         print(stats, file=sys.stderr)
@@ -59,4 +59,4 @@ if __name__ == '__main__':
         else:
             fp = sys.stdout
 
-    dump_data(fp)
+    dump_data(fp, debug)

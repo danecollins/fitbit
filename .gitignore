@@ -1,9 +1,7 @@
 cindy.csv
 dane.csv
 info.txt
-data/dane.json
-data/weather.json
-data/cindy.json
+data
 keys/dane.key
 keys/cindy.key
 *.pyc

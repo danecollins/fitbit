@@ -49,8 +49,10 @@ Due to the API rate limiting you can't just download all of the data. In
 addition, the data will have gaps and errors in it so there needs to be a
 way to slowly gather all of the data and then clean and assemble it together.
 
-* download.py
-  * usage: donwload.pl user start end
+#### download.py
+
+**Usage:** donwload.pl user start end
+
   * download days from start to end (inclusive)
   * start and end are in yyyy-mm-dd format
   * user is one of the users for which keys have been configured
@@ -58,16 +60,18 @@ way to slowly gather all of the data and then clean and assemble it together.
     one day per minute to prevent triggering fitbit's rate limit.  It goes 
     slow but lets you download data for an unlimited range of dates.
 
-* db2csv.py
-  * usage: db2csv.py wide|long filename.csv
-  * converts the database to a csv file named filename.csv
-  * if 'wide' is specified the file will be a table with date as first column followed by a column 
-    for each of the items in the cache.  There will be one row per date.
-  * if 'long' is specified the file the file will contain 3 columns: date item\_name and item\_value
-    with one row for each item (multiple rows will have same date)
+#### db2csv.py
 
-* dbfix.py
-  * deletes days that have 0 steps (missing days)
+**Usage:**  db2csv.py [-o filename.csv] user
+
+* converts the database to a csv file to stdout or to filename.csv if specified for the specified user
+* data will be in 'wide' format with one column for each variable.
+* first line will contain a header
+
+
+#### dbfix.py
+
+* deletes days that have 0 steps (missing days)
 
 * data/<user>.json
   * the cache file for the user
