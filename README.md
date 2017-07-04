@@ -43,7 +43,7 @@ To get your fitbit keys:
 Users are mapped to their key file by a dict at the top of download.py.  You must edit this dict
 based on the users you want to have.
 
-### Scripts in this Package
+### Scripts / Files in this Package
 
 Due to the API rate limiting you can't just download all of the data. In 
 addition, the data will have gaps and errors in it so there needs to be a
@@ -71,21 +71,25 @@ way to slowly gather all of the data and then clean and assemble it together.
 
 #### dbfix.py
 
-* deletes days that have 0 steps (missing days)
+**Usage:** python dbfix.py [-c] user
 
-* data/<user>.json
+* deletes days that have 0 steps (missing days)
+* print out missing days
+* optionally can write new db omitting days with 0 steps
+
+#### days.py
+
+**Usage:** python days.py user
+
+* displays the start/end dates in the database for the user
+
+
+#### data/<user>.json
   * the cache file for the user
 
-* fbcache.py
+#### fbcache.py
   * interface to the database
 
-* days.py <user>
-  * lists the range of dates for which there is data in the database
-
-* db2_feather.py
-* usage: db2_feather.py wide|long filename
-* create a feather file - https://blog.rstudio.org/2016/03/29/feather/
-  which is compatible with both R and Pandas dataframes
 
 ### Analysis
 

@@ -139,7 +139,9 @@ class FitbitCache(dict):
             # if the day has no steps, delete it
             if v.get('steps', 0) < 1:
                 x.append(k)
-                del self[k]
+        # can't remove in loop above since it would change the dict while iterating it
+        for k in x:
+            del self[k]
         return x
 
     def find_missing_days(self):
