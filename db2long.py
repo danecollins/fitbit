@@ -8,7 +8,8 @@ import os
 
 def fb_data_to_long():
     if len(sys.argv) < 2:
-        print('\nUsage: python db2long.py base_filename user1 [user2 ...]')
+        print('\nUsage: python db2long.py base_filename.csv user1 [user2 ...]')
+        print('   Will product base_filename_{user}.csv for each user')
         exit(0)
 
     (name, ext) = os.path.splitext(sys.argv[1])
