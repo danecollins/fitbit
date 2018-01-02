@@ -178,15 +178,19 @@ class FitbitCache(dict):
         fields = sorted(fields)
         if 'who' in fields:
             fields.remove('who')  # obsolete field
+        if 'date' in fields:
+            fields.remove('date')  # want date to come out first
 
-        stats['fields'] = ['date'] + fields
+        stats['fields'] = sorted(fields)
         if header:
-            print(','.join(stats['fields']), file=fp)
+            print(','.join(['date', 'name'] + sorted(fields)), file=fp)
 
         for day, data in sorted(self.items()):
-            print('{}'.format(day.strftime('%Y-%m-%d')), end='', file=fp)
+            print('{}{}'.format(day.strftime('%Y-%m-%d'), delim), end='', file=fp)
+            print('{}'.format(self.user_name), end='', file=fp)
+
             for f in fields:
-                print(delim, data.get(f, 'NA'), end='', file=fp)
+                print("{}{}".format(delim, data.get(f, 'NA')), end='', file=fp)
             print(file=fp)
             stats['lines'] += 1
 

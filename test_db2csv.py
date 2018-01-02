@@ -1,8 +1,11 @@
 import unittest
-from fbcache import *
+import os
 import subprocess
 from tempfile import mkstemp
 import datetime
+
+from fbcache import FitbitCache
+
 
 # test data
 test_data = [
@@ -18,6 +21,7 @@ test_data = [
 
 
 def create_test_user():
+    """ write a few days to a test_user.json file """
     fb = FitbitCache('test_user')
     date = datetime.date(2017, 1, 1)
     days_added = 0
@@ -46,6 +50,7 @@ def run(args):
 
 class TestFitbitDb2Csv(unittest.TestCase):
     def test_usage_message(self):
+        """ run without arguments, should get usage message """
         arguments = []
         code, out, err = run(arguments)
         self.assertNotEqual(code, 0)
