@@ -109,7 +109,8 @@ class FitbitCache(dict):
         with open(self.filename, 'w') as f:
             # only want to write out dict, not attributes
             # convert time to a string to make json file more readable
-            f.write(json.dumps({k.strftime('%Y-%m-%d'): v for k, v in self.items()}, indent=2))
+            f.write(json.dumps({k.strftime('%Y-%m-%d'): v for k, v in self.items()},
+                               indent=2, sort_keys=True))
 
     def add_item(self, day, name, value):
         if isinstance(day, datetime.datetime):
