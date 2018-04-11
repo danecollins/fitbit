@@ -14,6 +14,7 @@ import fbcache
 
 def fb_data_to_long():
     if len(sys.argv) < 2:
+
         print('\nUsage: python db2long.py filename user1 [user2 ...]')
         exit(0)
 
