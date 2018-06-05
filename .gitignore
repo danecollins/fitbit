@@ -2,7 +2,8 @@ cindy.csv
 dane.csv
 info.txt
 data
-keys/dane.key
-keys/cindy.key
+keys/
 *.pyc
 .ipynb_checkpoints/*
+.DS_Store
+
