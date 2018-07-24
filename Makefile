@@ -23,7 +23,7 @@ update_tested_branch: test
 		exit 1; \
 	fi;
 	@echo "Checking github status..."
-	git_branch_status=`git status -sb origin master`; \
+	@git_branch_status=`git status -sb origin master`; \
 	if [ "$$git_branch_status" != "## master...origin/master" ]; then \
 		echo "origin/master is not up to date"; \
 		echo "------------------------"; \
