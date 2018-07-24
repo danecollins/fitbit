@@ -27,6 +27,7 @@ def populate_fb_object(obj, day_incr=1):
         date = date + datetime.timedelta(days=day_incr)
     return days_added, items_added
 
+
 class TestFitbitCache(unittest.TestCase):
 
     def test_object_creation(self):
@@ -69,10 +70,10 @@ class TestFitbitCache(unittest.TestCase):
                 i += 1
         self.assertEqual(i, items)
 
-    def test_numdays(self):
+    def test_num_days(self):
         fb = FitbitCache('test_user')
         (dates, items) = populate_fb_object(fb)
-        self.assertEqual(fb.numdays(), dates)
+        self.assertEqual(fb.num_days(), dates)
 
     def test_missing_days(self):
         fb = FitbitCache('test_user')
