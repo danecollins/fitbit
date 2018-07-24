@@ -1,0 +1,7 @@
+[flake8]
+max-line-length = 130
+max-complexity = -1
+# E722 do not use bare except
+# E741 ambiguous variable name
+ignore = E401, E402, F401, E741, E722
+

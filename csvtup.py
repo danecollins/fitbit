@@ -1,4 +1,3 @@
-
 from __future__ import print_function
 from __future__ import unicode_literals
 from collections import namedtuple
@@ -35,33 +34,31 @@ if Old_Version:
                                 dialect=dialect, **kwargs)
         for row in csv_reader:
             # decode UTF-8 back to Unicode, cell by cell:
-            yield [unicode(cell, 'utf-8') for cell in row]
+            yield [unicode(cell, 'utf-8') for cell in row]  # noqa
 
     def utf_8_encoder(unicode_csv_data):
         for line in unicode_csv_data:
             yield line.encode('utf-8')
-###################################################################################
-#                               General Purpose CSV Reader
-#
-#  Usage:
-#         read_csv(filename) is the simplest case
-#  Returns:
-#         lines are a list of named tuples
-#         can be accessed with line[n].fieldname
-#
-#  Notes:
-#    - blank lines are always ignored
-#    - if ignore_after_blanks is true, reading stops at first blank line
-#    - limitation: currently column names must be valid identifiers (can't be numbers)
-#    - spaces in header names will be replaces with _
-#    - if not passed in the return field names are taken from the top of the file
-#
 
 
 def read_csv(filename, encoding='utf-8',
              ignore_after_header=0, ignore_after_blank=True,
              fields=False, header=True, max_rows=False,
              **kwargs):
+    """
+    Usage:
+           read_csv(filename) is the simplest case
+    Returns:
+           lines are a list of named tuples
+           can be accessed with line[n].fieldname
+
+    Notes:
+      - blank lines are always ignored
+      - if ignore_after_blanks is true, reading stops at first blank line
+      - limitation: currently column names must be valid identifiers (can't be numbers)
+      - spaces in header names will be replaces with _
+      - if not passed in the return field names are taken from the top of the file
+    """
 
     lineno = 0
     num_rows = 0

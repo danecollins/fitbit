@@ -9,15 +9,15 @@ from fbcache import FitbitCache
 
 # test data
 test_data = [
- {'distance': 7.74, 'margcal': 0, 'steps': 15798, 'active3': 0, 'weight': 184.5, 'active1': 540, 'sedentary': 900,
-        'calories': 2322, 'actcal': 1269, 'active2': 0},
- {'distance': 4.72, 'margcal': 0, 'steps': 9642, 'active3': 0, 'weight': 184.2, 'active1': 0, 'sedentary': 1440,
-        'calories': 2015, 'actcal': 0, 'active2': 0},
- {'distance': 4.92, 'margcal': 0, 'steps': 10049, 'active3': 0, 'weight': 184.2, 'active1': 0, 'sedentary': 1440,
-        'calories': 1977, 'actcal': 0, 'active2': 0},
- {'distance': 6.92, 'margcal': 0, 'steps': 14136, 'active3': 0, 'weight': 183.9, 'active1': 670, 'sedentary': 770,
-        'calories': 2125, 'actcal': 1225, 'active2': 0}
- ]
+    {'distance': 7.74, 'margcal': 0, 'steps': 15798, 'active3': 0, 'weight': 184.5, 'active1': 540, 'sedentary': 900,
+     'calories': 2322, 'actcal': 1269, 'active2': 0},
+    {'distance': 4.72, 'margcal': 0, 'steps': 9642, 'active3': 0, 'weight': 184.2, 'active1': 0, 'sedentary': 1440,
+     'calories': 2015, 'actcal': 0, 'active2': 0},
+    {'distance': 4.92, 'margcal': 0, 'steps': 10049, 'active3': 0, 'weight': 184.2, 'active1': 0, 'sedentary': 1440,
+     'calories': 1977, 'actcal': 0, 'active2': 0},
+    {'distance': 6.92, 'margcal': 0, 'steps': 14136, 'active3': 0, 'weight': 183.9, 'active1': 670, 'sedentary': 770,
+     'calories': 2125, 'actcal': 1225, 'active2': 0}
+]
 
 
 def create_test_user():

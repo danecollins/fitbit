@@ -22,15 +22,15 @@ parser.add_option("-v", "--verbose",
                   action="store_true", dest="verbose",
                   help="print additional debugging information")
 parser.add_option('-o', '--output',
-                   action="store", dest='filename',
-                   help="output file name, if missing writes to stdout")
-
+                  action="store", dest='filename',
+                  help="output file name, if missing writes to stdout")
 
 
 def dump_data(fp, debug):
     stats = cache.write_as_csv(fp)
     if debug:
         print(stats, file=sys.stderr)
+
 
 if __name__ == '__main__':
     (options, args) = parser.parse_args()
