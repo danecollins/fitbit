@@ -7,4 +7,5 @@ flake:
 	flake8 $(SOURCES) $(UTILS) $(TESTS)
 
 
-
+test: flake
+	pytest
