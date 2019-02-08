@@ -6,17 +6,18 @@ Note the source data comes from an iPhone app named QS Access
 This app is free and is a great way to get the step/distance data off the phone (way better than
 exporting from Health app).
 
-Script assumes that QS Access is saved as default name "Health Data.csv" and that only steps
-and distance are exported.  Export should be done on a '1 Day' boundary rather than '1 Hour'
+Script assumes that QS Access is saved as csv.
+Export should be done on a '1 Day' boundary rather than '1 Hour'
+
+Note:
+    * all non-zero values are added to the database
+    * existing values are overwritten if the new value is larger
+      don't write small values because they should never be smaller
+    * cycling distance is not imported because it is reported incorrectly (garmin problem)
 """
 
-# compatibility imports
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-from __future__ import unicode_literals
-
 # standard python includes
+import pandas as pd
 import csv
 import datetime
 
@@ -26,31 +27,59 @@ from fbcache import FitbitCache
 from optparse import OptionParser
 
 
-usage = "usage: %prog user-name"
+usage = "usage: %prog user-name filename"
 parser = OptionParser(usage)
 
 (options, args) = parser.parse_args()
 
-if len(args) != 1:
+if len(args) != 2:
     parser.print_help()
     exit(1)
 else:
     user_name = args[0]
+    filename = args[1]
 
 cache = FitbitCache(user_name)
 cache.read()
 
 
-with open('Health_Data.csv', 'U') as csvfile:
-    csvrecords = csv.DictReader(csvfile, dialect='excel')
-    next(csvrecords)  # skip header
-    for record in csvrecords:
-        day = record['Start'][0:-6]
-        day_as_dt = datetime.datetime.strptime(day, '%d-%b-%Y')
+df = pd.read_csv(filename)
+df['start'] = pd.to_datetime(df.Start)
+df = df[['start', 'Distance (mi)', 'Steps (count)', 'Flights Climbed (count)']]
+df.columns = ['start', 'distance', 'steps', 'flights']
+df = df.head(len(df) - 1)  # need to drop last day because it's a partial day
 
-        dist = record['Distance (mi)']
-        steps = record['Steps (count)']
-        cache.add_item(day_as_dt, 'steps_aw', float(steps))
-        cache.add_item(day_as_dt, 'dist_aw', float(dist))
+
+for key, row in df.iterrows():
+    date = row.start.date()  # convert from pandas timestamp to date
+    if date in cache:
+
+        # round values to the precision we want
+        row.steps = int(round(row.steps, 0))
+        row.distance = round(row.distance, 2)
+        row.flights = int(round(row.flights, 0))
+        # do basic validation before adding values in
+        if row.steps > 1000:
+
+            if cache[date].get('steps_aw', 0) > row.steps:
+                print('warning:{}: steps_aw is {} but db has {}'.format(date, row.steps,
+                                                                        cache[date]['steps_aw']))
+            elif not cache[date].get('steps_aw'):
+                cache.add_item(date, 'steps_aw', row.steps, 0)
+                print('{}: steps_aw={}'.format(date, row.steps))
+        if row.steps > 1.0:
+            if cache[date].get('dist_aw', 0) > row.steps:
+                print('warning:{}: dist_aw is {} but db has {}'.format(date, row.distance,
+                                                                       cache[date]['dist_aw']))
+            elif not cache[date].get('dist_aw'):
+                cache.add_item(date, 'dist_aw', row.distance)
+                print('{}: dist_aw={}'.format(date, row.distance))
+        if row.flights > 1:
+            if cache[date].get('floors_aw', 0) > row.steps:
+                print('warning:{}: floors_aw is {} but db has {}'.format(date, row.flights,
+                                                                         cache[date]['floors_aw']))
+            elif not cache[date].get('floors_aw'):
+                cache.add_item(date, 'floors_aw', row.flights)
+                print('{}: floors_aw={}'.format(date, row.flights))
 
 cache.write()
