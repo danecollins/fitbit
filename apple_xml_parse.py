@@ -1,6 +1,13 @@
+# -*- coding: utf-8 -*-
+# Run using python apple_xml_parse.py <path to export.xml>
+#
+# Once csv files are produced use python awcsv_to_db.py to add the data to dane.json
+#
+
+
 import re
 import json
-import pdb
+import sys
 from collections import Counter, defaultdict
 
 
@@ -145,4 +152,8 @@ def read_xml(fn):
     return o
 
 
-read_xml('/tmp/export.xml')
+if len(sys.argv) != 2:
+    print('Usage python apple_xml_parse.py path/apple_health_export/export.xml')
+    exit(1)
+
+read_xml(sys.argv[1])
