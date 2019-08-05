@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
+#
+# Download export.zip from Apple Health
+# Save in dropbox as apple_health_export_<end_date>.zip
+# Unzip to create apple_health_export/
 # Run using python apple_xml_parse.py <path to export.xml>
+#
+# this produces: apple_data.txt, daily_data.csv and apple_hr_data.csv
 #
 # Once csv files are produced use python awcsv_to_db.py to add the data to dane.json
 #
