@@ -23,7 +23,10 @@ def map_source(s):
         'Dane Watch 2': 'Watch',
         "Dane's Apple\xa0Watch": 'Watch',
         'Dane Watch 4': 'Watch',
+        'Dane Watch 5': 'Watch',
+        "Dane’s Apple Watch": 'Watch',
         'Dane_iP8': 'Phone',
+        'Dxi': 'Phone',
         'Health': 'HealthApp',
         'BP': 'BP',
         'OMRON connect': 'BP'
@@ -67,7 +70,9 @@ def read_xml(fn):
 
             if hr_pat.match(line):
                 m = hr_pat.match(line)
-                d = dict(type='hr', source=map_source(m.group(1)), start=m.group(2), value=m.group(3))
+                source = map_source(m.group(1))
+                assert source in ['Watch', 'Phone', 'HealthApp', 'BP'], 'Illegal source: {}'.format(line)
+                d = dict(type='hr', source=source, start=m.group(2), value=m.group(3))
                 print('{},{},{}'.format(d['source'], d['start'], d['value']), file=fhr)
                 d = None
             elif rhr_pat.match(line):
