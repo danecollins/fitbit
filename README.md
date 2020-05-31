@@ -1,6 +1,8 @@
 Fitbit Data Collection and Analysis
 ===================================
 
+## Fitbit.com Data
+
 ### Overview
 
 While the Fitbit site does provide some basis charting capabilities there
@@ -165,3 +167,33 @@ distance,steps,weight,active1,active2,active3,sedentary,calories,actcal,biking,d
 8.68,17724,157.6,63,53,122,1202,2706,1401,0.0,2015-01-03,1,2015,dane
 9.31,19018,157.6,103,133,98,1106,2848,1639,0.0,2015-01-04,1,2015,dane
 ```
+
+## Apple Watch Data
+
+Apple watch data can be imported via the Health App.  To get the data file go to the Health App and under the Me icon you can select **Export All Health Data**.  Note this can take several minutes.
+
+### Processing Health Data
+
+When the process is complete, it will prompt you for how to share the file.  The exported file is named **export.zip**.  When you de-compress the file it will create a folder named apple_health_export and in this folder is the **export.xml** file which contains the data we care about.
+
+The export.xml file contains a large variety of data and the **apple_xml_parse.py** script does not preserve all the data.
+
+````
+Usage: python apple_xml_parse.py <path to export.xml>
+````
+
+This will produce several files:
+
+* apple_data.txt: this is a json file with all the records for resting heart rate, blood pressure and cycling workouts that were exported.
+* daily_data.csv: this is the steps, floors and cycling data in a per-day format that can be loaded into the database
+* apple_hr_data.csv: this is the heart rate data from the watch.
+
+### Loading in Daily Data
+
+To load the daily data into the database use:
+
+````
+python awcsv_to_db.py
+````
+
+Currently the username is hard coded into this script which needs to be fixed.

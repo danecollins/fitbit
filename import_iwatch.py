@@ -3,8 +3,8 @@ Used to import step/distance data from Apple Watch
 
 Note the source data comes from an iPhone app named QS Access
      https://itunes.apple.com/gb/app/qs-access/id920297614?mt=8
-This app is free and is a great way to get the step/distance data off the phone (way better than
-exporting from Health app).
+
+or from apple_xml_parse.py.
 
 Script assumes that QS Access is saved as csv.
 Export should be done on a '1 Day' boundary rather than '1 Hour'
