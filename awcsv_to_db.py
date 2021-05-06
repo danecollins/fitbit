@@ -1,3 +1,5 @@
+""" Take the data generated from parsing the XML file and add it to the database
+"""
 import fbcache
 
 
