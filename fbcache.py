@@ -25,9 +25,6 @@ Export Data
     create_dataframe.py  # this is a separate script to eliminate the pandas requirement here
 
 """
-from __future__ import print_function
-from __future__ import unicode_literals
-
 import json
 import datetime
 import os
@@ -138,7 +135,7 @@ class FitbitCache(dict):
         x = []
         for k, v in self.items():
             # if the day has no steps, delete it
-            if v.get('steps', 0) < 1:
+            if (v.get('steps', 0) < 1) and (v.get('steps_aw', 0) < 1):
                 x.append(k)
         # can't remove in loop above since it would change the dict while iterating it
         for k in x:
