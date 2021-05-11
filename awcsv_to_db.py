@@ -14,7 +14,7 @@ m = {
     'calories': 'calories_aw'
 }
 
-with open('daily_data.csv') as fp:
+with open('apple_daily_data.csv') as fp:
     for line in fp.readlines():
         line = line.strip()
         day, k, v = line.split(',')
