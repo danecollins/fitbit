@@ -11,9 +11,6 @@ See cycling_data.csv as an example.
 
 Usage is: python add_csv_to_user.py user_name file_name.csv
 """
-
-from __future__ import print_function
-from __future__ import unicode_literals
 from fbcache import FitbitCache
 import datetime
 import sys
